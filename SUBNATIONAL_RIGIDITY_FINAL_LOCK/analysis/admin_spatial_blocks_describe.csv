@@ -1,0 +1,3 @@
+scheme,n_blocks,units_per_block_med,units_per_block_max,singleton_blocks,countries_crossed,median_diameter_deg
+block_grid10,68,3.5,37,20,19,5.538319807790783
+block_km,83,4.0,11,12,0,4.20245836822318

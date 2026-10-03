@@ -1,0 +1,18 @@
+dataset,unit,era,crops,observation_type,repeat_comparable,independence_of_vintages,notes
+SPAM2000 v3.0.7,5arcmin pixel,~2000,42,modelled (cross-entropy on subnat stats),yes (vs later),low—shared priors/suitability layers,already acquired; harvested area per crop+system
+SPAM2005 v3.2,5arcmin pixel,~2005,42,modelled,yes,low—same method family new stats+prior updates,already acquired
+SPAM2010 v2.0,5arcmin pixel,~2010,42,modelled,yes,low,already acquired; A/H/I/L/R/S technology split incl. irrigated area
+SPAM2017 v2.1,5arcmin pixel,~2017,42,modelled,Africa only,low,SSA-only release
+SPAM2020 v1.0,10km pixel,~2020,46,modelled (open code+inputs),yes vs earlier nominally,low—different crop list + inputs + method revision,source code and input statistics now open -> admin stats recoverable
+EarthStat / Monfreda MRF,5arcmin pixel,~2000,175,modelled on census,vs CROPGRIDS,low—CROPGRIDS explicitly builds on MRF,175 crops incl. perennials detail
+EarthStat 4-crop,5arcmin pixel,1995/2000/2005,4 (wheat maize rice soy),modelled,three vintages,moderate—same method repeated years,most temporally comparable grid available; only 4 crops
+CROPGRIDS,0.05deg,~2020,173,modelled hybrid of 27 datasets,vs MRF,low—seeded by MRF,new; would give 2000->2020 endpoints
+GSAP (SEI),admin-1/2,2010-2021 multi-year,~50,OBSERVED national census/survey,yes (annual/periodic stats),high—real statistics not modelled pixels,best outcome source at admin level; short window; boundary harmonization needed
+FAO Sub-National Agricultural Statistics,admin-1/2,various,FAO list,observed,partial,high,FAO catalog; coverage uneven
+Agro-MAPS,admin,various,many,observed statistics (SPAM inputs),multiple vintages embedded,high,the underlying observed inputs for SPAM vintages
+GMIA v5 (AQUASTAT),5arcmin pixel,~2005,area equipped for irrigation,observed-statistics disaggregated,single vintage,n/a,physically interpretable irrigation capital; groundwater/surface split
+MIRCA2000,5arcmin pixel,~2000,26 classes + monthly calendars,modelled,single,n/a,irrigated vs rainfed areas per crop; crop calendars (already acquired)
+GAEZ v4,0.05deg,2010/2070,~40 crops,modelled suitability,yes (scenario pairs),n/a,suitability-change mismatch option; limited crop coverage
+NASA POWER,0.5deg,1984-2020,monthly T2M/prec,observed-reanalysis,continuous,high,already acquired; crop-calendar seasonal aggregation machinery exists
+SPEIbase 2.11,0.5deg,monthly,drought index,observed,continuous,high,already acquired
+CDL/remote crop maps (US etc.),30m,2008-,US only,observed,yes,high,not global

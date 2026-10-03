@@ -1,0 +1,12 @@
+analysis_id,primary_or_secondary,N,countries,outcome,exposure,mismatch,model,interaction_estimate,CI_low,CI_high,p_value,direction,notes
+primary_OLS_grid10,primary,340,23,jsd,irr_share_base2000,mismatch_T,OLS+countryFE,-0.03771290381138198,-0.2512756734501212,0.07734793623140085,0.3843843843843844,-1.0,
+frac_logit_GLM,primary,340,23,jsd,irr_share_base2000,mismatch_T,fractional logit GLM+countryFE,-0.24863438334503796,,,,-1.0,point estimate only (link scale)
+OLS_grid15,primary,340,23,jsd,irr_share_base2000,mismatch_T,"OLS+countryFE, grid15 blocks",-0.03771290381138198,-0.25286029989178826,0.0929121263021587,0.3683683683683684,-1.0,
+OLS_kmeans,primary,340,23,jsd,irr_share_base2000,mismatch_T,"OLS+countryFE, within-country kmeans blocks",-0.03771290381138198,-0.21661619422848036,0.059401378479879426,0.4004004004004004,-1.0,
+OLS_irr_spam2010,primary,314,23,jsd,irr_share_spam,mismatch_T,OLS+countryFE,0.22345398933756871,0.004104451694654336,0.6745181737092423,0.04604604604604605,1.0,N=314 after dropping 26 null SPAM2010 shares
+OLS_NUTS2_sensitivity,primary,373,28,jsd,irr_share_base2000,mismatch_T,OLS+countryFE on V3 sample (incl 33 NUTS2),-0.028288209145483058,-0.2041546354431933,0.1367111100114389,0.5345345345345346,-1.0,N=373
+OLS_HHI_control,primary,340,23,jsd,irr_share_base2000,mismatch_T,OLS+countryFE+hhi_baseline,-0.04408428751983562,-0.2602059701191188,0.07833170953912776,0.34434434434434436,-1.0,
+OLS_area_precision,primary,340,23,jsd,irr_share_base2000,mismatch_T,OLS+countryFE+log(area_baseline),-0.058489286891950466,-0.29395239439075743,0.03408484545902714,0.2082082082082082,-1.0,
+OLS_perennial_strict,secondary,340,23,jsd,perennial_strict,mismatch_T,OLS+countryFE,0.4484073114782843,-0.5623125438712259,3.9332791614729694,0.43243243243243246,1.0,
+LOCO_range,primary,340,23,jsd,irr_share_base2000,mismatch_T,"OLS+countryFE, leave-one-country-out",,-0.1047210910219434,-0.013679386533054422,,,"beta3 range [-0.1047,-0.0137]"
+LORO_range,primary,340,23,jsd,irr_share_base2000,mismatch_T,"OLS+countryFE, leave-one-region-out",,-0.06552846947881906,-0.007364641813494635,,,"beta3 range [-0.0655,-0.0074]"

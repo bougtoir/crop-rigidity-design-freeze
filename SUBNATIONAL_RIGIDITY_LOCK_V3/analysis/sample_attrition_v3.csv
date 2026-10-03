@@ -1,0 +1,5 @@
+stage,n_units,n_countries,n_dropped,reason
+eligible_level,409,29,0,audit-eligible levels only
+dedup_shared_gadm41_gid,389,29,20,"same gadm41_gid = same admin-1 region; kept source with more units in country, tie->HV1"
+complete_exposure_outcome,374,29,15,"jsd, irr_share_base2000, mismatch_T all non-null"
+min2_units_per_country,373,28,1,countries with a single eligible unit excluded (no within-country variation)

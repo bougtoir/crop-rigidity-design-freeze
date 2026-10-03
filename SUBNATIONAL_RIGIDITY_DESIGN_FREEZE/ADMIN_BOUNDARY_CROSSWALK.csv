@@ -1,0 +1,1225 @@
+source,country,unit_id,unit_name,admin_level,year_min,year_max,n_years,boundary_status,status_note,gadm41_gid,gadm41_match
+eurostat_apro_cpshr_2026,AL,AL,AL,1,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AL,AL0,AL0,1,2014,2024,8,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,AL,AL01,AL01,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,AL,AL02,AL02,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,AL,AL03,AL03,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,AT,AT,AT,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT1,AT1,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT11,AT11,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT12,AT12,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT13,AT13,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT2,AT2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT21,AT21,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT22,AT22,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT3,AT3,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT31,AT31,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT32,AT32,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT33,AT33,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,AT,AT34,AT34,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BA,BA,BA,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE,BE,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE1,BE1,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE10,BE10,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE2,BE2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE21,BE21,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE22,BE22,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE23,BE23,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE24,BE24,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE25,BE25,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE3,BE3,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE31,BE31,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE32,BE32,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE33,BE33,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE34,BE34,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BE35,BE35,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BE,BEZ,BEZ,1,2015,2024,10,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,BE,BEZZ,BEZZ,2,2015,2024,10,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,BG,BG,BG,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BG,BG3,BG3,1,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BG,BG31,BG31,2,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BG,BG32,BG32,2,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BG,BG33,BG33,2,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BG,BG34,BG34,2,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BG,BG4,BG4,1,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BG,BG41,BG41,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,BG,BG42,BG42,2,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CH,CH,CH,1,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,CHE.4_1,True
+eurostat_apro_cpshr_2026,CH,CH0,CH0,1,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CH,CH01,CH01,2,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CH,CH02,CH02,2,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CH,CH03,CH03,2,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CH,CH04,CH04,2,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CH,CH05,CH05,2,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CH,CH06,CH06,2,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CH,CH07,CH07,2,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CY,CY,CY,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CY,CY0,CY0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CY,CY00,CY00,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CY,CYZ,CYZ,1,2004,2024,21,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CY,CYZZ,CYZZ,2,2004,2024,21,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ,CZ,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ0,CZ0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ01,CZ01,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ02,CZ02,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ03,CZ03,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ04,CZ04,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ05,CZ05,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ06,CZ06,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ07,CZ07,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZ08,CZ08,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZZ,CZZ,1,2000,2010,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,CZ,CZZZ,CZZZ,2,2000,2010,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE,DE,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,DEU.1_1,True
+eurostat_apro_cpshr_2026,DE,DE1,DE1,1,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE11,DE11,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE12,DE12,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE13,DE13,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE14,DE14,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE2,DE2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE21,DE21,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE22,DE22,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE23,DE23,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE24,DE24,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE25,DE25,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE26,DE26,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE27,DE27,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE3,DE3,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE30,DE30,2,2000,2004,5,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE4,DE4,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE5,DE5,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE50,DE50,2,2000,2004,5,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE6,DE6,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE60,DE60,2,2000,2004,5,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE7,DE7,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE71,DE71,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE72,DE72,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE73,DE73,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE8,DE8,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE80,DE80,2,2000,2004,5,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE9,DE9,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DE91,DE91,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE92,DE92,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE93,DE93,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DE94,DE94,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEA,DEA,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DEA1,DEA1,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEA2,DEA2,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEA3,DEA3,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEA4,DEA4,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEA5,DEA5,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEB,DEB,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DEB1,DEB1,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEB2,DEB2,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEB3,DEB3,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEC,DEC,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DEC0,DEC0,2,2000,2004,5,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DED,DED,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DED2,DED2,2,2002,2004,3,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEE,DEE,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DEF,DEF,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DEF0,DEF0,2,2000,2004,5,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DE,DEG,DEG,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DE,DEG0,DEG0,2,2000,2004,5,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,DK,DK,DK,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DK,DK0,DK0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DK,DK01,DK01,2,2006,2024,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DK,DK02,DK02,2,2006,2024,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DK,DK03,DK03,2,2006,2024,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DK,DK04,DK04,2,2006,2024,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,DK,DK05,DK05,2,2006,2024,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EE,EE,EE,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EE,EE0,EE0,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EE,EE00,EE00,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL,EL,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,GRC.7_1,True
+eurostat_apro_cpshr_2026,EL,EL1,EL1,1,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL11,EL11,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL12,EL12,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL13,EL13,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL14,EL14,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL2,EL2,1,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL21,EL21,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL22,EL22,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL23,EL23,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL24,EL24,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL25,EL25,2,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL3,EL3,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL30,EL30,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL4,EL4,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL41,EL41,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL41_42,EL41_42,1,2000,2014,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL42,EL42,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL43,EL43,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL5,EL5,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL51,EL51,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL52,EL52,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL53,EL53,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL54,EL54,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL6,EL6,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL61,EL61,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL62,EL62,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL63,EL63,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL64,EL64,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EL,EL65,EL65,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES,ES,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,ESP.13_1,True
+eurostat_apro_cpshr_2026,ES,ES1,ES1,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES11,ES11,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES12,ES12,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES13,ES13,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES2,ES2,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES21,ES21,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES22,ES22,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES23,ES23,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES24,ES24,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES3,ES3,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES30,ES30,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES4,ES4,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES41,ES41,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES42,ES42,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES43,ES43,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES5,ES5,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES51,ES51,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES52,ES52,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES53,ES53,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES6,ES6,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES61,ES61,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES62,ES62,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES63,ES63,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES64,ES64,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES7,ES7,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ES,ES70,ES70,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EU,EU,EU,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EU,EU27_2020,EU27_2020,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,EU,EU28,EU28,2,2000,2019,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI,FI,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,FIN.1_1,True
+eurostat_apro_cpshr_2026,FI,FI1,FI1,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI13,FI13,2,2000,2019,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI18,FI18,2,2000,2019,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI19,FI19,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI1A,FI1A,2,2000,2019,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI1B,FI1B,2,2011,2024,13,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI1C,FI1C,2,2011,2024,13,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI1D,FI1D,2,2011,2024,13,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI2,FI2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FI20,FI20,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FIZ,FIZ,1,2011,2019,7,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FI,FIZZ,FIZZ,2,2011,2019,7,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR,FR,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,FRA.2_1,True
+eurostat_apro_cpshr_2026,FR,FR1,FR1,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR10,FR10,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR2,FR2,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR21,FR21,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR22,FR22,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR23,FR23,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR24,FR24,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR25,FR25,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR26,FR26,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR3,FR3,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR30,FR30,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR4,FR4,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR41,FR41,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR42,FR42,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR43,FR43,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR5,FR5,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR51,FR51,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR52,FR52,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR53,FR53,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR6,FR6,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR61,FR61,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR62,FR62,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR63,FR63,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR7,FR7,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR71,FR71,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR72,FR72,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR8,FR8,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR81,FR81,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR82,FR82,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR83,FR83,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR9,FR9,1,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR91,FR91,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR92,FR92,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR93,FR93,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FR94,FR94,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRA,FRA,1,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,FRA.2_1,True
+eurostat_apro_cpshr_2026,FR,FRA1,FRA1,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRA2,FRA2,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRA3,FRA3,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRA4,FRA4,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRA5,FRA5,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRB,FRB,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRB0,FRB0,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRC,FRC,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRC1,FRC1,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRC2,FRC2,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRD,FRD,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRD1,FRD1,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRD2,FRD2,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRE,FRE,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRE1,FRE1,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRE2,FRE2,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRF,FRF,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRF1,FRF1,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRF2,FRF2,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRF3,FRF3,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRG,FRG,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRG0,FRG0,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRH,FRH,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRH0,FRH0,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRI,FRI,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRI1,FRI1,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRI2,FRI2,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRI3,FRI3,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRJ,FRJ,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRJ1,FRJ1,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRJ2,FRJ2,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRK,FRK,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRK1,FRK1,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRK2,FRK2,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRL,FRL,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRL0,FRL0,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRM,FRM,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRM0,FRM0,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRY,FRY,1,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRY1,FRY1,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRY2,FRY2,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRY3,FRY3,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRY4,FRY4,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRY5,FRY5,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRZ,FRZ,1,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,FR,FRZZ,FRZZ,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HR,HR,HR,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HR,HR0,HR0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HR,HR01,HR01,2,2005,2024,16,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HR,HR02,HR02,2,2005,2024,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HR,HR03,HR03,2,2005,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HR,HR04,HR04,2,2013,2024,10,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,HR,HR05,HR05,2,2016,2024,9,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,HR,HR06,HR06,2,2016,2024,9,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,HU,HU,HU,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU1,HU1,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU10,HU10,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU11,HU11,2,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,HU,HU12,HU12,2,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,HU,HU2,HU2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU21,HU21,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU22,HU22,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU23,HU23,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU3,HU3,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU31,HU31,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU32,HU32,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HU33,HU33,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,HU,HUZ,HUZ,1,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,HU,HUZZ,HUZZ,2,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IE,IE,IE,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IE,IE0,IE0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IE,IE01,IE01,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IE,IE02,IE02,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IE,IE04,IE04,2,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IE,IE05,IE05,2,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IE,IE06,IE06,2,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IE,IEZ,IEZ,1,2002,2024,21,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IE,IEZZ,IEZZ,2,2002,2024,21,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IS,IS,IS,1,2011,2024,13,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IS,IS0,IS0,1,2011,2024,13,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IS,IS00,IS00,2,2011,2024,10,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,IT,IT,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITC,ITC,1,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITC1,ITC1,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITC2,ITC2,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITC3,ITC3,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITC4,ITC4,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITD,ITD,1,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITD1,ITD1,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITD2,ITD2,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITD3,ITD3,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITD4,ITD4,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITD5,ITD5,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITE,ITE,1,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITE1,ITE1,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITE2,ITE2,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITE3,ITE3,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITE4,ITE4,2,2000,2012,11,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITF,ITF,1,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITF1,ITF1,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITF2,ITF2,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITF3,ITF3,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITF4,ITF4,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITF5,ITF5,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITF6,ITF6,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITG,ITG,1,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITG1,ITG1,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITG2,ITG2,2,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,IT,ITH,ITH,1,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITH1,ITH1,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITH2,ITH2,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITH3,ITH3,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITH4,ITH4,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITH5,ITH5,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITI,ITI,1,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITI1,ITI1,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITI2,ITI2,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITI3,ITI3,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,IT,ITI4,ITI4,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,LT,LT,LT,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,LT,LT0,LT0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,LT,LT01,LT01,2,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,LT,LT02,LT02,2,2013,2024,12,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,LU,LU,LU,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,LUX.3_1,True
+eurostat_apro_cpshr_2026,LU,LU0,LU0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,LU,LU00,LU00,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,LV,LV,LV,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,LV,LV0,LV0,1,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,LV,LV00,LV00,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,LV,LVZ,LVZ,1,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,LV,LVZZ,LVZZ,2,2000,2024,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ME,ME,ME,1,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ME,ME0,ME0,1,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,ME,ME00,ME00,2,2007,2024,13,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,MK,MK,MK,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,MK,MK0,MK0,1,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,MK,MK00,MK00,2,2000,2024,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,MT,MT,MT,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,MT,MT0,MT0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,MT,MT00,MT00,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL,NL,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL1,NL1,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL11,NL11,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL12,NL12,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL13,NL13,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL2,NL2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL21,NL21,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL22,NL22,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL23,NL23,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL3,NL3,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL31,NL31,2,2000,2022,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL32,NL32,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL33,NL33,2,2000,2022,23,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL34,NL34,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL35,NL35,2,2023,2024,2,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,NL,NL36,NL36,2,2023,2024,2,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,NL,NL4,NL4,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL41,NL41,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NL,NL42,NL42,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO,NO,1,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,NOR.9_1,True
+eurostat_apro_cpshr_2026,NO,NO0,NO0,1,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO01,NO01,2,2010,2019,10,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO02,NO02,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO03,NO03,2,2010,2019,10,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO04,NO04,2,2010,2019,10,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO05,NO05,2,2010,2019,10,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO06,NO06,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO07,NO07,2,2010,2024,15,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,NO,NO08,NO08,2,2016,2024,9,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,NO,NO09,NO09,2,2016,2024,9,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,NO,NO0A,NO0A,2,2016,2024,9,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,NO,NO0B,NO0B,2,2016,2024,9,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PL,PL,PL,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL1,PL1,1,2000,2018,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL11,PL11,2,2000,2018,16,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL12,PL12,2,2000,2018,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL2,PL2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL21,PL21,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL22,PL22,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL3,PL3,1,2000,2018,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL31,PL31,2,2000,2018,16,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL32,PL32,2,2000,2018,16,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL33,PL33,2,2000,2018,16,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL34,PL34,2,2000,2018,16,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL4,PL4,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL41,PL41,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL42,PL42,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL43,PL43,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL5,PL5,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL51,PL51,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL52,PL52,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL6,PL6,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL61,PL61,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL62,PL62,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL63,PL63,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL7,PL7,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL71,PL71,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL72,PL72,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL8,PL8,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL81,PL81,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL82,PL82,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL84,PL84,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PL,PL9,PL9,1,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PL,PL91,PL91,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PL,PL92,PL92,2,2014,2024,11,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PL,PLZ,PLZ,1,2014,2018,5,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PL,PLZZ,PLZZ,2,2014,2018,5,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PT,PT,PT,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT1,PT1,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT11,PT11,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT15,PT15,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT16,PT16,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT17,PT17,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT18,PT18,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT19,PT19,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PT,PT1A,PT1A,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PT,PT1B,PT1B,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PT,PT1C,PT1C,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PT,PT1D,PT1D,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,PT,PT2,PT2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT20,PT20,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT3,PT3,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PT30,PT30,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PTZ,PTZ,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,PT,PTZZ,PTZZ,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO,RO,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO1,RO1,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO11,RO11,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO12,RO12,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO2,RO2,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO21,RO21,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO22,RO22,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO3,RO3,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO31,RO31,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO32,RO32,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO4,RO4,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO41,RO41,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RO,RO42,RO42,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,RS,RS,RS,1,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,SRB.1_1,True
+eurostat_apro_cpshr_2026,RS,RS1,RS1,1,2017,2024,8,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,RS,RS11,RS11,2,2017,2024,8,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,RS,RS12,RS12,2,2017,2024,8,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,RS,RS2,RS2,1,2017,2024,8,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,RS,RS21,RS21,2,2017,2024,8,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,RS,RS22,RS22,2,2017,2024,8,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,SE,SE,SE,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE1,SE1,1,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE11,SE11,2,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE12,SE12,2,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE2,SE2,1,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE21,SE21,2,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE22,SE22,2,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE23,SE23,2,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE3,SE3,1,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE31,SE31,2,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE32,SE32,2,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SE33,SE33,2,2000,2024,24,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SE,SEZ,SEZ,1,2015,2024,10,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,SE,SEZZ,SEZZ,2,2015,2024,10,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,SI,SI,SI,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SI,SI0,SI0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SI,SI01,SI01,2,2007,2024,17,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SI,SI02,SI02,2,2007,2024,17,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SI,SI03,SI03,2,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SI,SI04,SI04,2,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SI,SIZ,SIZ,1,2015,2024,10,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,SI,SIZZ,SIZZ,2,2015,2024,10,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,SK,SK,SK,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,SVK.1_1,True
+eurostat_apro_cpshr_2026,SK,SK0,SK0,1,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SK,SK01,SK01,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SK,SK02,SK02,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SK,SK03,SK03,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SK,SK04,SK04,2,2000,2024,25,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,SK,SKZ,SKZ,1,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,SK,SKZZ,SKZZ,2,2021,2024,4,unresolved,code introduced at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,TR,TR,TR,1,2000,2024,22,unchanged,NUTS code present pre- and post-2013 revision,TUR.75_1,True
+eurostat_apro_cpshr_2026,TR,TR1,TR1,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR10,TR10,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR2,TR2,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR21,TR21,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR22,TR22,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR3,TR3,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR31,TR31,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR32,TR32,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR33,TR33,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR4,TR4,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR41,TR41,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR42,TR42,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR5,TR5,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR51,TR51,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR52,TR52,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR6,TR6,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR61,TR61,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR62,TR62,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR63,TR63,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR7,TR7,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR71,TR71,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR72,TR72,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR8,TR8,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR81,TR81,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR82,TR82,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR83,TR83,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR9,TR9,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TR90,TR90,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRA,TRA,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,TUR.75_1,True
+eurostat_apro_cpshr_2026,TR,TRA1,TRA1,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRA2,TRA2,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRB,TRB,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRB1,TRB1,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRB2,TRB2,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRC,TRC,1,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRC1,TRC1,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRC2,TRC2,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,TR,TRC3,TRC3,2,2000,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UK,UK,1,2000,2019,20,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKC,UKC,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKD,UKD,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKE,UKE,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKF,UKF,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKG,UKG,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKH,UKH,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKI,UKI,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKJ,UKJ,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKJ1,UKJ1,2,2007,2007,1,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,UK,UKK,UKK,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKK1,UKK1,2,2007,2007,1,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,UK,UKL,UKL,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKM,UKM,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKN,UKN,1,2000,2019,19,unchanged,NUTS code present pre- and post-2013 revision,,False
+eurostat_apro_cpshr_2026,UK,UKN0,UKN0,2,2000,2007,4,unresolved,code retired at NUTS 2013/2016 revision,,False
+eurostat_apro_cpshr_2026,XK,XK,XK,1,2007,2024,18,unchanged,NUTS code present pre- and post-2013 revision,,False
+fao_subnational_2024,Burkina Faso,GADM:BFA.10_1,Nord,1,1995,2018,24,unchanged,native GADM code,BFA.10_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.11_1,Plateau Central,1,1995,2018,24,unchanged,native GADM code,BFA.11_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.12_1,Sahel,1,1995,2018,24,unchanged,native GADM code,BFA.12_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.13_1,Sud Ouest,1,1995,2018,24,unchanged,native GADM code,BFA.13_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.1_1,Boucle Du Mouhoun,1,1995,2018,24,unchanged,native GADM code,BFA.1_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.2_1,Cascades,1,1995,2018,24,unchanged,native GADM code,BFA.2_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.3_1,Centre Est,1,1995,2018,24,unchanged,native GADM code,BFA.3_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.4_1,Centre Nord,1,1995,2018,24,unchanged,native GADM code,BFA.4_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.5_1,Centre Ouest,1,1995,2018,24,unchanged,native GADM code,BFA.5_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.6_1,Centre Sud,1,1995,2018,24,unchanged,native GADM code,BFA.6_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.7_1,Centre,1,1995,2018,24,unchanged,native GADM code,BFA.7_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.8_1,Est,1,1995,2018,24,unchanged,native GADM code,BFA.8_1,True
+fao_subnational_2024,Burkina Faso,GADM:BFA.9_1,Hauts Bassins,1,1995,2018,24,unchanged,native GADM code,BFA.9_1,True
+fao_subnational_2024,El Salvador,GADM:nan,Region I,1,2010,2017,8,unchanged,GADM code present both vintages,,False
+fao_subnational_2024,El Salvador,GADM:nan,Region II,1,2010,2017,8,unchanged,GADM code present both vintages,,False
+fao_subnational_2024,El Salvador,GADM:nan,Region III,1,2010,2017,8,unchanged,GADM code present both vintages,,False
+fao_subnational_2024,El Salvador,GADM:nan,Region IV,1,2010,2017,8,unchanged,GADM code present both vintages,,False
+fao_subnational_2024,Ethiopia,GADM:ETH.10_1,SNNPR,1,2007,2018,12,unchanged,native GADM code,ETH.10_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.11_1,Tigray,1,2007,2018,12,unchanged,native GADM code,ETH.11_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.2_1,Afar,1,2007,2017,11,unchanged,native GADM code,ETH.2_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.3_1,Amhara,1,2007,2018,12,unchanged,native GADM code,ETH.3_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.4_1,Benishangul Gumuz,1,2007,2018,12,unchanged,native GADM code,ETH.4_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.5_1,Dire Dawa,1,2007,2018,12,unchanged,native GADM code,ETH.5_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.6_1,Gambela,1,2007,2017,11,unchanged,native GADM code,ETH.6_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.7_1,Harari,1,2007,2018,12,unchanged,native GADM code,ETH.7_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.8_1,Oromia,1,2007,2018,12,unchanged,native GADM code,ETH.8_1,True
+fao_subnational_2024,Ethiopia,GADM:ETH.9_1,Somali,1,2007,2017,11,unchanged,native GADM code,ETH.9_1,True
+fao_subnational_2024,Haiti,GADM:HTI.10_1,Sud,1,2014,2016,2,unchanged,native GADM code,HTI.10_1,True
+fao_subnational_2024,Haiti,GADM:HTI.1_1,Centre,1,2014,2016,2,unchanged,native GADM code,HTI.1_1,True
+fao_subnational_2024,Haiti,GADM:HTI.2_1,Grand Anse,1,2014,2016,2,unchanged,native GADM code,HTI.2_1,True
+fao_subnational_2024,Haiti,GADM:HTI.3_1,Artibonite,1,2014,2016,2,unchanged,native GADM code,HTI.3_1,True
+fao_subnational_2024,Haiti,GADM:HTI.4_1,Nippes,1,2014,2016,2,unchanged,native GADM code,HTI.4_1,True
+fao_subnational_2024,Haiti,GADM:HTI.5_1,Nord Est,1,2014,2016,2,unchanged,native GADM code,HTI.5_1,True
+fao_subnational_2024,Haiti,GADM:HTI.6_1,Nord Ouest,1,2014,2016,2,unchanged,native GADM code,HTI.6_1,True
+fao_subnational_2024,Haiti,GADM:HTI.7_1,Nord,1,2014,2016,2,unchanged,native GADM code,HTI.7_1,True
+fao_subnational_2024,Haiti,GADM:HTI.8_1,Ouest,1,2014,2016,2,unchanged,native GADM code,HTI.8_1,True
+fao_subnational_2024,Haiti,GADM:HTI.9_1,Sud Est,1,2014,2016,2,unchanged,native GADM code,HTI.9_1,True
+fao_subnational_2024,Haiti,GADM:nan,Autre Departement,1,2014,2016,2,unchanged,GADM code present both vintages,,False
+fao_subnational_2024,Indonesia,GADM:IDN.10_1,Jawa Tengah,1,1993,2019,27,unchanged,native GADM code,IDN.10_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.11_1,Jawa Timur,1,1993,2019,27,unchanged,native GADM code,IDN.11_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.12_1,Kalimantan Barat,1,1993,2019,27,unchanged,native GADM code,IDN.12_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.13_1,Kalimantan Selatan,1,1993,2019,27,unchanged,native GADM code,IDN.13_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.14_1,Kalimantan Tengah,1,1993,2019,27,unchanged,native GADM code,IDN.14_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.15_1,Kalimantan Timur,1,1993,2019,27,unchanged,native GADM code,IDN.15_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.16_1,Kepulauan Riau,1,2013,2019,7,unchanged,native GADM code,IDN.16_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.17_1,Lampung,1,1993,2019,27,unchanged,native GADM code,IDN.17_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.18_1,Maluku Utara,1,2003,2019,17,unchanged,native GADM code,IDN.18_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.19_1,Maluku,1,1993,2019,27,unchanged,native GADM code,IDN.19_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.1_1,Aceh,1,1993,2019,27,unchanged,native GADM code,IDN.1_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.20_1,Nusa Tenggara Barat,1,1993,2019,27,unchanged,native GADM code,IDN.20_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.21_1,Nusa Tenggara Timur,1,1993,2019,27,unchanged,native GADM code,IDN.21_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.22_1,Papua Barat,1,2005,2019,15,unchanged,native GADM code,IDN.22_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.23_1,Papua,1,1993,2019,27,unchanged,native GADM code,IDN.23_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.24_1,Riau,1,1993,2019,27,unchanged,native GADM code,IDN.24_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.25_1,Sulawesi Barat,1,2005,2019,15,unchanged,native GADM code,IDN.25_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.26_1,Sulawesi Selatan,1,1993,2019,27,unchanged,native GADM code,IDN.26_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.27_1,Sulawesi Tengah,1,1993,2019,27,unchanged,native GADM code,IDN.27_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.28_1,Sulawesi Tenggara,1,1993,2019,27,unchanged,native GADM code,IDN.28_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.29_1,Sulawesi Utara,1,1993,2019,27,unchanged,native GADM code,IDN.29_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.2_1,Bali,1,1993,2019,27,unchanged,native GADM code,IDN.2_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.30_1,Sumatera Barat,1,1993,2019,27,unchanged,native GADM code,IDN.30_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.31_1,Sumatera Selatan,1,1993,2019,27,unchanged,native GADM code,IDN.31_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.32_1,Sumatera Utara,1,1993,2019,27,unchanged,native GADM code,IDN.32_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.3_1,Kepulauan Bangka Belitung,1,2013,2019,7,unchanged,native GADM code,IDN.3_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.4_1,Banten,1,2001,2019,19,unchanged,native GADM code,IDN.4_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.5_1,Bengkulu,1,1993,2019,27,unchanged,native GADM code,IDN.5_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.6_1,Gorontalo,1,2001,2019,19,unchanged,native GADM code,IDN.6_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.7_1,Dki Jakarta,1,1993,2018,26,unchanged,native GADM code,IDN.7_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.8_1,Jambi,1,1993,2019,27,unchanged,native GADM code,IDN.8_1,True
+fao_subnational_2024,Indonesia,GADM:IDN.9_1,Jawa Barat,1,1993,2019,27,unchanged,native GADM code,IDN.9_1,True
+fao_subnational_2024,Indonesia,GADM:nan,Kalimantan Utara,1,2013,2019,7,unchanged,GADM code present both vintages,IDN.35_1,True
+fao_subnational_2024,Laos,GADM:LAO.10_1,Phongsaly,1,2009,2018,10,unchanged,native GADM code,LAO.10_1,True
+fao_subnational_2024,Laos,GADM:LAO.11_1,Saravane,1,2009,2018,10,unchanged,native GADM code,LAO.11_1,True
+fao_subnational_2024,Laos,GADM:LAO.12_1,Savannakhet,1,2009,2018,10,unchanged,native GADM code,LAO.12_1,True
+fao_subnational_2024,Laos,GADM:LAO.13_1,Vientiane Capital,1,2009,2018,10,unchanged,native GADM code,LAO.13_1,True
+fao_subnational_2024,Laos,GADM:LAO.14_1,Vientiane,1,2009,2018,10,unchanged,native GADM code,LAO.14_1,True
+fao_subnational_2024,Laos,GADM:LAO.15_1,Xayaboury,1,2009,2018,10,unchanged,native GADM code,LAO.15_1,True
+fao_subnational_2024,Laos,GADM:LAO.16_1,Xaysomboon,1,2014,2018,5,unchanged,native GADM code,LAO.16_1,True
+fao_subnational_2024,Laos,GADM:LAO.17_1,Sekong,1,2009,2018,10,unchanged,native GADM code,LAO.17_1,True
+fao_subnational_2024,Laos,GADM:LAO.18_1,Xiengkhuang,1,2009,2018,10,unchanged,native GADM code,LAO.18_1,True
+fao_subnational_2024,Laos,GADM:LAO.1_1,Attapeu,1,2009,2018,10,unchanged,native GADM code,LAO.1_1,True
+fao_subnational_2024,Laos,GADM:LAO.2_1,Bokeo,1,2009,2018,10,unchanged,native GADM code,LAO.2_1,True
+fao_subnational_2024,Laos,GADM:LAO.3_1,Borikhamxay,1,2009,2018,10,unchanged,native GADM code,LAO.3_1,True
+fao_subnational_2024,Laos,GADM:LAO.4_1,Champasack,1,2009,2018,10,unchanged,native GADM code,LAO.4_1,True
+fao_subnational_2024,Laos,GADM:LAO.5_1,Huaphanh,1,2009,2018,10,unchanged,native GADM code,LAO.5_1,True
+fao_subnational_2024,Laos,GADM:LAO.6_1,Khammuane,1,2009,2018,10,unchanged,native GADM code,LAO.6_1,True
+fao_subnational_2024,Laos,GADM:LAO.7_1,Luangnamtha,1,2009,2018,10,unchanged,native GADM code,LAO.7_1,True
+fao_subnational_2024,Laos,GADM:LAO.8_1,Luangprabang,1,2009,2018,10,unchanged,native GADM code,LAO.8_1,True
+fao_subnational_2024,Laos,GADM:LAO.9_1,Oudomxay,1,2009,2018,10,unchanged,native GADM code,LAO.9_1,True
+fao_subnational_2024,Pakistan,GADM:PAK.2_1,Balochistan,1,1947,2017,71,unchanged,native GADM code,PAK.2_1,True
+fao_subnational_2024,Pakistan,GADM:PAK.5_1,Khyber Pakhtoonkhaw,1,1947,2017,71,unchanged,native GADM code,PAK.5_1,True
+fao_subnational_2024,Pakistan,GADM:PAK.7_1,Punjab,1,1947,2017,71,unchanged,native GADM code,PAK.7_1,True
+fao_subnational_2024,Pakistan,GADM:PAK.8_1,Sindh,1,1947,2017,71,unchanged,native GADM code,PAK.8_1,True
+fao_subnational_2024,Senegal,GADM:SEN.11_1,Sedhiou,1,2010,2019,10,unchanged,native GADM code,SEN.11_1,True
+fao_subnational_2024,Senegal,GADM:SEN.12_1,Tambacounda,1,2009,2019,11,unchanged,native GADM code,SEN.12_1,True
+fao_subnational_2024,Senegal,GADM:SEN.14_1,Ziguinchor,1,2009,2019,11,unchanged,native GADM code,SEN.14_1,True
+fao_subnational_2024,Senegal,GADM:SEN.2_1,Diourbel,1,2009,2019,11,unchanged,native GADM code,SEN.2_1,True
+fao_subnational_2024,Senegal,GADM:SEN.4_1,Kaffrine,1,2010,2019,10,unchanged,native GADM code,SEN.4_1,True
+fao_subnational_2024,Senegal,GADM:SEN.5_1,Kaolack,1,2009,2019,11,unchanged,native GADM code,SEN.5_1,True
+fao_subnational_2024,Senegal,GADM:SEN.8_1,Louga,1,2009,2019,11,unchanged,native GADM code,SEN.8_1,True
+fao_subnational_2024,Yemen,GADM:YEM.10_1,Amran,1,2009,2019,11,unchanged,native GADM code,YEM.10_1,True
+fao_subnational_2024,Yemen,GADM:YEM.11_1,Dhamar,1,2009,2019,11,unchanged,native GADM code,YEM.11_1,True
+fao_subnational_2024,Yemen,GADM:YEM.12_1,Hadramout,1,2009,2019,11,unchanged,native GADM code,YEM.12_1,True
+fao_subnational_2024,Yemen,GADM:YEM.13_1,Hajjah,1,2009,2019,11,unchanged,native GADM code,YEM.13_1,True
+fao_subnational_2024,Yemen,GADM:YEM.14_1,Ibb,1,2009,2019,11,unchanged,native GADM code,YEM.14_1,True
+fao_subnational_2024,Yemen,GADM:YEM.15_1,Lahj,1,2009,2019,11,unchanged,native GADM code,YEM.15_1,True
+fao_subnational_2024,Yemen,GADM:YEM.16_1,Mareb,1,2009,2019,11,unchanged,native GADM code,YEM.16_1,True
+fao_subnational_2024,Yemen,GADM:YEM.17_1,Raimeh,1,2009,2019,11,unchanged,native GADM code,YEM.17_1,True
+fao_subnational_2024,Yemen,GADM:YEM.18_1,Sa'Adah,1,2009,2019,11,unchanged,native GADM code,YEM.18_1,True
+fao_subnational_2024,Yemen,GADM:YEM.19_1,Sana'a,1,2009,2019,11,unchanged,native GADM code,YEM.19_1,True
+fao_subnational_2024,Yemen,GADM:YEM.1_1,Aden,1,2009,2019,11,unchanged,native GADM code,YEM.1_1,True
+fao_subnational_2024,Yemen,GADM:YEM.20_1,Shabwah,1,2009,2019,11,unchanged,native GADM code,YEM.20_1,True
+fao_subnational_2024,Yemen,GADM:YEM.21_1,Taiz,1,2009,2019,11,unchanged,native GADM code,YEM.21_1,True
+fao_subnational_2024,Yemen,GADM:YEM.2_1,Abyan,1,2009,2019,11,unchanged,native GADM code,YEM.2_1,True
+fao_subnational_2024,Yemen,GADM:YEM.3_1,Al-Baida,1,2009,2019,11,unchanged,native GADM code,YEM.3_1,True
+fao_subnational_2024,Yemen,GADM:YEM.4_1,Al-Daleh,1,2009,2019,11,unchanged,native GADM code,YEM.4_1,True
+fao_subnational_2024,Yemen,GADM:YEM.5_1,Al-Hodeidah,1,2009,2019,11,unchanged,native GADM code,YEM.5_1,True
+fao_subnational_2024,Yemen,GADM:YEM.6_1,Al-Jawf,1,2009,2019,11,unchanged,native GADM code,YEM.6_1,True
+fao_subnational_2024,Yemen,GADM:YEM.7_1,Al-Maharah,1,2009,2019,11,unchanged,native GADM code,YEM.7_1,True
+fao_subnational_2024,Yemen,GADM:YEM.8_1,Al-Mahweet,1,2009,2019,11,unchanged,native GADM code,YEM.8_1,True
+fao_subnational_2024,Yemen,GADM:nan,Sana'a City,1,2009,2019,11,unchanged,GADM code present both vintages,,False
+fao_subnational_2024,Zimbabwe,GADM:ZWE.10_1,Midlands,1,2012,2015,2,unchanged,native GADM code,ZWE.10_1,True
+fao_subnational_2024,Zimbabwe,GADM:ZWE.3_1,Manicaland,1,2012,2015,2,unchanged,native GADM code,ZWE.3_1,True
+fao_subnational_2024,Zimbabwe,GADM:ZWE.4_1,Mashonaland Central,1,2012,2015,2,unchanged,native GADM code,ZWE.4_1,True
+fao_subnational_2024,Zimbabwe,GADM:ZWE.5_1,Mashonaland East,1,2012,2015,2,unchanged,native GADM code,ZWE.5_1,True
+fao_subnational_2024,Zimbabwe,GADM:ZWE.6_1,Mashonaland West,1,2012,2015,2,unchanged,native GADM code,ZWE.6_1,True
+fao_subnational_2024,Zimbabwe,GADM:ZWE.7_1,Masvingo,1,2012,2015,2,unchanged,native GADM code,ZWE.7_1,True
+fao_subnational_2024,Zimbabwe,GADM:ZWE.8_1,Matabeleland North,1,2012,2015,2,unchanged,native GADM code,ZWE.8_1,True
+fao_subnational_2024,Zimbabwe,GADM:ZWE.9_1,Matabeleland South,1,2012,2015,2,unchanged,native GADM code,ZWE.9_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Bengo,Bengo,1,1996,2016,21,unchanged,fnid stable identifier,AGO.1_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Benguela,Benguela,1,1996,2016,21,unchanged,fnid stable identifier,AGO.2_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Bie,Bie,1,1996,2016,21,unchanged,fnid stable identifier,AGO.3_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Cabinda,Cabinda,1,1996,2016,21,unchanged,fnid stable identifier,AGO.4_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Cunene,Cunene,1,1996,2016,21,unchanged,fnid stable identifier,AGO.8_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Huambo,Huambo,1,1996,2016,21,unchanged,fnid stable identifier,AGO.9_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Huila,Huila,1,1996,2016,21,unchanged,fnid stable identifier,AGO.10_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Kuando Kubango,Kuando Kubango,1,1996,2016,21,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Angola,HV1:AO:Kuanza Norte,Kuanza Norte,1,1996,2016,21,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Angola,HV1:AO:Kuanza Sul,Kuanza Sul,1,1996,2016,21,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Angola,HV1:AO:Luanda,Luanda,1,1996,2016,21,unchanged,fnid stable identifier,AGO.11_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Lunda Norte,Lunda Norte,1,1996,2016,21,unchanged,fnid stable identifier,AGO.12_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Lunda Sul,Lunda Sul,1,1996,2016,21,unchanged,fnid stable identifier,AGO.13_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Malanje,Malanje,1,1996,2016,21,unchanged,fnid stable identifier,AGO.14_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Moxico,Moxico,1,1996,2016,21,unchanged,fnid stable identifier,AGO.15_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Namibe,Namibe,1,1996,2016,21,unchanged,fnid stable identifier,AGO.16_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Uige,Uige,1,1996,2016,21,unchanged,fnid stable identifier,AGO.17_1,True
+harveststat_africa_v1.2,Angola,HV1:AO:Zaire,Zaire,1,1996,2016,21,unchanged,fnid stable identifier,AGO.18_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Alibori,Alibori,1,1995,2023,29,unchanged,fnid stable identifier,BEN.1_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Atacora,Atacora,1,1995,2023,29,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Benin,HV1:BJ:Atlantique,Atlantique,1,1995,2023,29,unchanged,fnid stable identifier,BEN.3_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Borgou,Borgou,1,1995,2023,29,unchanged,fnid stable identifier,BEN.4_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Collines,Collines,1,1995,2023,29,unchanged,fnid stable identifier,BEN.5_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Couffo,Couffo,1,1995,2023,29,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Benin,HV1:BJ:Donga,Donga,1,1995,2023,29,unchanged,fnid stable identifier,BEN.6_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Littoral,Littoral,1,1995,2021,24,unchanged,fnid stable identifier,BEN.8_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Mono,Mono,1,1995,2023,29,unchanged,fnid stable identifier,BEN.9_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Ouémé,Ouémé,1,1995,2023,29,unchanged,fnid stable identifier,BEN.10_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Plateau,Plateau,1,1995,2023,29,unchanged,fnid stable identifier,BEN.11_1,True
+harveststat_africa_v1.2,Benin,HV1:BJ:Zou,Zou,1,1995,2023,29,unchanged,fnid stable identifier,BEN.12_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Boucle du Mouhoun,Boucle du Mouhoun,1,1984,2023,40,unchanged,fnid stable identifier,BFA.1_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Cascades,Cascades,1,1984,2023,40,unchanged,fnid stable identifier,BFA.2_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Centre,Centre,1,1984,2023,40,unchanged,fnid stable identifier,BFA.7_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Centre-Est,Centre-Est,1,1984,2023,40,unchanged,fnid stable identifier,BFA.3_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Centre-Nord,Centre-Nord,1,1984,2023,40,unchanged,fnid stable identifier,BFA.4_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Centre-Ouest,Centre-Ouest,1,1984,2023,40,unchanged,fnid stable identifier,BFA.5_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Centre-Sud,Centre-Sud,1,1984,2023,40,unchanged,fnid stable identifier,BFA.6_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Est,Est,1,1984,2023,40,unchanged,fnid stable identifier,BFA.8_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Hauts-Bassins,Hauts-Bassins,1,1984,2023,40,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Nord,Nord,1,1985,2023,38,unchanged,fnid stable identifier,BFA.10_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Plateau-Central,Plateau-Central,1,1984,2023,40,unchanged,fnid stable identifier,BFA.11_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Sahel,Sahel,1,1984,2023,40,unchanged,fnid stable identifier,BFA.12_1,True
+harveststat_africa_v1.2,Burkina Faso,HV1:BF:Sud-Ouest,Sud-Ouest,1,1984,2023,40,unchanged,fnid stable identifier,BFA.13_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Bubanza,Bubanza,1,2012,2015,4,unchanged,fnid stable identifier,BDI.1_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Bujumbura Rural,Bujumbura Rural,1,2012,2015,4,unchanged,fnid stable identifier,BDI.3_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Bururi,Bururi,1,2012,2015,4,unchanged,fnid stable identifier,BDI.4_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Cankuzo,Cankuzo,1,2012,2015,4,unchanged,fnid stable identifier,BDI.5_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Cibitoke,Cibitoke,1,2012,2015,4,unchanged,fnid stable identifier,BDI.6_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Gitega,Gitega,1,2012,2015,4,unchanged,fnid stable identifier,BDI.7_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Karuzi,Karuzi,1,2012,2015,4,unchanged,fnid stable identifier,BDI.8_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Kayanza,Kayanza,1,2012,2015,4,unchanged,fnid stable identifier,BDI.9_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Kirundo,Kirundo,1,2012,2015,4,unchanged,fnid stable identifier,BDI.10_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Makamba,Makamba,1,2012,2015,4,unchanged,fnid stable identifier,BDI.11_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Muramvya,Muramvya,1,2012,2015,4,unchanged,fnid stable identifier,BDI.12_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Muyinga,Muyinga,1,2012,2015,4,unchanged,fnid stable identifier,BDI.13_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Mwaro,Mwaro,1,2012,2015,4,unchanged,fnid stable identifier,BDI.14_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Ngozi,Ngozi,1,2012,2015,4,unchanged,fnid stable identifier,BDI.15_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Rutana,Rutana,1,2012,2015,4,unchanged,fnid stable identifier,BDI.16_1,True
+harveststat_africa_v1.2,Burundi,HV1:BI:Ruyigi,Ruyigi,1,2012,2015,4,unchanged,fnid stable identifier,BDI.17_1,True
+harveststat_africa_v1.2,Cameroon,HV1:CM:Adamawa,Adamawa,1,1998,2008,11,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Cameroon,HV1:CM:Centre,Centre,1,1998,2008,11,unchanged,fnid stable identifier,CMR.2_1,True
+harveststat_africa_v1.2,Cameroon,HV1:CM:East,East,1,1998,2008,11,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Cameroon,HV1:CM:Far North,Far North,1,1998,2008,11,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Cameroon,HV1:CM:Littoral,Littoral,1,1998,2008,11,unchanged,fnid stable identifier,CMR.5_1,True
+harveststat_africa_v1.2,Cameroon,HV1:CM:North,North,1,1998,2008,11,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Cameroon,HV1:CM:Northwest,Northwest,1,1998,2008,11,unchanged,fnid stable identifier,CMR.3_1,True
+harveststat_africa_v1.2,Cameroon,HV1:CM:South,South,1,1998,2008,11,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Cameroon,HV1:CM:Southwest,Southwest,1,1998,2008,11,unchanged,fnid stable identifier,CMR.3_1,True
+harveststat_africa_v1.2,Cameroon,HV1:CM:West,West,1,1998,2008,11,unchanged,fnid stable identifier,CMR.3_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Bamingui-Bangoran,Bamingui-Bangoran,1,2014,2016,3,unchanged,fnid stable identifier,CAF.1_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Basse-Kotto,Basse-Kotto,1,2014,2016,3,unchanged,fnid stable identifier,CAF.3_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Haut-Mbomou,Haut-Mbomou,1,2014,2016,3,unchanged,fnid stable identifier,CAF.4_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Haute-Kotto,Haute-Kotto,1,2014,2016,3,unchanged,fnid stable identifier,CAF.5_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Kemo,Kemo,1,2014,2016,3,unchanged,fnid stable identifier,CAF.6_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Lobaye,Lobaye,1,2014,2016,3,unchanged,fnid stable identifier,CAF.7_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Mambere-Kadei,Mambere-Kadei,1,2014,2016,3,unchanged,fnid stable identifier,CAF.8_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Mbomou,Mbomou,1,2014,2016,3,unchanged,fnid stable identifier,CAF.9_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Nana-Grebizi,Nana-Grebizi,1,2014,2016,3,unchanged,fnid stable identifier,CAF.10_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Nana-Mambere,Nana-Mambere,1,2014,2016,3,unchanged,fnid stable identifier,CAF.11_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Ombella-Mpoko,Ombella-Mpoko,1,2014,2016,3,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Ouaka,Ouaka,1,2014,2016,3,unchanged,fnid stable identifier,CAF.13_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Ouham,Ouham,1,2014,2016,3,unchanged,fnid stable identifier,CAF.15_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Ouham-Pende,Ouham-Pende,1,2014,2016,3,unchanged,fnid stable identifier,CAF.14_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Sangha-Mbaere,Sangha-Mbaere,1,2014,2016,3,unchanged,fnid stable identifier,CAF.16_1,True
+harveststat_africa_v1.2,Central African Republic,HV1:CF:Vakaga,Vakaga,1,2014,2016,3,unchanged,fnid stable identifier,CAF.17_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Barh el Gazel,Barh el Gazel,1,1983,2017,32,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Chad,HV1:TD:Batha,Batha,1,1983,2017,32,unchanged,fnid stable identifier,TCD.2_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Chari-Baguirmi,Chari-Baguirmi,1,1983,2017,32,unchanged,fnid stable identifier,TCD.4_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Guera,Guera,1,1983,2017,32,unchanged,fnid stable identifier,TCD.7_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Hadjer-Lamis,Hadjer-Lamis,1,1983,2017,32,unchanged,fnid stable identifier,TCD.8_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Kanem,Kanem,1,1983,2017,32,unchanged,fnid stable identifier,TCD.9_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Lac,Lac,1,1985,2017,30,unchanged,fnid stable identifier,TCD.10_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Logone Occidental,Logone Occidental,1,1983,2017,32,unchanged,fnid stable identifier,TCD.11_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Logone Oriental,Logone Oriental,1,1983,2017,32,unchanged,fnid stable identifier,TCD.12_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Mandoul,Mandoul,1,1983,2017,32,unchanged,fnid stable identifier,TCD.13_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Mayo-Kebbi Est,Mayo-Kebbi Est,1,1983,2017,32,unchanged,fnid stable identifier,TCD.14_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Mayo-Kebbi Ouest,Mayo-Kebbi Ouest,1,1983,2017,32,unchanged,fnid stable identifier,TCD.15_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Moyen-Chari,Moyen-Chari,1,1983,2017,32,unchanged,fnid stable identifier,TCD.16_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Ouaddai,Ouaddai,1,1983,2017,32,unchanged,fnid stable identifier,TCD.17_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Salamat,Salamat,1,1983,2017,32,unchanged,fnid stable identifier,TCD.18_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Sila,Sila,1,1983,2017,32,unchanged,fnid stable identifier,TCD.19_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Tandjile,Tandjile,1,1983,2017,32,unchanged,fnid stable identifier,TCD.20_1,True
+harveststat_africa_v1.2,Chad,HV1:TD:Wadi Fira,Wadi Fira,1,1985,2017,30,unchanged,fnid stable identifier,TCD.23_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Bas-Uele,Bas-Uele,1,2013,2016,4,unchanged,fnid stable identifier,COD.1_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Equateur,Equateur,1,2013,2016,4,unchanged,fnid stable identifier,COD.2_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Haut-Katanga,Haut-Katanga,1,2013,2016,4,unchanged,fnid stable identifier,COD.3_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Haut-Lomami,Haut-Lomami,1,2013,2016,4,unchanged,fnid stable identifier,COD.4_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Haut-Uele,Haut-Uele,1,2013,2016,4,unchanged,fnid stable identifier,COD.5_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Kasai,Kasai,1,2013,2016,4,unchanged,fnid stable identifier,COD.9_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Kasai-Central,Kasai-Central,1,2013,2016,4,unchanged,fnid stable identifier,COD.7_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Kongo-Central,Kongo-Central,1,2013,2016,4,unchanged,fnid stable identifier,COD.11_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Kwango,Kwango,1,2013,2016,4,unchanged,fnid stable identifier,COD.12_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Kwilu,Kwilu,1,2013,2016,4,unchanged,fnid stable identifier,COD.13_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Lomami,Lomami,1,2013,2016,4,unchanged,fnid stable identifier,COD.14_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Lualaba,Lualaba,1,2013,2016,4,unchanged,fnid stable identifier,COD.15_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Mai-Ndombe,Mai-Ndombe,1,2013,2016,4,unchanged,fnid stable identifier,COD.16_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Maniema,Maniema,1,2013,2016,4,unchanged,fnid stable identifier,COD.17_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:North Kivu,North Kivu,1,2013,2016,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:North Ubangi,North Ubangi,1,2013,2016,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Sankuru,Sankuru,1,2013,2016,4,unchanged,fnid stable identifier,COD.21_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:South Kivu,South Kivu,1,2013,2016,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:South Ubangi,South Ubangi,1,2013,2016,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Tanganyika,Tanganyika,1,2013,2016,4,unchanged,fnid stable identifier,COD.24_1,True
+harveststat_africa_v1.2,"Congo, The Democratic Republic of the",HV1:CD:Tshopo,Tshopo,1,2013,2016,4,unchanged,fnid stable identifier,COD.25_1,True
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Afar,Afar,1,1997,2021,18,unchanged,fnid stable identifier,ETH.2_1,True
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Amhara,Amhara,1,1993,2021,24,unchanged,fnid stable identifier,ETH.3_1,True
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Benishangul Gumuz,Benishangul Gumuz,1,1997,2021,21,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Dire Dawa,Dire Dawa,1,1997,2022,25,unchanged,fnid stable identifier,ETH.5_1,True
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Gambela,Gambela,1,1997,2021,21,unchanged,fnid stable identifier,ETH.6_1,True
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Harari,Harari,1,1997,2022,25,unchanged,fnid stable identifier,ETH.7_1,True
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Oromia,Oromia,1,1997,2021,21,unchanged,fnid stable identifier,ETH.8_1,True
+harveststat_africa_v1.2,Ethiopia,HV1:ET:SNNPR,SNNPR,1,1995,2021,22,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Sidama,Sidama,1,1997,2021,21,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Somali,Somali,1,1997,2021,21,unchanged,fnid stable identifier,ETH.9_1,True
+harveststat_africa_v1.2,Ethiopia,HV1:ET:Tigray,Tigray,1,1997,2020,20,unchanged,fnid stable identifier,ETH.11_1,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Ahafo,Ahafo,1,1984,2022,27,unchanged,fnid stable identifier,GHA1_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Ashanti,Ashanti,1,1984,2022,27,unchanged,fnid stable identifier,GHA2_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Bono,Bono,1,1984,2022,27,unchanged,fnid stable identifier,GHA3_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Bono East,Bono East,1,1984,2022,27,unchanged,fnid stable identifier,GHA4_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Central,Central,1,1984,2022,27,unchanged,fnid stable identifier,GHA5_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Eastern,Eastern,1,1984,2022,27,unchanged,fnid stable identifier,GHA6_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Greater Accra,Greater Accra,1,1984,2022,27,unchanged,fnid stable identifier,GHA7_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:North East,North East,1,1984,2022,27,unchanged,fnid stable identifier,GHA8_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Northern,Northern,1,1984,2022,27,unchanged,fnid stable identifier,GHA9_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Oti,Oti,1,1984,2022,27,unchanged,fnid stable identifier,GHA10_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Savannah,Savannah,1,1984,2022,27,unchanged,fnid stable identifier,GHA11_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Upper East,Upper East,1,1984,2022,27,unchanged,fnid stable identifier,GHA12_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Upper West,Upper West,1,1984,2022,27,unchanged,fnid stable identifier,GHA13_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Volta,Volta,1,1984,2022,27,unchanged,fnid stable identifier,GHA14_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Western,Western,1,1984,2022,27,unchanged,fnid stable identifier,GHA15_2,True
+harveststat_africa_v1.2,Ghana,HV1:GH:Western North,Western North,1,1984,2022,27,unchanged,fnid stable identifier,GHA16_2,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Baringo,Baringo,1,1970,2024,55,unchanged,fnid stable identifier,KEN.1_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Bomet,Bomet,1,1971,2024,51,unchanged,fnid stable identifier,KEN.2_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Bungoma,Bungoma,1,1970,2024,55,unchanged,fnid stable identifier,KEN.3_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Busia,Busia,1,1970,2024,55,unchanged,fnid stable identifier,KEN.4_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Elgeyo-Marakwet,Elgeyo-Marakwet,1,1967,2024,58,unchanged,fnid stable identifier,KEN.5_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Embu,Embu,1,1970,2024,55,unchanged,fnid stable identifier,KEN.6_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Garissa,Garissa,1,1982,2024,43,unchanged,fnid stable identifier,KEN.7_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Homa Bay,Homa Bay,1,1967,2024,58,unchanged,fnid stable identifier,KEN.8_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Isiolo,Isiolo,1,1976,2024,49,unchanged,fnid stable identifier,KEN.9_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kajiado,Kajiado,1,1973,2024,52,unchanged,fnid stable identifier,KEN.10_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kakamega,Kakamega,1,1970,2024,55,unchanged,fnid stable identifier,KEN.11_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kericho,Kericho,1,1970,2024,55,unchanged,fnid stable identifier,KEN.12_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kiambu,Kiambu,1,1970,2024,55,unchanged,fnid stable identifier,KEN.13_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kilifi,Kilifi,1,1970,2024,53,unchanged,fnid stable identifier,KEN.14_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kirinyaga,Kirinyaga,1,1970,2024,55,unchanged,fnid stable identifier,KEN.15_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kisii,Kisii,1,1968,2024,57,unchanged,fnid stable identifier,KEN.16_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kisumu,Kisumu,1,1970,2024,55,unchanged,fnid stable identifier,KEN.17_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kitui,Kitui,1,1970,2024,55,unchanged,fnid stable identifier,KEN.18_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Kwale,Kwale,1,1970,2024,55,unchanged,fnid stable identifier,KEN.19_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Laikipia,Laikipia,1,1970,2024,55,unchanged,fnid stable identifier,KEN.20_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Lamu,Lamu,1,1970,2024,54,unchanged,fnid stable identifier,KEN.21_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Machakos,Machakos,1,1970,2024,55,unchanged,fnid stable identifier,KEN.22_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Makueni,Makueni,1,1970,2024,53,unchanged,fnid stable identifier,KEN.23_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Mandera,Mandera,1,1982,2024,43,unchanged,fnid stable identifier,KEN.24_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Marsabit,Marsabit,1,1976,2024,48,unchanged,fnid stable identifier,KEN.25_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Meru,Meru,1,1970,2024,55,unchanged,fnid stable identifier,KEN.26_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Migori,Migori,1,1970,2024,55,unchanged,fnid stable identifier,KEN.27_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Mombasa,Mombasa,1,1977,2024,48,unchanged,fnid stable identifier,KEN.28_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Murang'a,Murang'a,1,1970,2024,55,unchanged,fnid stable identifier,KEN.29_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Nairobi,Nairobi,1,1987,2024,26,unchanged,fnid stable identifier,KEN.30_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Nakuru,Nakuru,1,1970,2024,55,unchanged,fnid stable identifier,KEN.31_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Nandi,Nandi,1,1969,2024,56,unchanged,fnid stable identifier,KEN.32_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Narok,Narok,1,1966,2024,57,unchanged,fnid stable identifier,KEN.33_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Nyamira,Nyamira,1,1968,2024,55,unchanged,fnid stable identifier,KEN.34_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Nyandarua,Nyandarua,1,1970,2024,55,unchanged,fnid stable identifier,KEN.35_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Nyeri,Nyeri,1,1966,2024,59,unchanged,fnid stable identifier,KEN.36_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Samburu,Samburu,1,1968,2024,56,unchanged,fnid stable identifier,KEN.37_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Siaya,Siaya,1,1970,2024,55,unchanged,fnid stable identifier,KEN.38_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Taita Taveta,Taita Taveta,1,1976,2024,49,unchanged,fnid stable identifier,KEN.39_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Tana River,Tana River,1,1976,2024,49,unchanged,fnid stable identifier,KEN.40_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Tharaka Nithi,Tharaka Nithi,1,1970,2024,53,unchanged,fnid stable identifier,KEN.41_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Trans Nzoia,Trans Nzoia,1,1970,2024,55,unchanged,fnid stable identifier,KEN.42_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Turkana,Turkana,1,1980,2024,43,unchanged,fnid stable identifier,KEN.43_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Uasin Gishu,Uasin Gishu,1,1970,2024,55,unchanged,fnid stable identifier,KEN.44_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Vihiga,Vihiga,1,1970,2024,53,unchanged,fnid stable identifier,KEN.45_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:Wajir,Wajir,1,1982,2024,42,unchanged,fnid stable identifier,KEN.46_1,True
+harveststat_africa_v1.2,Kenya,HV1:KE:West Pokot,West Pokot,1,1967,2024,58,unchanged,fnid stable identifier,KEN.47_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Berea,Berea,1,1980,2023,44,unchanged,fnid stable identifier,LSO.1_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Butha-Buthe,Butha-Buthe,1,1980,2023,44,unchanged,fnid stable identifier,LSO.2_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Leribe,Leribe,1,1980,2023,44,unchanged,fnid stable identifier,LSO.3_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Mafeteng,Mafeteng,1,1980,2023,44,unchanged,fnid stable identifier,LSO.4_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Maseru,Maseru,1,1980,2023,44,unchanged,fnid stable identifier,LSO.5_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Mohale's Hoek,Mohale's Hoek,1,1980,2023,43,unchanged,fnid stable identifier,LSO.6_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Mokhotlong,Mokhotlong,1,1980,2023,40,unchanged,fnid stable identifier,LSO.7_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Qacha's Nek,Qacha's Nek,1,1980,2023,40,unchanged,fnid stable identifier,LSO.8_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Quthing,Quthing,1,1980,2023,40,unchanged,fnid stable identifier,LSO.9_1,True
+harveststat_africa_v1.2,Lesotho,HV1:LS:Thaba-Tseka,Thaba-Tseka,1,1980,2023,40,unchanged,fnid stable identifier,LSO.10_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Bomi,Bomi,1,1997,2011,5,unchanged,fnid stable identifier,LBR.1_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Bong,Bong,1,1997,2011,5,unchanged,fnid stable identifier,LBR.2_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Gbarpolu,Gbarpolu,1,1997,2011,5,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Liberia,HV1:LR:Grand Bassa,Grand Bassa,1,1997,2011,5,unchanged,fnid stable identifier,LBR.5_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Grand Cape Mount,Grand Cape Mount,1,1997,2011,5,unchanged,fnid stable identifier,LBR.4_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Grand Gedeh,Grand Gedeh,1,1997,2011,5,unchanged,fnid stable identifier,LBR.6_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Grand Kru,Grand Kru,1,1997,2011,5,unchanged,fnid stable identifier,LBR.7_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Lofa,Lofa,1,1997,2011,5,unchanged,fnid stable identifier,LBR.8_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Margibi,Margibi,1,1997,2011,5,unchanged,fnid stable identifier,LBR.9_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Maryland,Maryland,1,1997,2011,5,unchanged,fnid stable identifier,LBR.10_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Montserrado,Montserrado,1,1997,2011,5,unchanged,fnid stable identifier,LBR.11_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Nimba,Nimba,1,1997,2011,5,unchanged,fnid stable identifier,LBR.12_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:River Gee,River Gee,1,1997,2011,5,unchanged,fnid stable identifier,LBR.14_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Rivercess,Rivercess,1,1997,2011,5,unchanged,fnid stable identifier,LBR.13_1,True
+harveststat_africa_v1.2,Liberia,HV1:LR:Sinoe,Sinoe,1,1997,2011,5,unchanged,fnid stable identifier,LBR.15_1,True
+harveststat_africa_v1.2,Madagascar,HV1:MG:Antananarivo,Antananarivo,1,1989,2010,22,unchanged,fnid stable identifier,MDG.1_1,True
+harveststat_africa_v1.2,Madagascar,HV1:MG:Antsiranana,Antsiranana,1,1989,2010,22,unchanged,fnid stable identifier,MDG.2_1,True
+harveststat_africa_v1.2,Madagascar,HV1:MG:Fianarantsoa,Fianarantsoa,1,1989,2010,22,unchanged,fnid stable identifier,MDG.3_1,True
+harveststat_africa_v1.2,Madagascar,HV1:MG:Mahajanga,Mahajanga,1,1989,2010,22,unchanged,fnid stable identifier,MDG.4_1,True
+harveststat_africa_v1.2,Madagascar,HV1:MG:Toamasina,Toamasina,1,1989,2010,22,unchanged,fnid stable identifier,MDG.5_1,True
+harveststat_africa_v1.2,Madagascar,HV1:MG:Toliara,Toliara,1,1989,2010,22,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Malawi,HV1:MW:Central,Central,1,1982,2022,41,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Malawi,HV1:MW:Northern,Northern,1,1982,2022,41,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Malawi,HV1:MW:Southern,Southern,1,1982,2022,41,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Mali,HV1:ML:Bamako,Bamako,1,1974,2022,31,unchanged,fnid stable identifier,MLI.1_1,True
+harveststat_africa_v1.2,Mali,HV1:ML:Gao,Gao,1,1975,2022,44,unchanged,fnid stable identifier,MLI.2_1,True
+harveststat_africa_v1.2,Mali,HV1:ML:Kayes,Kayes,1,1974,2022,49,unchanged,fnid stable identifier,MLI.3_1,True
+harveststat_africa_v1.2,Mali,HV1:ML:Kidal,Kidal,1,2018,2019,2,unchanged,fnid stable identifier,MLI.4_1,True
+harveststat_africa_v1.2,Mali,HV1:ML:Koulikoro,Koulikoro,1,1974,2022,47,unchanged,fnid stable identifier,MLI.5_1,True
+harveststat_africa_v1.2,Mali,HV1:ML:Mopti,Mopti,1,1974,2022,48,unchanged,fnid stable identifier,MLI.6_1,True
+harveststat_africa_v1.2,Mali,HV1:ML:Segou,Segou,1,1974,2022,48,unchanged,fnid stable identifier,MLI.7_1,True
+harveststat_africa_v1.2,Mali,HV1:ML:Sikasso,Sikasso,1,1974,2022,49,unchanged,fnid stable identifier,MLI.8_1,True
+harveststat_africa_v1.2,Mali,HV1:ML:Tombouctou,Tombouctou,1,1983,2022,40,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Mauritania,HV1:MR:Adrar,Adrar,1,1998,2015,13,unchanged,fnid stable identifier,MRT.1_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Assaba,Assaba,1,1989,2016,24,unchanged,fnid stable identifier,MRT.2_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Brakna,Brakna,1,1989,2019,27,unchanged,fnid stable identifier,MRT.3_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Gorgol,Gorgol,1,1989,2019,27,unchanged,fnid stable identifier,MRT.5_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Guidimaka,Guidimaka,1,1989,2019,27,unchanged,fnid stable identifier,MRT.6_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Hodh ech Chargui,Hodh ech Chargui,1,1989,2016,24,unchanged,fnid stable identifier,MRT.7_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Hodh el Gharbi,Hodh el Gharbi,1,1989,2016,24,unchanged,fnid stable identifier,MRT.8_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Inchiri,Inchiri,1,2005,2015,6,unchanged,fnid stable identifier,MRT.9_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Tagant,Tagant,1,1992,2016,20,unchanged,fnid stable identifier,MRT.11_1,True
+harveststat_africa_v1.2,Mauritania,HV1:MR:Trarza,Trarza,1,1989,2019,27,unchanged,fnid stable identifier,MRT.13_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Cabo Delgado,Cabo Delgado,1,1998,2021,21,unchanged,fnid stable identifier,MOZ.1_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Gaza,Gaza,1,1998,2021,22,unchanged,fnid stable identifier,MOZ.2_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Inhambane,Inhambane,1,1998,2021,22,unchanged,fnid stable identifier,MOZ.3_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Manica,Manica,1,1998,2021,22,unchanged,fnid stable identifier,MOZ.4_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Maputo,Maputo,1,1998,2021,21,unchanged,fnid stable identifier,MOZ.6_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Nampula,Nampula,1,1998,2021,22,unchanged,fnid stable identifier,MOZ.7_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Niassa,Niassa,1,1998,2021,23,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Sofala,Sofala,1,1998,2021,22,unchanged,fnid stable identifier,MOZ.9_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Tete,Tete,1,1999,2021,22,unchanged,fnid stable identifier,MOZ.10_1,True
+harveststat_africa_v1.2,Mozambique,HV1:MZ:Zambezia,Zambezia,1,1998,2021,23,unchanged,fnid stable identifier,MOZ.11_1,True
+harveststat_africa_v1.2,Niger,HV1:NE:Agadez,Agadez,1,1980,2017,36,unchanged,fnid stable identifier,NER.1_1,True
+harveststat_africa_v1.2,Niger,HV1:NE:Diffa,Diffa,1,1980,2017,38,unchanged,fnid stable identifier,NER.2_1,True
+harveststat_africa_v1.2,Niger,HV1:NE:Dosso,Dosso,1,1980,2017,38,unchanged,fnid stable identifier,NER.3_1,True
+harveststat_africa_v1.2,Niger,HV1:NE:Maradi,Maradi,1,1980,2017,38,unchanged,fnid stable identifier,NER.4_1,True
+harveststat_africa_v1.2,Niger,HV1:NE:Tahoua,Tahoua,1,1980,2017,38,unchanged,fnid stable identifier,NER.6_1,True
+harveststat_africa_v1.2,Niger,HV1:NE:Tillaberi,Tillaberi,1,1980,2017,38,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Niger,HV1:NE:Zinder,Zinder,1,1980,2022,43,unchanged,fnid stable identifier,NER.8_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Abia,Abia,1,1999,2023,25,unchanged,fnid stable identifier,NGA.1_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Adamawa,Adamawa,1,1999,2023,25,unchanged,fnid stable identifier,NGA.2_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Akwa Ibom,Akwa Ibom,1,1999,2023,25,unchanged,fnid stable identifier,NGA.3_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Anambra,Anambra,1,1999,2023,25,unchanged,fnid stable identifier,NGA.4_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Bauchi,Bauchi,1,1999,2023,25,unchanged,fnid stable identifier,NGA.5_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Bayelsa,Bayelsa,1,1999,2023,25,unchanged,fnid stable identifier,NGA.6_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Benue,Benue,1,1999,2023,25,unchanged,fnid stable identifier,NGA.7_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Borno,Borno,1,1999,2023,25,unchanged,fnid stable identifier,NGA.8_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Cross River,Cross River,1,1999,2023,25,unchanged,fnid stable identifier,NGA.9_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Delta,Delta,1,1999,2023,25,unchanged,fnid stable identifier,NGA.10_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Ebonyi,Ebonyi,1,1999,2023,25,unchanged,fnid stable identifier,NGA.11_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Edo,Edo,1,1999,2023,25,unchanged,fnid stable identifier,NGA.12_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Ekiti,Ekiti,1,1999,2023,25,unchanged,fnid stable identifier,NGA.13_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Enugu,Enugu,1,1999,2023,25,unchanged,fnid stable identifier,NGA.14_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Federal Capital Territory,Federal Capital Territory,1,1999,2023,25,unchanged,fnid stable identifier,NGA.15_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Gombe,Gombe,1,1999,2023,25,unchanged,fnid stable identifier,NGA.16_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Imo,Imo,1,1999,2023,25,unchanged,fnid stable identifier,NGA.17_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Jigawa,Jigawa,1,1999,2023,25,unchanged,fnid stable identifier,NGA.18_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Kaduna,Kaduna,1,1999,2023,25,unchanged,fnid stable identifier,NGA.19_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Kano,Kano,1,1999,2023,25,unchanged,fnid stable identifier,NGA.20_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Katsina,Katsina,1,1999,2023,25,unchanged,fnid stable identifier,NGA.21_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Kebbi,Kebbi,1,1999,2023,25,unchanged,fnid stable identifier,NGA.22_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Kogi,Kogi,1,1999,2023,25,unchanged,fnid stable identifier,NGA.23_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Kwara,Kwara,1,1999,2023,25,unchanged,fnid stable identifier,NGA.24_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Lagos,Lagos,1,1999,2023,25,unchanged,fnid stable identifier,NGA.25_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Nasarawa,Nasarawa,1,1999,2023,25,unchanged,fnid stable identifier,NGA.26_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Niger,Niger,1,1999,2023,25,unchanged,fnid stable identifier,NGA.27_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Ogun,Ogun,1,1999,2023,25,unchanged,fnid stable identifier,NGA.28_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Ondo,Ondo,1,1999,2023,25,unchanged,fnid stable identifier,NGA.29_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Osun,Osun,1,1999,2023,25,unchanged,fnid stable identifier,NGA.30_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Oyo,Oyo,1,1999,2023,25,unchanged,fnid stable identifier,NGA.31_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Plateau,Plateau,1,1999,2023,25,unchanged,fnid stable identifier,NGA.32_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Rivers,Rivers,1,1999,2023,25,unchanged,fnid stable identifier,NGA.33_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Sokoto,Sokoto,1,1999,2023,25,unchanged,fnid stable identifier,NGA.34_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Taraba,Taraba,1,1999,2023,25,unchanged,fnid stable identifier,NGA.35_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Yobe,Yobe,1,1999,2023,25,unchanged,fnid stable identifier,NGA.36_1,True
+harveststat_africa_v1.2,Nigeria,HV1:NG:Zamfara,Zamfara,1,1999,2023,25,unchanged,fnid stable identifier,NGA.37_1,True
+harveststat_africa_v1.2,Rwanda,HV1:RW:Eastern,Eastern,1,2009,2017,7,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Rwanda,HV1:RW:Kigali,Kigali,1,2009,2017,7,unchanged,fnid stable identifier,RWA.5_1,True
+harveststat_africa_v1.2,Rwanda,HV1:RW:Northern,Northern,1,2009,2017,7,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Rwanda,HV1:RW:Southern,Southern,1,2009,2017,7,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Rwanda,HV1:RW:Western,Western,1,2009,2017,7,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Senegal,HV1:SN:Dakar,Dakar,1,1960,2015,55,unchanged,fnid stable identifier,SEN.1_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Diourbel,Diourbel,1,1960,2015,53,unchanged,fnid stable identifier,SEN.2_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Fatick,Fatick,1,1960,2015,53,unchanged,fnid stable identifier,SEN.3_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Kaffrine,Kaffrine,1,1960,2015,52,unchanged,fnid stable identifier,SEN.4_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Kaolack,Kaolack,1,1960,2015,56,unchanged,fnid stable identifier,SEN.5_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Kedougou,Kedougou,1,1960,2015,54,unchanged,fnid stable identifier,SEN.6_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Kolda,Kolda,1,1960,2015,56,unchanged,fnid stable identifier,SEN.7_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Louga,Louga,1,1960,2015,55,unchanged,fnid stable identifier,SEN.8_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Matam,Matam,1,1960,2015,53,unchanged,fnid stable identifier,SEN.9_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Saint-Louis,Saint-Louis,1,1960,2015,56,unchanged,fnid stable identifier,SEN.10_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Sedhiou,Sedhiou,1,1960,2015,56,unchanged,fnid stable identifier,SEN.11_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Tambacounda,Tambacounda,1,1960,2015,55,unchanged,fnid stable identifier,SEN.12_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Thies,Thies,1,1960,2015,56,unchanged,fnid stable identifier,SEN.13_1,True
+harveststat_africa_v1.2,Senegal,HV1:SN:Ziguinchor,Ziguinchor,1,1960,2015,56,unchanged,fnid stable identifier,SEN.14_1,True
+harveststat_africa_v1.2,Sierra Leone,HV1:SL:Eastern,Eastern,1,1986,2004,4,unchanged,fnid stable identifier,SLE.1_1,True
+harveststat_africa_v1.2,Sierra Leone,HV1:SL:Northern,Northern,1,1986,2004,4,unchanged,fnid stable identifier,SLE.2_1,True
+harveststat_africa_v1.2,Sierra Leone,HV1:SL:Southern,Southern,1,1986,2004,4,unchanged,fnid stable identifier,SLE.3_1,True
+harveststat_africa_v1.2,Sierra Leone,HV1:SL:Western Area,Western Area,1,2002,2004,3,unchanged,fnid stable identifier,SLE.4_1,True
+harveststat_africa_v1.2,Somalia,HV1:SO:Awdal,Awdal,1,1998,2025,28,unchanged,fnid stable identifier,SOM.1_1,True
+harveststat_africa_v1.2,Somalia,HV1:SO:Bakool,Bakool,1,1995,2025,31,unchanged,fnid stable identifier,SOM.2_1,True
+harveststat_africa_v1.2,Somalia,HV1:SO:Bay,Bay,1,1995,2025,31,unchanged,fnid stable identifier,SOM.5_1,True
+harveststat_africa_v1.2,Somalia,HV1:SO:Galgaduud,Galgaduud,1,2006,2025,18,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Somalia,HV1:SO:Gedo,Gedo,1,1995,2025,31,unchanged,fnid stable identifier,SOM.7_1,True
+harveststat_africa_v1.2,Somalia,HV1:SO:Hiiraan,Hiiraan,1,1995,2025,31,unchanged,fnid stable identifier,SOM.8_1,True
+harveststat_africa_v1.2,Somalia,HV1:SO:Lower Juba,Lower Juba,1,1995,2025,31,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Somalia,HV1:SO:Lower Shabelle,Lower Shabelle,1,1995,2025,31,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Somalia,HV1:SO:Middle Juba,Middle Juba,1,1995,2025,31,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Somalia,HV1:SO:Middle Shabelle,Middle Shabelle,1,1995,2025,31,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Somalia,HV1:SO:Mudug,Mudug,1,2009,2025,17,unchanged,fnid stable identifier,SOM.11_1,True
+harveststat_africa_v1.2,Somalia,HV1:SO:Togdheer,Togdheer,1,1999,2025,26,unchanged,fnid stable identifier,SOM.17_1,True
+harveststat_africa_v1.2,Somalia,HV1:SO:Woqooyi Galbeed,Woqooyi Galbeed,1,1998,2025,28,unchanged,fnid stable identifier,SOM.18_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:Eastern Cape,Eastern Cape,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.1_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:Free State,Free State,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.2_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:Gauteng,Gauteng,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.3_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:Kwazulu-Natal,Kwazulu-Natal,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.4_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:Limpopo,Limpopo,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.5_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:Mpumalanga,Mpumalanga,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.6_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:North West,North West,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.7_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:Northern Cape,Northern Cape,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.8_1,True
+harveststat_africa_v1.2,South Africa,HV1:ZA:Western Cape,Western Cape,1,1979,2025,47,unchanged,fnid stable identifier,ZAF.9_1,True
+harveststat_africa_v1.2,South Sudan,HV1:SS:Central Equatoria,Central Equatoria,1,2013,2022,9,unchanged,fnid stable identifier,SSD.1_1,True
+harveststat_africa_v1.2,South Sudan,HV1:SS:Eastern Equatoria,Eastern Equatoria,1,2013,2022,9,unchanged,fnid stable identifier,SSD.2_1,True
+harveststat_africa_v1.2,South Sudan,HV1:SS:Jonglei,Jonglei,1,2013,2022,9,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,South Sudan,HV1:SS:Lakes,Lakes,1,2013,2022,9,unchanged,fnid stable identifier,SSD.4_1,True
+harveststat_africa_v1.2,South Sudan,HV1:SS:Northern Bahr el Ghazal,Northern Bahr el Ghazal,1,2013,2022,9,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,South Sudan,HV1:SS:Unity,Unity,1,2013,2022,9,unchanged,fnid stable identifier,SSD.6_1,True
+harveststat_africa_v1.2,South Sudan,HV1:SS:Upper Nile,Upper Nile,1,1990,2022,29,unchanged,fnid stable identifier,SSD.7_1,True
+harveststat_africa_v1.2,South Sudan,HV1:SS:Warrap,Warrap,1,1975,2022,47,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,South Sudan,HV1:SS:Western Bahr el Ghazal,Western Bahr el Ghazal,1,2013,2022,9,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,South Sudan,HV1:SS:Western Equatoria,Western Equatoria,1,2013,2022,9,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Sudan,HV1:SD:Blue Nile,Blue Nile,1,1975,2023,45,unchanged,fnid stable identifier,SDN.3_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:Central Darfur,Central Darfur,1,1975,2023,49,unchanged,fnid stable identifier,SDN.4_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:East Darfur,East Darfur,1,1975,2023,49,unchanged,fnid stable identifier,SDN.5_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:Gedaref,Gedaref,1,1990,2023,34,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Sudan,HV1:SD:Gezira,Gezira,1,1975,2023,49,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Sudan,HV1:SD:Kassala,Kassala,1,1991,2023,33,unchanged,fnid stable identifier,SDN.6_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:Khartoum,Khartoum,1,1990,2023,29,unchanged,fnid stable identifier,SDN.7_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:North Darfur,North Darfur,1,1975,2023,49,unchanged,fnid stable identifier,SDN.8_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:North Kordofan,North Kordofan,1,1975,2023,49,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Sudan,HV1:SD:Northern,Northern,1,1975,2023,48,unchanged,fnid stable identifier,SDN.10_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:Red Sea,Red Sea,1,1991,2023,33,unchanged,fnid stable identifier,SDN.11_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:River Nile,River Nile,1,1975,2023,48,unchanged,fnid stable identifier,SDN.12_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:Sinnar,Sinnar,1,1975,2023,45,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Sudan,HV1:SD:South Darfur,South Darfur,1,1975,2023,49,unchanged,fnid stable identifier,SDN.14_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:South Kordofan,South Kordofan,1,1975,2023,49,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Sudan,HV1:SD:West Darfur,West Darfur,1,1975,2023,49,unchanged,fnid stable identifier,SDN.16_1,True
+harveststat_africa_v1.2,Sudan,HV1:SD:West Kordofan,West Kordofan,1,1975,2023,49,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Sudan,HV1:SD:White Nile,White Nile,1,1975,2023,49,unchanged,fnid stable identifier,SDN.18_1,True
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Arusha,Arusha,1,1990,2015,25,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Dar es Salaam,Dar es Salaam,1,1991,2015,25,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Dodoma,Dodoma,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Geita,Geita,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Iringa,Iringa,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Kagera,Kagera,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Katavi,Katavi,1,1990,2015,25,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Kigoma,Kigoma,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Kilimanjaro,Kilimanjaro,1,1990,2015,25,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Lindi,Lindi,1,1991,2015,23,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Manyara,Manyara,1,1990,2015,25,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Mara,Mara,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Mbeya,Mbeya,1,1990,2015,25,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Morogoro,Morogoro,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Mtwara,Mtwara,1,1991,2015,23,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Mwanza,Mwanza,1,1991,2015,23,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Njombe,Njombe,1,1990,2015,25,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Pemba North,Pemba North,1,2007,2015,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Pemba South,Pemba South,1,2007,2015,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Pwani,Pwani,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Rukwa,Rukwa,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Ruvuma,Ruvuma,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Shinyanga,Shinyanga,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Simiyu,Simiyu,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Singida,Singida,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Tabora,Tabora,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Tanga,Tanga,1,1991,2015,24,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Zanzibar Central/South,Zanzibar Central/South,1,2007,2015,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Zanzibar North,Zanzibar North,1,2007,2015,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,"Tanzania, United Republic of",HV1:TZ:Zanzibar Urban/West,Zanzibar Urban/West,1,2007,2015,4,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Togo,HV1:TG:Centrale,Centrale,1,1995,2015,21,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Togo,HV1:TG:Kara,Kara,1,1995,2015,19,unchanged,fnid stable identifier,TGO.2_1,True
+harveststat_africa_v1.2,Togo,HV1:TG:Maritime,Maritime,1,1995,2015,21,unchanged,fnid stable identifier,TGO.3_1,True
+harveststat_africa_v1.2,Togo,HV1:TG:Plateaux,Plateaux,1,1995,2015,21,unchanged,fnid stable identifier,TGO.4_1,True
+harveststat_africa_v1.2,Togo,HV1:TG:Savanes,Savanes,1,1995,2012,18,unchanged,fnid stable identifier,TGO.5_1,True
+harveststat_africa_v1.2,Uganda,HV1:UG:Central,Central,1,2008,2009,2,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Uganda,HV1:UG:Eastern,Eastern,1,2008,2009,2,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Uganda,HV1:UG:Northern,Northern,1,2008,2009,2,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Uganda,HV1:UG:Western,Western,1,2008,2009,2,unchanged,fnid stable identifier,,False
+harveststat_africa_v1.2,Zambia,HV1:ZM:Central,Central,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.1_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:Copperbelt,Copperbelt,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.2_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:Eastern,Eastern,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.3_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:Luapula,Luapula,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.4_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:Lusaka,Lusaka,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.5_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:Muchinga,Muchinga,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.6_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:North-Western,North-Western,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.7_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:Northern,Northern,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.8_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:Southern,Southern,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.9_1,True
+harveststat_africa_v1.2,Zambia,HV1:ZM:Western,Western,1,1979,2016,34,unchanged,fnid stable identifier,ZMB.10_1,True
+harveststat_africa_v1.2,Zimbabwe,HV1:ZW:Manicaland,Manicaland,1,1980,2022,40,unchanged,fnid stable identifier,ZWE.3_1,True
+harveststat_africa_v1.2,Zimbabwe,HV1:ZW:Mashonaland Central,Mashonaland Central,1,1980,2022,40,unchanged,fnid stable identifier,ZWE.4_1,True
+harveststat_africa_v1.2,Zimbabwe,HV1:ZW:Mashonaland East,Mashonaland East,1,1980,2022,40,unchanged,fnid stable identifier,ZWE.5_1,True
+harveststat_africa_v1.2,Zimbabwe,HV1:ZW:Mashonaland West,Mashonaland West,1,1980,2022,40,unchanged,fnid stable identifier,ZWE.6_1,True
+harveststat_africa_v1.2,Zimbabwe,HV1:ZW:Masvingo,Masvingo,1,1980,2022,40,unchanged,fnid stable identifier,ZWE.7_1,True
+harveststat_africa_v1.2,Zimbabwe,HV1:ZW:Matabeleland North,Matabeleland North,1,1980,2022,40,unchanged,fnid stable identifier,ZWE.8_1,True
+harveststat_africa_v1.2,Zimbabwe,HV1:ZW:Matabeleland South,Matabeleland South,1,1980,2022,40,unchanged,fnid stable identifier,ZWE.9_1,True
+harveststat_africa_v1.2,Zimbabwe,HV1:ZW:Midlands,Midlands,1,1980,2022,40,unchanged,fnid stable identifier,ZWE.10_1,True
+ibge_pam,Brazil,BR:Acre,Acre,1,2002,2016,2,unchanged,official state/province code stable,BRA.1_1,True
+ibge_pam,Brazil,BR:Alagoas,Alagoas,1,2002,2016,2,unchanged,official state/province code stable,BRA.2_1,True
+ibge_pam,Brazil,BR:Amapa,Amapa,1,2016,2016,1,unchanged,official state/province code stable,BRA.3_1,True
+ibge_pam,Brazil,BR:Amazonas,Amazonas,1,2002,2016,2,unchanged,official state/province code stable,BRA.4_1,True
+ibge_pam,Brazil,BR:Bahia,Bahia,1,2002,2016,2,unchanged,official state/province code stable,BRA.5_1,True
+ibge_pam,Brazil,BR:Ceara,Ceara,1,2016,2016,1,unchanged,official state/province code stable,BRA.6_1,True
+ibge_pam,Brazil,BR:Distrito Federal,Distrito Federal,1,2002,2016,2,unchanged,official state/province code stable,BRA.7_1,True
+ibge_pam,Brazil,BR:Espirito Santo,Espirito Santo,1,2016,2016,1,unchanged,official state/province code stable,BRA.8_1,True
+ibge_pam,Brazil,BR:Goias,Goias,1,2016,2016,1,unchanged,official state/province code stable,BRA.9_1,True
+ibge_pam,Brazil,BR:Maranhao,Maranhao,1,2016,2016,1,unchanged,official state/province code stable,BRA.10_1,True
+ibge_pam,Brazil,BR:Mato Grosso,Mato Grosso,1,2002,2016,2,unchanged,official state/province code stable,BRA.12_1,True
+ibge_pam,Brazil,BR:Mato Grosso do Sul,Mato Grosso do Sul,1,2002,2016,2,unchanged,official state/province code stable,BRA.11_1,True
+ibge_pam,Brazil,BR:Minas Gerais,Minas Gerais,1,2002,2016,2,unchanged,official state/province code stable,BRA.13_1,True
+ibge_pam,Brazil,BR:Para,Para,1,2016,2016,1,unchanged,official state/province code stable,BRA.14_1,True
+ibge_pam,Brazil,BR:Paraiba,Paraiba,1,2016,2016,1,unchanged,official state/province code stable,BRA.15_1,True
+ibge_pam,Brazil,BR:Parana,Parana,1,2016,2016,1,unchanged,official state/province code stable,BRA.16_1,True
+ibge_pam,Brazil,BR:Pernambuco,Pernambuco,1,2002,2016,2,unchanged,official state/province code stable,BRA.17_1,True
+ibge_pam,Brazil,BR:Piaui,Piaui,1,2016,2016,1,unchanged,official state/province code stable,BRA.18_1,True
+ibge_pam,Brazil,BR:Rio Grande do Norte,Rio Grande do Norte,1,2002,2016,2,unchanged,official state/province code stable,BRA.20_1,True
+ibge_pam,Brazil,BR:Rio Grande do Sul,Rio Grande do Sul,1,2002,2016,2,unchanged,official state/province code stable,BRA.21_1,True
+ibge_pam,Brazil,BR:Rio de Janeiro,Rio de Janeiro,1,2002,2016,2,unchanged,official state/province code stable,BRA.19_1,True
+ibge_pam,Brazil,BR:Rondonia,Rondonia,1,2002,2016,2,unchanged,official state/province code stable,BRA.22_1,True
+ibge_pam,Brazil,BR:Roraima,Roraima,1,2002,2016,2,unchanged,official state/province code stable,BRA.23_1,True
+ibge_pam,Brazil,BR:Santa Catarina,Santa Catarina,1,2002,2016,2,unchanged,official state/province code stable,BRA.24_1,True
+ibge_pam,Brazil,BR:Sao Paulo,Sao Paulo,1,2016,2016,1,unchanged,official state/province code stable,BRA.25_1,True
+ibge_pam,Brazil,BR:Sergipe,Sergipe,1,2002,2016,2,unchanged,official state/province code stable,BRA.26_1,True
+ibge_pam,Brazil,BR:Tocantins,Tocantins,1,2002,2016,2,unchanged,official state/province code stable,BRA.27_1,True
+statcan_32100359,Canada,CA:Alberta,Alberta,1,1908,2026,119,unchanged,official state/province code stable,CAN.1_1,True
+statcan_32100359,Canada,CA:British Columbia,British Columbia,1,1908,2026,119,unchanged,official state/province code stable,CAN.2_1,True
+statcan_32100359,Canada,CA:Manitoba,Manitoba,1,1908,2026,119,unchanged,official state/province code stable,CAN.3_1,True
+statcan_32100359,Canada,CA:New Brunswick,New Brunswick,1,1908,2026,119,unchanged,official state/province code stable,CAN.4_1,True
+statcan_32100359,Canada,CA:Newfoundland and Labrador,Newfoundland and Labrador,1,1908,2026,119,unchanged,official state/province code stable,CAN.5_1,True
+statcan_32100359,Canada,CA:Nova Scotia,Nova Scotia,1,1908,2026,119,unchanged,official state/province code stable,CAN.7_1,True
+statcan_32100359,Canada,CA:Ontario,Ontario,1,1908,2026,119,unchanged,official state/province code stable,CAN.9_1,True
+statcan_32100359,Canada,CA:Prince Edward Island,Prince Edward Island,1,1908,2026,119,unchanged,official state/province code stable,CAN.10_1,True
+statcan_32100359,Canada,CA:Quebec,Quebec,1,1908,2026,119,unchanged,official state/province code stable,CAN.11_1,True
+statcan_32100359,Canada,CA:Saskatchewan,Saskatchewan,1,1908,2026,119,unchanged,official state/province code stable,CAN.12_1,True
+usda_census_qs,United States,US:01,Alabama,1,2002,2022,2,unchanged,official state/province code stable,USA.1_1,True
+usda_census_qs,United States,US:02,Alaska,1,2002,2022,2,unchanged,official state/province code stable,USA.2_1,True
+usda_census_qs,United States,US:04,Arizona,1,2002,2022,2,unchanged,official state/province code stable,USA.3_1,True
+usda_census_qs,United States,US:05,Arkansas,1,2002,2022,2,unchanged,official state/province code stable,USA.4_1,True
+usda_census_qs,United States,US:06,California,1,2002,2022,2,unchanged,official state/province code stable,USA.5_1,True
+usda_census_qs,United States,US:08,Colorado,1,2002,2022,2,unchanged,official state/province code stable,USA.6_1,True
+usda_census_qs,United States,US:09,Connecticut,1,2002,2022,2,unchanged,official state/province code stable,USA.7_1,True
+usda_census_qs,United States,US:10,Delaware,1,2002,2022,2,unchanged,official state/province code stable,USA.8_1,True
+usda_census_qs,United States,US:12,Florida,1,2002,2022,2,unchanged,official state/province code stable,USA.10_1,True
+usda_census_qs,United States,US:13,Georgia,1,2002,2022,2,unchanged,official state/province code stable,USA.11_1,True
+usda_census_qs,United States,US:15,Hawaii,1,2002,2022,2,unchanged,official state/province code stable,USA.12_1,True
+usda_census_qs,United States,US:16,Idaho,1,2002,2022,2,unchanged,official state/province code stable,USA.13_1,True
+usda_census_qs,United States,US:17,Illinois,1,2002,2022,2,unchanged,official state/province code stable,USA.14_1,True
+usda_census_qs,United States,US:18,Indiana,1,2002,2022,2,unchanged,official state/province code stable,USA.15_1,True
+usda_census_qs,United States,US:19,Iowa,1,2002,2022,2,unchanged,official state/province code stable,USA.16_1,True
+usda_census_qs,United States,US:20,Kansas,1,2002,2022,2,unchanged,official state/province code stable,USA.17_1,True
+usda_census_qs,United States,US:21,Kentucky,1,2002,2022,2,unchanged,official state/province code stable,USA.18_1,True
+usda_census_qs,United States,US:22,Louisiana,1,2002,2022,2,unchanged,official state/province code stable,USA.19_1,True
+usda_census_qs,United States,US:23,Maine,1,2002,2022,2,unchanged,official state/province code stable,USA.20_1,True
+usda_census_qs,United States,US:24,Maryland,1,2002,2022,2,unchanged,official state/province code stable,USA.21_1,True
+usda_census_qs,United States,US:25,Massachusetts,1,2002,2022,2,unchanged,official state/province code stable,USA.22_1,True
+usda_census_qs,United States,US:26,Michigan,1,2002,2022,2,unchanged,official state/province code stable,USA.23_1,True
+usda_census_qs,United States,US:27,Minnesota,1,2002,2022,2,unchanged,official state/province code stable,USA.24_1,True
+usda_census_qs,United States,US:28,Mississippi,1,2002,2022,2,unchanged,official state/province code stable,USA.25_1,True
+usda_census_qs,United States,US:29,Missouri,1,2002,2022,2,unchanged,official state/province code stable,USA.26_1,True
+usda_census_qs,United States,US:30,Montana,1,2002,2022,2,unchanged,official state/province code stable,USA.27_1,True
+usda_census_qs,United States,US:31,Nebraska,1,2002,2022,2,unchanged,official state/province code stable,USA.28_1,True
+usda_census_qs,United States,US:32,Nevada,1,2002,2022,2,unchanged,official state/province code stable,USA.29_1,True
+usda_census_qs,United States,US:33,New Hampshire,1,2002,2022,2,unchanged,official state/province code stable,USA.30_1,True
+usda_census_qs,United States,US:34,New Jersey,1,2002,2022,2,unchanged,official state/province code stable,USA.31_1,True
+usda_census_qs,United States,US:35,New Mexico,1,2002,2022,2,unchanged,official state/province code stable,USA.32_1,True
+usda_census_qs,United States,US:36,New York,1,2002,2022,2,unchanged,official state/province code stable,USA.33_1,True
+usda_census_qs,United States,US:37,North Carolina,1,2002,2022,2,unchanged,official state/province code stable,USA.34_1,True
+usda_census_qs,United States,US:38,North Dakota,1,2002,2022,2,unchanged,official state/province code stable,USA.35_1,True
+usda_census_qs,United States,US:39,Ohio,1,2002,2022,2,unchanged,official state/province code stable,USA.36_1,True
+usda_census_qs,United States,US:40,Oklahoma,1,2002,2022,2,unchanged,official state/province code stable,USA.37_1,True
+usda_census_qs,United States,US:41,Oregon,1,2002,2022,2,unchanged,official state/province code stable,USA.38_1,True
+usda_census_qs,United States,US:42,Pennsylvania,1,2002,2022,2,unchanged,official state/province code stable,USA.39_1,True
+usda_census_qs,United States,US:44,Rhode Island,1,2002,2022,2,unchanged,official state/province code stable,USA.40_1,True
+usda_census_qs,United States,US:45,South Carolina,1,2002,2022,2,unchanged,official state/province code stable,USA.41_1,True
+usda_census_qs,United States,US:46,South Dakota,1,2002,2022,2,unchanged,official state/province code stable,USA.42_1,True
+usda_census_qs,United States,US:47,Tennessee,1,2002,2022,2,unchanged,official state/province code stable,USA.43_1,True
+usda_census_qs,United States,US:48,Texas,1,2002,2022,2,unchanged,official state/province code stable,USA.44_1,True
+usda_census_qs,United States,US:49,Utah,1,2002,2022,2,unchanged,official state/province code stable,USA.45_1,True
+usda_census_qs,United States,US:50,Vermont,1,2002,2022,2,unchanged,official state/province code stable,USA.46_1,True
+usda_census_qs,United States,US:51,Virginia,1,2002,2022,2,unchanged,official state/province code stable,USA.47_1,True
+usda_census_qs,United States,US:53,Washington,1,2002,2022,2,unchanged,official state/province code stable,USA.48_1,True
+usda_census_qs,United States,US:54,West Virginia,1,2002,2022,2,unchanged,official state/province code stable,USA.49_1,True
+usda_census_qs,United States,US:55,Wisconsin,1,2002,2022,2,unchanged,official state/province code stable,USA.50_1,True
+usda_census_qs,United States,US:56,Wyoming,1,2002,2022,2,unchanged,official state/province code stable,USA.51_1,True

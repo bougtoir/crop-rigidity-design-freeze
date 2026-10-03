@@ -1,0 +1,49 @@
+version: v3
+created_utc: '2026-10-03T17:20:00Z'
+scope_label: multi-region
+unit:
+  level: admin-1-equivalent (GADM ADM1 | HarvestStat admin_1 | Eurostat NUTS2)
+  n_units: 373
+  id_file: analysis/PRIMARY_SUBNATIONAL_SAMPLE_LOCKED.csv
+  id_file_sha256: f6b9ffcbb23346529e2ffaded8d87495b3d88cf92d5784e698be16b96d6cce49
+countries: ['Angola', 'Benin', 'Brazil', 'Burkina Faso', 'CH', 'Canada', 'Chad', 'EL', 'Ethiopia', 'Ghana', 'HR', 'IE', 'Indonesia', 'Lesotho', 'Malawi', 'Mali', 'Mauritania', 'Mozambique', 'Niger', 'Nigeria', 'PT', 'Pakistan', 'Senegal', 'South Africa', 'Sudan', 'Tanzania, United Republic of', 'United States', 'Zambia']
+countries_n: 28
+exposure_irrigation:
+  source: SPAM2000 v3.0.7 zonal irrigated-harvested / total-harvested share
+  column: irr_share_base2000
+  reference_year: ~2000 (pre-outcome)
+exposure_mismatch:
+  column: mismatch_T
+  definition: baseline-weighted |T_endline - T_baseline| over MIRCA2000 rainfed
+    crop-calendar months at unit centroid (NASA POWER monthly, deg C)
+outcome:
+  column: jsd
+  definition: Jensen-Shannon distance between baseline (~2002) and endline
+    (~2019) canonical crop-share vectors, PRIMARY set + other_remainder
+temporal_windows:
+  baseline: year nearest 2002 within [1998,2008]
+  endline: year nearest 2019 within [2013,2024]
+  min_gap_years: 8
+estimator: OLS with country fixed effects
+model: jsd ~ irr_share_base2000 + mismatch_T + irr_share_base2000:mismatch_T + C(country)
+inference:
+  method: geographic block bootstrap
+  block_scheme: 10deg x 10deg lat/lon grid (block_grid10), 67 blocks
+  sensitivity_schemes: [grid15, within-country kmeans ceil(n/6)]
+  B: 999
+  seed: 20261003
+alpha: 0.05 two-sided
+missingness: drop units missing jsd | irr_share_base2000 | mismatch_T; countries
+  with <2 surviving units excluded
+primary_contrast: coefficient on irr_share_base2000:mismatch_T (b3)
+secondary_hypotheses:
+  - mechanism-control model: + hhi_baseline
+  - precision model: + log area_baseline
+  - secondary exposure: perennial_strict
+robustness:
+  - fractional-logit GLM alternative family
+  - grid15 / kmeans block schemes
+  - SPAM2010 irrigation (robustness source)
+  - MIRCA2000 unit-level irrigation fallback
+blindness: v3 simulation outcome-blind; v2 class-B exposure disclosed in
+  04_BLINDNESS_AUDIT.md; real b3 never estimated prior to this lock

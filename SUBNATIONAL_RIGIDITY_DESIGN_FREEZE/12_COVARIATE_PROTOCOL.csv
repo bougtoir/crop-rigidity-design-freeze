@@ -1,0 +1,8 @@
+covariate,role,in_primary,notes
+country FE,confounder,yes,absorbs institutions/policy/measurement regime
+mismatch_T,exposure,yes,climate shift weighted by baseline calendar
+irr_share,exposure,yes,SPAM 2010 zonal share
+perennial_strict,exposure (secondary),yes,baseline woody share
+hhi_baseline,control/mechanism,yes,concentration control
+area_baseline,precision,yes,log used optional
+n_crops_b,precision,no,collinear with HHI

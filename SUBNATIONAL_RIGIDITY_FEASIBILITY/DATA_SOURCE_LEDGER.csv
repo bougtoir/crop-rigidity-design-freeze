@@ -1,0 +1,15 @@
+dataset,role_in_this_audit,status,location_or_url
+SPAM2005 v3.2 harvested-area geotiff,pilot vintage comparison (baseline),acquired-prior-phase,data/raw/mapspam/spam2005v3r2_global_harv_area.geotiff.zip
+SPAM2010 v2.0 harvested-area geotiff,pilot vintage comparison (later),acquired-prior-phase,data/raw/mapspam/spam2010v2r0_global_harv_area.geotiff.zip
+SPAM2000 v3.0.7,earliest footprint baseline,acquired-prior-phase,data/raw/mapspam/spam2000v3.0.7_global_harvested-area.geotiff.zip
+MIRCA2000 calendars+unit grid,seasonal mismatch machinery,acquired-prior-phase,data/raw/mirca/
+NASA POWER monthly parquets,climate fields,acquired-prior-phase,data/raw/power/
+SPEIbase 2.11,drought variant,acquired-prior-phase,data/raw/spei/
+GAEZ v4 suitability (limited crops),alt mismatch metric,acquired-prior-phase,data/raw/gaez/
+GMIA v5 (FAO AQUASTAT),irrigation fixed-capital exposure,audited-not-downloaded,https://www.fao.org/aquastat/en/geospatial-information/global-maps-irrigated-areas/latest-version/
+GSAP (SEI) subnational production DB,primary outcome stats candidate,audited-not-downloaded,https://www.sei.org/publications/global-subnational-agricultural-production-gsap-database/
+CROPGRIDS 2020,modelled endpoint candidate (flagged non-independent),audited-not-downloaded,https://data.apps.fao.org/catalog/dataset/cropgrids
+FAO Sub-National Agricultural Statistics,admin outcome stats,audited-not-downloaded,https://data.apps.fao.org/catalog/dataset/agricultural-production
+Agro-MAPS (FAO),SPAM input statistics,audited-not-downloaded,https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1026341/
+SPAM2020 open inputs+code,admin stats + pixel methodology,audited-not-downloaded,https://www.mapspam.info/data/
+EarthStat 4-crop 1995/2000/2005,most temporally comparable grid (4 crops),audited-not-downloaded,http://www.earthstat.org/

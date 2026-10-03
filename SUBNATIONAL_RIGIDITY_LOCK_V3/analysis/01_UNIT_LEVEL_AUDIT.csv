@@ -1,0 +1,462 @@
+unit_id,country,source,source_native_level,source_native_level_name,reference_admin_level,reference_geometry_id,parent_country,area_km2,has_geometry,harmonization_status
+BA,BA,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,BA,BA,,False,excluded_level
+BE,BE,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,BE,BE,,False,excluded_level
+BG,BG,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,BG,BG,,False,excluded_level
+CH,CH,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,CH,CH,508.0655507330221,True,excluded_level
+CH0,CH,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,CH0,CH,41056.437076179514,True,excluded_level
+CH01,CH,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,CH01,CH,8733.071314703884,True,eligible
+CH02,CH,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,CH02,CH,10129.983942972527,True,eligible
+CH03,CH,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,CH03,CH,1923.409200880472,True,eligible
+CH04,CH,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,CH04,CH,1762.5196850011266,True,eligible
+CH05,CH,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,CH05,CH,11349.9551956737,True,eligible
+CH06,CH,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,CH06,CH,4369.1597397851665,True,eligible
+CH07,CH,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,CH07,CH,2788.3379971626478,True,eligible
+CY,CY,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,CY,CY,,False,excluded_level
+CY0,CY,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,CY0,CY,9240.49672948611,True,excluded_level
+CY00,CY,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,CY00,CY,9240.49672948611,True,excluded_solo_country
+CZ,CZ,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,CZ,CZ,,False,excluded_level
+DE,DE,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,DE,DE,36071.781782976504,True,excluded_level
+EE,EE,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,EE,EE,,False,excluded_level
+EE0,EE,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,EE0,EE,45234.61113258779,True,excluded_level
+EE00,EE,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EE00,EE,45234.61113258779,True,excluded_solo_country
+EL,EL,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,EL,EL,29146.506802592357,True,excluded_level
+EL1,EL,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,EL1,EL,,False,excluded_level
+EL11,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL11,EL,,False,eligible
+EL12,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL12,EL,,False,eligible
+EL13,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL13,EL,,False,eligible
+EL14,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL14,EL,,False,eligible
+EL2,EL,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,EL2,EL,,False,excluded_level
+EL21,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL21,EL,,False,eligible
+EL22,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL22,EL,,False,eligible
+EL23,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL23,EL,,False,eligible
+EL24,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL24,EL,,False,eligible
+EL25,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL25,EL,,False,eligible
+EL3,EL,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,EL3,EL,4002.818034766981,True,excluded_level
+EL30,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL30,EL,4002.818034766981,True,eligible
+EL4,EL,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,EL4,EL,17118.04198230666,True,excluded_level
+EL41,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL41,EL,3592.1310581042153,True,eligible
+EL41_42,EL,eurostat_apro_cpshr_2026,merged,Eurostat merged vintage code,ADM1_equiv,EL41_42,EL,,False,excluded_level
+EL42,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL42,EL,5325.920624130937,True,eligible
+EL43,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL43,EL,8199.990300071511,True,eligible
+EL5,EL,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,EL5,EL,51608.49496942214,True,excluded_level
+EL51,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL51,EL,14019.225989559001,True,eligible
+EL52,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL52,EL,19084.006416639404,True,eligible
+EL53,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL53,EL,9393.810565283244,True,eligible
+EL54,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL54,EL,9111.451997940507,True,eligible
+EL6,EL,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,EL6,EL,58701.364590531426,True,excluded_level
+EL61,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL61,EL,14126.32009789279,True,eligible
+EL62,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL62,EL,2160.956819309598,True,eligible
+EL63,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL63,EL,11131.795334647297,True,eligible
+EL64,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL64,EL,15977.714769462526,True,eligible
+EL65,EL,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,EL65,EL,15304.577569219211,True,eligible
+FR,FR,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,FR,FR,48057.64018749505,True,excluded_level
+HR,HR,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,HR,HR,,False,excluded_level
+HR0,HR,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,HR0,HR,56589.10657921943,True,excluded_level
+HR02,HR,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,HR02,HR,23277.9486635767,True,eligible
+HR03,HR,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,HR03,HR,24474.706235637637,True,eligible
+IE,IE,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,IE,IE,,False,excluded_level
+IE0,IE,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,IE0,IE,69624.16310593102,True,excluded_level
+IE01,IE,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,IE01,IE,,False,eligible
+IE02,IE,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,IE02,IE,,False,eligible
+IT,IT,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,IT,IT,,False,excluded_level
+LT,LT,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,LT,LT,,False,excluded_level
+LT0,LT,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,LT0,LT,64585.49470796521,True,excluded_level
+LU,LU,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,LU,LU,907.3965797761182,True,excluded_level
+LU0,LU,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,LU0,LU,2627.8159373001404,True,excluded_level
+LU00,LU,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,LU00,LU,2627.8159373001404,True,excluded_solo_country
+ME,ME,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,ME,ME,,False,excluded_level
+ME00,ME,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,ME00,ME,13966.739751341855,True,excluded_solo_country
+MT,MT,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,MT,MT,,False,excluded_level
+MT0,MT,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,MT0,MT,275.4262686305327,True,excluded_level
+MT00,MT,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,MT00,MT,275.4262686305327,True,excluded_solo_country
+NL,NL,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,NL,NL,,False,excluded_level
+PL,PL,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,PL,PL,,False,excluded_level
+PT,PT,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,PT,PT,,False,excluded_level
+PT1,PT,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,PT1,PT,89261.24506825818,True,excluded_level
+PT11,PT,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,PT11,PT,21329.3502414076,True,eligible
+PT15,PT,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,PT15,PT,5048.4732268821745,True,eligible
+PT16,PT,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,PT16,PT,28002.842714586535,True,eligible
+PT17,PT,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,PT17,PT,3132.7387500386726,True,eligible
+PT18,PT,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,PT18,PT,31747.8401353432,True,eligible
+PT2,PT,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,PT2,PT,2364.442628168355,True,excluded_level
+PT20,PT,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,PT20,PT,2364.442628168355,True,eligible
+PT3,PT,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,PT3,PT,904.193015523882,True,excluded_level
+PT30,PT,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,PT30,PT,904.193015523882,True,eligible
+RO,RO,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,RO,RO,,False,excluded_level
+RS,RS,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,RS,RS,3670.279309813396,True,excluded_level
+SE,SE,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,SE,SE,,False,excluded_level
+SI,SI,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,SI,SI,,False,excluded_level
+SI0,SI,eurostat_apro_cpshr_2026,NUTS1,Eurostat NUTS1,ADM1_equiv,SI0,SI,20145.965210735492,True,excluded_level
+SI03,SI,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,SI03,SI,12305.1265382198,True,eligible
+SI04,SI,eurostat_apro_cpshr_2026,NUTS2,Eurostat NUTS2,ADM1_equiv,SI04,SI,7840.83867251569,True,eligible
+XK,XK,eurostat_apro_cpshr_2026,NUTS0,Eurostat country level,ADM1_equiv,XK,XK,,False,excluded_level
+GADM:BFA.10_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.10_1,Burkina Faso,16416.369866195106,True,eligible
+GADM:BFA.11_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.11_1,Burkina Faso,8603.40801977688,True,eligible
+GADM:BFA.12_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.12_1,Burkina Faso,36155.786111333655,True,eligible
+GADM:BFA.13_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.13_1,Burkina Faso,16419.853271836982,True,eligible
+GADM:BFA.1_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.1_1,Burkina Faso,34545.864720743346,True,eligible
+GADM:BFA.2_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.2_1,Burkina Faso,18573.93128402369,True,eligible
+GADM:BFA.3_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.3_1,Burkina Faso,14644.348194285463,True,eligible
+GADM:BFA.4_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.4_1,Burkina Faso,19669.501641034916,True,eligible
+GADM:BFA.5_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.5_1,Burkina Faso,21386.871114743564,True,eligible
+GADM:BFA.6_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.6_1,Burkina Faso,11475.821731844155,True,eligible
+GADM:BFA.7_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.7_1,Burkina Faso,2869.1891286967657,True,eligible
+GADM:BFA.8_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.8_1,Burkina Faso,46567.496515837,True,eligible
+GADM:BFA.9_1,Burkina Faso,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:BFA.9_1,Burkina Faso,25618.36597427514,True,eligible
+GADM:ETH.10_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.10_1,Ethiopia,108950.95769393769,True,eligible
+GADM:ETH.11_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.11_1,Ethiopia,52550.26696460809,True,eligible
+GADM:ETH.2_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.2_1,Ethiopia,94466.93387147793,True,eligible
+GADM:ETH.3_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.3_1,Ethiopia,155347.6191428458,True,eligible
+GADM:ETH.4_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.4_1,Ethiopia,50194.99425116882,True,eligible
+GADM:ETH.5_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.5_1,Ethiopia,1053.3153267173957,True,eligible
+GADM:ETH.6_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.6_1,Ethiopia,30628.070048109792,True,eligible
+GADM:ETH.7_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.7_1,Ethiopia,370.77580330443266,True,eligible
+GADM:ETH.8_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.8_1,Ethiopia,323035.2445209722,True,eligible
+GADM:ETH.9_1,Ethiopia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:ETH.9_1,Ethiopia,311883.7187510635,True,eligible
+GADM:IDN.10_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.10_1,Indonesia,34436.83300244871,True,eligible
+GADM:IDN.11_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.11_1,Indonesia,47996.284751694344,True,eligible
+GADM:IDN.12_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.12_1,Indonesia,146874.27810450335,True,eligible
+GADM:IDN.13_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.13_1,Indonesia,37372.8759312001,True,eligible
+GADM:IDN.14_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.14_1,Indonesia,153711.46811049464,True,eligible
+GADM:IDN.15_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.15_1,Indonesia,,False,eligible
+GADM:IDN.17_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.17_1,Indonesia,33487.289929486324,True,eligible
+GADM:IDN.18_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.18_1,Indonesia,31509.16302750519,True,eligible
+GADM:IDN.19_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.19_1,Indonesia,46347.88668723545,True,eligible
+GADM:IDN.1_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.1_1,Indonesia,56836.4877413674,True,eligible
+GADM:IDN.20_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.20_1,Indonesia,19670.437931850778,True,eligible
+GADM:IDN.21_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.21_1,Indonesia,46443.85667797129,True,eligible
+GADM:IDN.22_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.22_1,Indonesia,98522.98131271852,True,eligible
+GADM:IDN.23_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.23_1,Indonesia,313781.86405516264,True,eligible
+GADM:IDN.24_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.24_1,Indonesia,89880.51522055466,True,eligible
+GADM:IDN.25_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.25_1,Indonesia,16571.293598143428,True,eligible
+GADM:IDN.26_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.26_1,Indonesia,45475.189495636274,True,eligible
+GADM:IDN.27_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.27_1,Indonesia,61156.70462718089,True,eligible
+GADM:IDN.28_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.28_1,Indonesia,36631.090969288714,True,eligible
+GADM:IDN.29_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.29_1,Indonesia,14507.328600516174,True,eligible
+GADM:IDN.2_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.2_1,Indonesia,5590.635838922676,True,eligible
+GADM:IDN.30_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.30_1,Indonesia,42145.98385785423,True,eligible
+GADM:IDN.31_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.31_1,Indonesia,86991.18872822115,True,eligible
+GADM:IDN.32_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.32_1,Indonesia,72227.19784599313,True,eligible
+GADM:IDN.4_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.4_1,Indonesia,9352.236775587276,True,eligible
+GADM:IDN.5_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.5_1,Indonesia,19814.67958662509,True,eligible
+GADM:IDN.6_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.6_1,Indonesia,12041.804617733056,True,eligible
+GADM:IDN.7_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.7_1,Indonesia,653.5403278779636,True,eligible
+GADM:IDN.8_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.8_1,Indonesia,48963.34023297908,True,eligible
+GADM:IDN.9_1,Indonesia,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:IDN.9_1,Indonesia,37058.68337545838,True,eligible
+GADM:PAK.2_1,Pakistan,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:PAK.2_1,Pakistan,344513.8424669301,True,eligible
+GADM:PAK.5_1,Pakistan,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:PAK.5_1,Pakistan,75774.85867638317,True,eligible
+GADM:PAK.7_1,Pakistan,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:PAK.7_1,Pakistan,205741.44766097527,True,eligible
+GADM:PAK.8_1,Pakistan,fao_subnational_2024,ADM1,FAO subnational GADM code (_1 suffix),ADM1_equiv,GADM:PAK.8_1,Pakistan,140469.711010538,True,eligible
+HV1:AO:Benguela,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Benguela,Angola,39508.326494059635,True,eligible
+HV1:AO:Bie,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Bie,Angola,72047.80178112803,True,eligible
+HV1:AO:Cabinda,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Cabinda,Angola,7046.171352698282,True,eligible
+HV1:AO:Huambo,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Huambo,Angola,33134.3515004931,True,eligible
+HV1:AO:Huila,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Huila,Angola,78683.14772073957,True,eligible
+HV1:AO:Kuando Kubango,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Kuando Kubango,Angola,200088.71577396902,True,eligible
+HV1:AO:Kuanza Norte,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Kuanza Norte,Angola,20446.86331893581,True,eligible
+HV1:AO:Kuanza Sul,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Kuanza Sul,Angola,55603.66999396911,True,eligible
+HV1:AO:Luanda,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Luanda,Angola,2440.4199337181194,True,eligible
+HV1:AO:Lunda Norte,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Lunda Norte,Angola,107798.81865096408,True,eligible
+HV1:AO:Lunda Sul,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Lunda Sul,Angola,77902.76279842567,True,eligible
+HV1:AO:Malanje,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Malanje,Angola,82161.43464621542,True,eligible
+HV1:AO:Moxico,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Moxico,Angola,199416.353109879,True,eligible
+HV1:AO:Namibe,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Namibe,Angola,57906.5065403056,True,eligible
+HV1:AO:Uige,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Uige,Angola,62020.80561716187,True,eligible
+HV1:AO:Zaire,Angola,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:AO:Zaire,Angola,36581.64708109187,True,eligible
+HV1:BJ:Alibori,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Alibori,Benin,26859.307873909762,True,eligible
+HV1:BJ:Atacora,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Atacora,Benin,20796.315572860225,True,eligible
+HV1:BJ:Atlantique,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Atlantique,Benin,3181.813549026633,True,eligible
+HV1:BJ:Borgou,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Borgou,Benin,25650.218430301957,True,eligible
+HV1:BJ:Collines,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Collines,Benin,14023.377036271952,True,eligible
+HV1:BJ:Couffo,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Couffo,Benin,2488.583890938679,True,eligible
+HV1:BJ:Donga,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Donga,Benin,11138.211868962097,True,eligible
+HV1:BJ:Mono,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Mono,Benin,1578.3356164937095,True,eligible
+HV1:BJ:Ouémé,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Ouémé,Benin,1284.9751118495162,True,eligible
+HV1:BJ:Plateau,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Plateau,Benin,3319.2887655096583,True,eligible
+HV1:BJ:Zou,Benin,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BJ:Zou,Benin,5235.298999423154,True,eligible
+HV1:BF:Boucle du Mouhoun,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Boucle du Mouhoun,Burkina Faso,34545.864720743346,True,eligible
+HV1:BF:Cascades,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Cascades,Burkina Faso,18573.93128402369,True,eligible
+HV1:BF:Centre,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Centre,Burkina Faso,2869.1891286967657,True,eligible
+HV1:BF:Centre-Est,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Centre-Est,Burkina Faso,14644.348194285463,True,eligible
+HV1:BF:Centre-Nord,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Centre-Nord,Burkina Faso,19669.501641034916,True,eligible
+HV1:BF:Centre-Ouest,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Centre-Ouest,Burkina Faso,21386.871114743564,True,eligible
+HV1:BF:Centre-Sud,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Centre-Sud,Burkina Faso,11475.821731844155,True,eligible
+HV1:BF:Est,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Est,Burkina Faso,46567.496515837,True,eligible
+HV1:BF:Hauts-Bassins,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Hauts-Bassins,Burkina Faso,25412.227019150945,True,eligible
+HV1:BF:Nord,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Nord,Burkina Faso,16416.369866195106,True,eligible
+HV1:BF:Plateau-Central,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Plateau-Central,Burkina Faso,8603.40801977688,True,eligible
+HV1:BF:Sahel,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Sahel,Burkina Faso,36155.786111333655,True,eligible
+HV1:BF:Sud-Ouest,Burkina Faso,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:BF:Sud-Ouest,Burkina Faso,16419.853271836982,True,eligible
+HV1:TD:Barh el Gazel,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Barh el Gazel,Chad,56056.30647874861,True,eligible
+HV1:TD:Batha,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Batha,Chad,90407.34094039613,True,eligible
+HV1:TD:Chari-Baguirmi,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Chari-Baguirmi,Chad,46031.018259750825,True,eligible
+HV1:TD:Guera,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Guera,Chad,61037.5429647727,True,eligible
+HV1:TD:Hadjer-Lamis,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Hadjer-Lamis,Chad,30439.98491319496,True,eligible
+HV1:TD:Kanem,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Kanem,Chad,67670.57019378858,True,eligible
+HV1:TD:Lac,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Lac,Chad,19842.81793172501,True,eligible
+HV1:TD:Logone Occidental,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Logone Occidental,Chad,8807.209529566217,True,eligible
+HV1:TD:Logone Oriental,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Logone Oriental,Chad,23717.90094197069,True,eligible
+HV1:TD:Mandoul,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Mandoul,Chad,17444.198223691055,True,eligible
+HV1:TD:Mayo-Kebbi Est,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Mayo-Kebbi Est,Chad,18052.40280500985,True,eligible
+HV1:TD:Mayo-Kebbi Ouest,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Mayo-Kebbi Ouest,Chad,12537.724088950086,True,eligible
+HV1:TD:Moyen-Chari,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Moyen-Chari,Chad,41468.451350368894,True,eligible
+HV1:TD:Ouaddai,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Ouaddai,Chad,29754.708387053466,True,eligible
+HV1:TD:Salamat,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Salamat,Chad,67964.15742872148,True,eligible
+HV1:TD:Sila,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Sila,Chad,35703.91310984372,True,eligible
+HV1:TD:Tandjile,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Tandjile,Chad,17531.521236867953,True,eligible
+HV1:TD:Wadi Fira,Chad,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TD:Wadi Fira,Chad,54117.27654680929,True,eligible
+HV1:ET:Afar,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Afar,Ethiopia,94466.93387147793,True,eligible
+HV1:ET:Amhara,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Amhara,Ethiopia,155347.6191428458,True,eligible
+HV1:ET:Benishangul Gumuz,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Benishangul Gumuz,Ethiopia,50037.655123730976,True,eligible
+HV1:ET:Dire Dawa,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Dire Dawa,Ethiopia,1053.3153267173957,True,eligible
+HV1:ET:Gambela,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Gambela,Ethiopia,30628.070048109792,True,eligible
+HV1:ET:Harari,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Harari,Ethiopia,370.77580330443266,True,eligible
+HV1:ET:Oromia,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Oromia,Ethiopia,323035.2445209722,True,eligible
+HV1:ET:SNNPR,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:SNNPR,Ethiopia,101787.55523784524,True,eligible
+HV1:ET:Sidama,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Sidama,Ethiopia,6776.77734634701,True,eligible
+HV1:ET:Somali,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Somali,Ethiopia,311883.7187510635,True,eligible
+HV1:ET:Tigray,Ethiopia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ET:Tigray,Ethiopia,52550.26696460809,True,eligible
+HV1:GH:Ahafo,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Ahafo,Ghana,5194.793883739766,True,eligible
+HV1:GH:Ashanti,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Ashanti,Ghana,24379.630064762103,True,eligible
+HV1:GH:Bono,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Bono,Ghana,11648.155107181743,True,eligible
+HV1:GH:Bono East,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Bono East,Ghana,23257.28643239045,True,eligible
+HV1:GH:Central,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Central,Ghana,9663.730214716285,True,eligible
+HV1:GH:Eastern,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Eastern,Ghana,18964.28298458533,True,eligible
+HV1:GH:Greater Accra,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Greater Accra,Ghana,3699.137687641588,True,eligible
+HV1:GH:North East,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:North East,Ghana,9073.550360768593,True,eligible
+HV1:GH:Northern,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Northern,Ghana,24849.95697625204,True,eligible
+HV1:GH:Oti,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Oti,Ghana,11066.153161659891,True,eligible
+HV1:GH:Savannah,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Savannah,Ghana,35862.541698622575,True,eligible
+HV1:GH:Upper East,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Upper East,Ghana,8623.479741597559,True,eligible
+HV1:GH:Upper West,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Upper West,Ghana,19033.039989961442,True,eligible
+HV1:GH:Volta,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Volta,Ghana,9825.373192485462,True,eligible
+HV1:GH:Western,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Western,Ghana,14259.112202633536,True,eligible
+HV1:GH:Western North,Ghana,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:GH:Western North,Ghana,10073.881447364876,True,eligible
+HV1:KE:Nairobi,Kenya,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:KE:Nairobi,Kenya,712.2861036017919,True,excluded_solo_country
+HV1:LS:Berea,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Berea,Lesotho,1992.0531112628578,True,eligible
+HV1:LS:Butha-Buthe,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Butha-Buthe,Lesotho,1789.2408259388105,True,eligible
+HV1:LS:Leribe,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Leribe,Lesotho,2818.120084828196,True,eligible
+HV1:LS:Mafeteng,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Mafeteng,Lesotho,2650.3601711466004,True,eligible
+HV1:LS:Maseru,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Maseru,Lesotho,3767.9909081598767,True,eligible
+HV1:LS:Mohale's Hoek,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Mohale's Hoek,Lesotho,3439.597311838342,True,eligible
+HV1:LS:Mokhotlong,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Mokhotlong,Lesotho,4169.053996788996,True,eligible
+HV1:LS:Qacha's Nek,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Qacha's Nek,Lesotho,2122.6873943922087,True,eligible
+HV1:LS:Quthing,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Quthing,Lesotho,2964.5674986831996,True,eligible
+HV1:LS:Thaba-Tseka,Lesotho,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:LS:Thaba-Tseka,Lesotho,4831.602533256686,True,eligible
+HV1:MW:Central,Malawi,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MW:Central,Malawi,35684.68030270742,True,eligible
+HV1:MW:Northern,Malawi,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MW:Northern,Malawi,27112.91521565812,True,eligible
+HV1:MW:Southern,Malawi,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MW:Southern,Malawi,32906.82374501651,True,eligible
+HV1:ML:Gao,Mali,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ML:Gao,Mali,175885.62406801275,True,eligible
+HV1:ML:Kayes,Mali,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ML:Kayes,Mali,121818.3724570038,True,eligible
+HV1:ML:Koulikoro,Mali,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ML:Koulikoro,Mali,90843.30541530087,True,eligible
+HV1:ML:Mopti,Mali,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ML:Mopti,Mali,81412.5297570272,True,eligible
+HV1:ML:Segou,Mali,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ML:Segou,Mali,61520.20301305671,True,eligible
+HV1:ML:Sikasso,Mali,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ML:Sikasso,Mali,71380.15667604237,True,eligible
+HV1:ML:Tombouctou,Mali,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ML:Tombouctou,Mali,68606.47909954225,True,eligible
+HV1:MR:Assaba,Mauritania,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MR:Assaba,Mauritania,35877.929862444624,True,eligible
+HV1:MR:Hodh el Gharbi,Mauritania,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MR:Hodh el Gharbi,Mauritania,50273.85833642404,True,eligible
+HV1:MZ:Cabo Delgado,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Cabo Delgado,Mozambique,77773.75538589573,True,eligible
+HV1:MZ:Gaza,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Gaza,Mozambique,75458.8409892366,True,eligible
+HV1:MZ:Inhambane,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Inhambane,Mozambique,68708.09751861627,True,eligible
+HV1:MZ:Manica,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Manica,Mozambique,62504.71498677671,True,eligible
+HV1:MZ:Maputo,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Maputo,Mozambique,22903.402730957947,True,eligible
+HV1:MZ:Nampula,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Nampula,Mozambique,78163.94536358632,True,eligible
+HV1:MZ:Niassa,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Niassa,Mozambique,129303.34836614285,True,eligible
+HV1:MZ:Sofala,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Sofala,Mozambique,68072.00878256332,True,eligible
+HV1:MZ:Tete,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Tete,Mozambique,100969.6130963979,True,eligible
+HV1:MZ:Zambezia,Mozambique,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:MZ:Zambezia,Mozambique,102966.13481809868,True,eligible
+HV1:NE:Agadez,Niger,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NE:Agadez,Niger,623518.6095987672,True,eligible
+HV1:NE:Diffa,Niger,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NE:Diffa,Niger,146233.31616561284,True,eligible
+HV1:NE:Dosso,Niger,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NE:Dosso,Niger,31463.209951561585,True,eligible
+HV1:NE:Maradi,Niger,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NE:Maradi,Niger,39326.9203506133,True,eligible
+HV1:NE:Tahoua,Niger,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NE:Tahoua,Niger,106365.6171689133,True,eligible
+HV1:NE:Tillaberi,Niger,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NE:Tillaberi,Niger,90687.03851607446,True,eligible
+HV1:NE:Zinder,Niger,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NE:Zinder,Niger,145741.26511048453,True,eligible
+HV1:NG:Abia,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Abia,Nigeria,4724.002156652299,True,eligible
+HV1:NG:Adamawa,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Adamawa,Nigeria,34290.028725081356,True,eligible
+HV1:NG:Akwa Ibom,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Akwa Ibom,Nigeria,6735.922068233825,True,eligible
+HV1:NG:Anambra,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Anambra,Nigeria,4590.227772734146,True,eligible
+HV1:NG:Bauchi,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Bauchi,Nigeria,49060.428616567515,True,eligible
+HV1:NG:Bayelsa,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Bayelsa,Nigeria,9764.052902777117,True,eligible
+HV1:NG:Benue,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Benue,Nigeria,31324.974215448277,True,eligible
+HV1:NG:Borno,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Borno,Nigeria,71407.47385008502,True,eligible
+HV1:NG:Cross River,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Cross River,Nigeria,21302.910640198945,True,eligible
+HV1:NG:Delta,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Delta,Nigeria,16624.08646582256,True,eligible
+HV1:NG:Ebonyi,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Ebonyi,Nigeria,6188.82952430088,True,eligible
+HV1:NG:Edo,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Edo,Nigeria,19589.303665227344,True,eligible
+HV1:NG:Ekiti,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Ekiti,Nigeria,5236.615965655568,True,eligible
+HV1:NG:Enugu,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Enugu,Nigeria,7702.544708067837,True,eligible
+HV1:NG:Federal Capital Territory,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Federal Capital Territory,Nigeria,7351.3932249189875,True,eligible
+HV1:NG:Gombe,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Gombe,Nigeria,18190.43041435022,True,eligible
+HV1:NG:Imo,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Imo,Nigeria,5310.196246994374,True,eligible
+HV1:NG:Jigawa,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Jigawa,Nigeria,24000.813123388176,True,eligible
+HV1:NG:Kaduna,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Kaduna,Nigeria,44314.98738267003,True,eligible
+HV1:NG:Kano,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Kano,Nigeria,20083.12844485533,True,eligible
+HV1:NG:Katsina,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Katsina,Nigeria,23705.000613307468,True,eligible
+HV1:NG:Kebbi,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Kebbi,Nigeria,35970.614598385,True,eligible
+HV1:NG:Kogi,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Kogi,Nigeria,28941.788678623678,True,eligible
+HV1:NG:Kwara,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Kwara,Nigeria,35421.716992395326,True,eligible
+HV1:NG:Lagos,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Lagos,Nigeria,3784.4326266373287,True,eligible
+HV1:NG:Nasarawa,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Nasarawa,Nigeria,26326.6476804538,True,eligible
+HV1:NG:Niger,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Niger,Nigeria,71017.75847190132,True,eligible
+HV1:NG:Ogun,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Ogun,Nigeria,16092.722023299628,True,eligible
+HV1:NG:Ondo,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Ondo,Nigeria,14526.96402913555,True,eligible
+HV1:NG:Osun,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Osun,Nigeria,9189.913338898721,True,eligible
+HV1:NG:Oyo,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Oyo,Nigeria,27398.661628170208,True,eligible
+HV1:NG:Plateau,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Plateau,Nigeria,27579.703850113907,True,eligible
+HV1:NG:Rivers,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Rivers,Nigeria,8534.50044884954,True,eligible
+HV1:NG:Sokoto,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Sokoto,Nigeria,31741.374202294348,True,eligible
+HV1:NG:Taraba,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Taraba,Nigeria,60294.5714154883,True,eligible
+HV1:NG:Yobe,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Yobe,Nigeria,45566.51477218197,True,eligible
+HV1:NG:Zamfara,Nigeria,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:NG:Zamfara,Nigeria,34524.853361990106,True,eligible
+HV1:SN:Dakar,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Dakar,Senegal,565.8995859166893,True,eligible
+HV1:SN:Diourbel,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Diourbel,Senegal,4862.481065270205,True,eligible
+HV1:SN:Fatick,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Fatick,Senegal,6849.922289453106,True,eligible
+HV1:SN:Kaolack,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Kaolack,Senegal,5410.242609317102,True,eligible
+HV1:SN:Kedougou,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Kedougou,Senegal,16923.988335564027,True,eligible
+HV1:SN:Kolda,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Kolda,Senegal,13812.655016058512,True,eligible
+HV1:SN:Louga,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Louga,Senegal,24675.09233460393,True,eligible
+HV1:SN:Matam,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Matam,Senegal,27994.019204353488,True,eligible
+HV1:SN:Saint-Louis,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Saint-Louis,Senegal,20270.191342410348,True,eligible
+HV1:SN:Tambacounda,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Tambacounda,Senegal,42851.96742990762,True,eligible
+HV1:SN:Thies,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Thies,Senegal,6639.225638974245,True,eligible
+HV1:SN:Ziguinchor,Senegal,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SN:Ziguinchor,Senegal,7355.405914589232,True,eligible
+HV1:SO:Lower Juba,Somalia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SO:Lower Juba,Somalia,47806.63753762301,True,excluded_solo_country
+HV1:ZA:Eastern Cape,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:Eastern Cape,South Africa,168905.17410985596,True,eligible
+HV1:ZA:Free State,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:Free State,South Africa,129825.16768323355,True,eligible
+HV1:ZA:Gauteng,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:Gauteng,South Africa,18178.307482062464,True,eligible
+HV1:ZA:Kwazulu-Natal,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:Kwazulu-Natal,South Africa,93282.88313139761,True,eligible
+HV1:ZA:Limpopo,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:Limpopo,South Africa,125754.51983681295,True,eligible
+HV1:ZA:Mpumalanga,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:Mpumalanga,South Africa,76492.34134269379,True,eligible
+HV1:ZA:North West,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:North West,South Africa,104881.69012919904,True,eligible
+HV1:ZA:Northern Cape,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:Northern Cape,South Africa,372916.50561283325,True,eligible
+HV1:ZA:Western Cape,South Africa,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZA:Western Cape,South Africa,129472.98341242097,True,eligible
+HV1:SD:Blue Nile,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:Blue Nile,Sudan,37026.14185941036,True,eligible
+HV1:SD:Central Darfur,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:Central Darfur,Sudan,37114.171764648476,True,eligible
+HV1:SD:East Darfur,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:East Darfur,Sudan,55126.68819767707,True,eligible
+HV1:SD:Gedaref,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:Gedaref,Sudan,57263.18182036187,True,eligible
+HV1:SD:Gezira,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:Gezira,Sudan,27254.640961020647,True,eligible
+HV1:SD:North Darfur,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:North Darfur,Sudan,317176.0655429045,True,eligible
+HV1:SD:North Kordofan,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:North Kordofan,Sudan,187531.47564720476,True,eligible
+HV1:SD:Sinnar,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:Sinnar,Sudan,39491.79200014808,True,eligible
+HV1:SD:South Darfur,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:South Darfur,Sudan,78132.47447675324,True,eligible
+HV1:SD:South Kordofan,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:South Kordofan,Sudan,77982.98622026967,True,eligible
+HV1:SD:West Darfur,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:West Darfur,Sudan,22664.953497393497,True,eligible
+HV1:SD:West Kordofan,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:West Kordofan,Sudan,114225.82979248138,True,eligible
+HV1:SD:White Nile,Sudan,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:SD:White Nile,Sudan,39983.979000584324,True,eligible
+HV1:TZ:Arusha,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Arusha,"Tanzania, United Republic of",38332.94126141626,True,eligible
+HV1:TZ:Dar es Salaam,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Dar es Salaam,"Tanzania, United Republic of",1634.0166715067473,True,eligible
+HV1:TZ:Dodoma,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Dodoma,"Tanzania, United Republic of",41862.894056207944,True,eligible
+HV1:TZ:Geita,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Geita,"Tanzania, United Republic of",21050.724570727343,True,eligible
+HV1:TZ:Iringa,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Iringa,"Tanzania, United Republic of",36483.27245412575,True,eligible
+HV1:TZ:Kagera,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Kagera,"Tanzania, United Republic of",37059.39974640003,True,eligible
+HV1:TZ:Katavi,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Katavi,"Tanzania, United Republic of",49395.8997758789,True,eligible
+HV1:TZ:Kigoma,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Kigoma,"Tanzania, United Republic of",44544.01757734862,True,eligible
+HV1:TZ:Kilimanjaro,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Kilimanjaro,"Tanzania, United Republic of",13331.49932272699,True,eligible
+HV1:TZ:Lindi,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Lindi,"Tanzania, United Republic of",64728.66327151284,True,eligible
+HV1:TZ:Manyara,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Manyara,"Tanzania, United Republic of",46894.43813423137,True,eligible
+HV1:TZ:Mara,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Mara,"Tanzania, United Republic of",30467.416749557036,True,eligible
+HV1:TZ:Mbeya,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Mbeya,"Tanzania, United Republic of",61434.3247343246,True,eligible
+HV1:TZ:Morogoro,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Morogoro,"Tanzania, United Republic of",70127.60456021054,True,eligible
+HV1:TZ:Mtwara,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Mtwara,"Tanzania, United Republic of",17924.67847715382,True,eligible
+HV1:TZ:Mwanza,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Mwanza,"Tanzania, United Republic of",24760.096456036517,True,eligible
+HV1:TZ:Njombe,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Njombe,"Tanzania, United Republic of",21312.87579182342,True,eligible
+HV1:TZ:Pemba North,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Pemba North,"Tanzania, United Republic of",531.7322305136103,True,eligible
+HV1:TZ:Pemba South,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Pemba South,"Tanzania, United Republic of",477.2498351077525,True,eligible
+HV1:TZ:Pwani,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Pwani,"Tanzania, United Republic of",31936.464310080846,True,eligible
+HV1:TZ:Rukwa,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Rukwa,"Tanzania, United Republic of",27969.839081092327,True,eligible
+HV1:TZ:Ruvuma,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Ruvuma,"Tanzania, United Republic of",62933.83521103731,True,eligible
+HV1:TZ:Shinyanga,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Shinyanga,"Tanzania, United Republic of",16423.527348114603,True,eligible
+HV1:TZ:Simiyu,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Simiyu,"Tanzania, United Republic of",24878.45739016759,True,eligible
+HV1:TZ:Singida,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Singida,"Tanzania, United Republic of",48550.46953350327,True,eligible
+HV1:TZ:Tabora,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Tabora,"Tanzania, United Republic of",75495.31371406239,True,eligible
+HV1:TZ:Tanga,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Tanga,"Tanzania, United Republic of",27946.327448040593,True,eligible
+HV1:TZ:Zanzibar Central/South,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Zanzibar Central/South,"Tanzania, United Republic of",881.9521924628795,True,eligible
+HV1:TZ:Zanzibar North,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Zanzibar North,"Tanzania, United Republic of",469.7031954902039,True,eligible
+HV1:TZ:Zanzibar Urban/West,"Tanzania, United Republic of",harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TZ:Zanzibar Urban/West,"Tanzania, United Republic of",232.9737180890798,True,eligible
+HV1:TG:Kara,Togo,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:TG:Kara,Togo,11685.132701229393,True,excluded_solo_country
+HV1:ZM:Central,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Central,Zambia,109068.25741761462,True,eligible
+HV1:ZM:Copperbelt,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Copperbelt,Zambia,31055.40859914407,True,eligible
+HV1:ZM:Eastern,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Eastern,Zambia,50926.33955955793,True,eligible
+HV1:ZM:Luapula,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Luapula,Zambia,49886.27667125282,True,eligible
+HV1:ZM:Lusaka,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Lusaka,Zambia,25433.3721746033,True,eligible
+HV1:ZM:Muchinga,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Muchinga,Zambia,86958.21587111909,True,eligible
+HV1:ZM:North-Western,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:North-Western,Zambia,125127.07438469466,True,eligible
+HV1:ZM:Northern,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Northern,Zambia,77542.01036286264,True,eligible
+HV1:ZM:Southern,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Southern,Zambia,67554.39152212405,True,eligible
+HV1:ZM:Western,Zambia,harveststat_africa_v1.2,humanitarian admin1,HarvestStat admin_1 aggregation,ADM1_equiv,HV1:ZM:Western,Zambia,127623.01380097689,True,eligible
+BR:Acre,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Acre,Brazil,164272.21742578704,True,eligible
+BR:Alagoas,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Alagoas,Brazil,27830.663863769012,True,eligible
+BR:Amazonas,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Amazonas,Brazil,1558172.8265581506,True,eligible
+BR:Bahia,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Bahia,Brazil,564760.3981777428,True,eligible
+BR:Distrito Federal,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Distrito Federal,Brazil,5760.788692645831,True,eligible
+BR:Mato Grosso,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Mato Grosso,Brazil,902966.80507315,True,eligible
+BR:Mato Grosso do Sul,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Mato Grosso do Sul,Brazil,357039.155333887,True,eligible
+BR:Minas Gerais,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Minas Gerais,Brazil,586514.0305947667,True,eligible
+BR:Pernambuco,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Pernambuco,Brazil,98067.87480518693,True,eligible
+BR:Rio Grande do Norte,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Rio Grande do Norte,Brazil,52809.601121218766,True,eligible
+BR:Rio Grande do Sul,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Rio Grande do Sul,Brazil,281728.047139983,True,eligible
+BR:Rio de Janeiro,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Rio de Janeiro,Brazil,43750.42474194874,True,eligible
+BR:Roraima,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Roraima,Brazil,224352.3203739246,True,eligible
+BR:Santa Catarina,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Santa Catarina,Brazil,95652.31407516585,True,eligible
+BR:Sergipe,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Sergipe,Brazil,21938.188153355743,True,eligible
+BR:Tocantins,Brazil,ibge_pam,ADM1,Brazil UF,ADM1_equiv,BR:Tocantins,Brazil,277423.56112651265,True,eligible
+CA:Alberta,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:Alberta,Canada,663199.2470278819,True,eligible
+CA:British Columbia,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:British Columbia,Canada,948848.2335341354,True,eligible
+CA:Manitoba,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:Manitoba,Canada,649833.9932416107,True,eligible
+CA:New Brunswick,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:New Brunswick,Canada,72969.23385513015,True,eligible
+CA:Nova Scotia,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:Nova Scotia,Canada,55488.300351859536,True,eligible
+CA:Ontario,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:Ontario,Canada,1080889.9613950565,True,eligible
+CA:Prince Edward Island,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:Prince Edward Island,Canada,5731.064118106482,True,eligible
+CA:Quebec,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:Quebec,Canada,1519945.6637104743,True,eligible
+CA:Saskatchewan,Canada,statcan_32100359,ADM1,Canada province/territory,ADM1_equiv,CA:Saskatchewan,Canada,652360.6999556794,True,eligible
+US:01,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:01,United States,133634.62316486135,True,eligible
+US:02,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:02,United States,1507384.9349895013,True,eligible
+US:04,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:04,United States,295349.8250425053,True,eligible
+US:05,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:05,United States,137690.78671501306,True,eligible
+US:06,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:06,United States,409583.45860018424,True,eligible
+US:08,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:08,United States,269743.0369233143,True,eligible
+US:09,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:09,United States,12892.228914475327,True,eligible
+US:10,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:10,United States,5296.282371542914,True,eligible
+US:12,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:12,United States,147459.92451648146,True,eligible
+US:13,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:13,United States,152434.5248972795,True,eligible
+US:15,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:15,United States,16724.290627103106,True,eligible
+US:16,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:16,United States,216440.7386961751,True,eligible
+US:17,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:17,United States,150088.55572183762,True,eligible
+US:18,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:18,United States,94363.03458925869,True,eligible
+US:19,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:19,United States,145844.45932161532,True,eligible
+US:20,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:20,United States,213124.38827775643,True,eligible
+US:21,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:21,United States,104526.49364105973,True,eligible
+US:22,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:22,United States,120735.48632183694,True,eligible
+US:23,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:23,United States,84363.2782654047,True,eligible
+US:24,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:24,United States,25668.581451548118,True,eligible
+US:25,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:25,United States,21023.086603921834,True,eligible
+US:26,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:26,United States,250353.7694400052,True,eligible
+US:27,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:27,United States,225350.44814697668,True,eligible
+US:28,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:28,United States,123546.212801514,True,eligible
+US:29,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:29,United States,180569.07739974532,True,eligible
+US:30,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:30,United States,380900.5626663845,True,eligible
+US:31,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:31,United States,200209.3777408232,True,eligible
+US:32,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:32,United States,286284.5378432083,True,eligible
+US:33,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:33,United States,23997.727157134956,True,eligible
+US:34,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:34,United States,19697.591986597476,True,eligible
+US:35,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:35,United States,314879.6316598976,True,eligible
+US:36,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:36,United States,135186.5391463167,True,eligible
+US:37,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:37,United States,127818.6580998346,True,eligible
+US:38,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:38,United States,183143.9110172318,True,eligible
+US:39,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:39,United States,119938.35900712662,True,eligible
+US:40,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:40,United States,181040.8295317866,True,eligible
+US:41,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:41,United States,251411.49679831282,True,eligible
+US:42,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:42,United States,117298.4414797791,True,eligible
+US:44,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:44,United States,2833.34743214338,True,eligible
+US:45,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:45,United States,80124.26173149588,True,eligible
+US:46,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:46,United States,199746.69372044454,True,eligible
+US:47,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:47,United States,109182.4562969925,True,eligible
+US:48,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:48,United States,686114.5362368249,True,eligible
+US:49,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:49,United States,219833.3998168368,True,eligible
+US:50,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:50,United States,24948.637241424043,True,eligible
+US:51,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:51,United States,103745.24877081058,True,eligible
+US:53,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:53,United States,174875.6373785153,True,eligible
+US:54,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:54,United States,62689.59878909549,True,eligible
+US:55,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:55,United States,169299.2635744898,True,eligible
+US:56,United States,usda_census_qs,ADM1,US state,ADM1_equiv,US:56,United States,253297.0874471134,True,eligible

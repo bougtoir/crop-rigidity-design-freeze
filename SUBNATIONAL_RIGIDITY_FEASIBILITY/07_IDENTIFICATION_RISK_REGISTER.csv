@@ -1,0 +1,13 @@
+risk,mechanism,direction,severity,mitigation
+suitability determines both legacy crop and outcome,"climate niche defines baseline crop AND mismatch size AND reallocation pressure",attenuates or inflates mechanically,high,"control baseline niche position; mismatch defined on climate delta not level; falsification: placebo mismatch window"
+irrigation placed in stable high-value regions,"irrigated units differ systematically (wealth, market access)",biases H2 toward apparent rigidity or flexibility,high,"within-country comparison only (country FE); groundwater/surface split as variation"
+wealth/policy confounding,"richer regions transform faster for non-climate reasons",mixed,high,"country FE + GDP/log-population covariate; trade openness sensitivity"
+trade substitution,"national change via imports not reallocation",attenuates W and B,medium,"FAOSTAT trade covariate; abandonment outcome less exposed to trade"
+SPAM model circularity,"vintage differences = method revision not agriculture",fake transformation,CRITICAL,"outcomes only from observed stats (GSAP/Agro-MAPS); modelled pixels limited to single-vintage baseline exposures"
+measurement-method changes across versions,"same issue at admin level if stats vintages differ in methodology",fake churn,high,"boundary/method harmonization ledger; only same-source multi-vintage series; flag units with method-change notes"
+spatial autocorrelation,"neighboring units share shocks and stats provenance",underestimated CI,high,"country/subregion cluster bootstrap (already validated); Moran check"
+local crop observations not independent,"same census methodology inside a country",underestimated CI,medium,"country-level clustering mandatory"
+climate shocks correlated across neighbors,"mismatch field spatially smooth",CI inflation,medium,"spatial-block bootstrap secondary (validated tile method exists)"
+production migration vs true switching,"unit 'transforms' because a crop left to a neighboring unit, i.e. within-country reallocation",mislabels B as W,medium,"the T=W+B decomposition is precisely this correction; audit within-country swap pairs"
+abandonment ≠ switching,"crop disappears without replacement (net exit)",miscounts outcome,medium,"separate disappearance/entry/replacement outcomes as pre-registered"
+baseline vintage endogeneity,"units that already transformed before t0 look flexible",attenuates,medium,"legacy window strictly pre-exposure (same 2002 boundary rule)"

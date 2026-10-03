@@ -1,0 +1,7 @@
+# Lock verification
+
+- file: PRIMARY_ANALYSIS_LOCK.yaml
+- computed SHA-256: `7b7f68e990d870bba3373ab99507e9aff206a65634f58ff141b3aa9c3143c47d`
+- expected: `7b7f68e990d870bba3373ab99507e9aff206a65634f58ff141b3aa9c3143c47d`
+
+LOCK_STATUS: VERIFIED

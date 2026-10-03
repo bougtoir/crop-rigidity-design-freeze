@@ -1,0 +1,9 @@
+stage,n
+initial countries (valid crop-mix data),229
+valid HHI (finite),229
+valid JSD (finite),229
+valid ISO3/country mapping,183
+valid dominant-crop SPAM class,183
+valid dominant calendar mismatch (finite),147
+valid region/subregion,147
+FINAL primary N,147

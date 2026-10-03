@@ -1,0 +1,251 @@
+iso3,country,map_coverage
+AFG,Afghanistan,1.0
+none,Africa (FAO),1.0
+ALB,Albania,1.0
+DZA,Algeria,1.0
+none,Americas (FAO),1.0
+AGO,Angola,1.0
+ATG,Antigua and Barbuda,1.0
+ARG,Argentina,1.0
+ARM,Armenia,1.0
+none,Asia (FAO),1.0
+AUS,Australia,1.0000001
+none,Australia and New Zealand (FAO),1.0
+AUT,Austria,0.99999994
+AZE,Azerbaijan,1.0
+BHS,Bahamas,1.0
+BHR,Bahrain,1.0000001
+BGD,Bangladesh,1.0
+BRB,Barbados,1.0
+BLR,Belarus,1.0000001
+BEL,Belgium,1.0000001
+none,Belgium-Luxembourg (FAO),1.0
+BLZ,Belize,1.0
+BEN,Benin,1.0
+BTN,Bhutan,1.0
+BOL,Bolivia,1.0
+BIH,Bosnia and Herzegovina,1.0
+BWA,Botswana,1.0
+BRA,Brazil,1.0
+BRN,Brunei,1.0
+BGR,Bulgaria,1.0
+BFA,Burkina Faso,1.0
+BDI,Burundi,1.0
+KHM,Cambodia,0.99999994
+CMR,Cameroon,1.0
+CAN,Canada,0.9999999
+CPV,Cape Verde,1.0
+none,Caribbean (FAO),1.0
+CAF,Central African Republic,0.99999994
+none,Central America (FAO),1.0
+none,Central Asia (FAO),1.0
+TCD,Chad,1.0
+CHL,Chile,1.0
+CHN,China,1.0
+none,China (FAO),1.0
+COL,Colombia,1.0
+COM,Comoros,1.0
+COG,Congo,0.99999994
+COK,Cook Islands,1.0
+CRI,Costa Rica,0.9999999
+CIV,Cote d'Ivoire,1.0
+HRV,Croatia,1.0
+CUB,Cuba,1.0
+CYP,Cyprus,1.0
+CZE,Czechia,0.99999994
+none,Czechoslovakia,1.0
+COD,Democratic Republic of Congo,1.0
+DNK,Denmark,1.0000001
+DJI,Djibouti,1.0
+DMA,Dominica,0.99999994
+DOM,Dominican Republic,1.0
+TLS,East Timor,0.99999994
+none,Eastern Africa (FAO),1.0000001
+none,Eastern Asia (FAO),1.0
+none,Eastern Europe (FAO),1.0
+ECU,Ecuador,1.0
+EGY,Egypt,1.0
+SLV,El Salvador,1.0
+GNQ,Equatorial Guinea,0.9999999
+ERI,Eritrea,1.0000001
+EST,Estonia,1.0
+SWZ,Eswatini,1.0000001
+ETH,Ethiopia,1.0
+none,Ethiopia (former),1.0
+none,Europe (FAO),0.9999999
+none,European Union (27),0.99999994
+FRO,Faroe Islands,1.0
+FJI,Fiji,1.0
+FIN,Finland,1.0
+FRA,France,0.99999994
+GUF,French Guiana,0.99999994
+PYF,French Polynesia,1.0
+GAB,Gabon,1.0
+GMB,Gambia,1.0
+GEO,Georgia,1.0
+DEU,Germany,1.0
+GHA,Ghana,0.99999994
+GRC,Greece,1.0
+GRD,Grenada,1.0
+GLP,Guadeloupe,1.0
+GTM,Guatemala,0.99999994
+GIN,Guinea,1.0
+GNB,Guinea-Bissau,0.99999994
+GUY,Guyana,1.0
+HTI,Haiti,1.0
+HND,Honduras,1.0
+HKG,Hong Kong,1.0000001
+HUN,Hungary,1.0
+ISL,Iceland,1.0
+IND,India,1.0
+IDN,Indonesia,1.0
+IRN,Iran,1.0
+IRQ,Iraq,1.0
+IRL,Ireland,1.0
+ISR,Israel,1.0
+ITA,Italy,1.0
+JAM,Jamaica,1.0
+JPN,Japan,1.0
+JOR,Jordan,1.0000001
+KAZ,Kazakhstan,1.0
+KEN,Kenya,1.0000001
+KIR,Kiribati,1.0
+KWT,Kuwait,0.99999994
+KGZ,Kyrgyzstan,1.0
+none,Land Locked Developing Countries (FAO),0.99999994
+LAO,Laos,0.99999994
+LVA,Latvia,1.0
+none,Least Developed Countries (FAO),1.0
+LBN,Lebanon,1.0
+LSO,Lesotho,1.0000001
+LBR,Liberia,1.0
+LBY,Libya,1.0
+LTU,Lithuania,1.0
+none,Low Income Food Deficit Countries (FAO),1.0000001
+LUX,Luxembourg,1.0
+MAC,Macao,1.0
+MDG,Madagascar,1.0
+MWI,Malawi,0.99999994
+MYS,Malaysia,0.99999994
+MDV,Maldives,1.0
+MLI,Mali,1.0
+MLT,Malta,1.0
+MHL,Marshall Islands,1.0
+MTQ,Martinique,0.99999994
+MRT,Mauritania,1.0
+MUS,Mauritius,1.0
+none,Melanesia (FAO),0.99999994
+MEX,Mexico,1.0
+none,Micronesia (FAO),0.99999994
+FSM,Micronesia (country),1.0
+none,Middle Africa (FAO),0.99999994
+MDA,Moldova,1.0
+MNG,Mongolia,1.0
+MAR,Morocco,1.0
+MOZ,Mozambique,1.0
+MMR,Myanmar,0.99999994
+NAM,Namibia,1.0
+NRU,Nauru,1.0
+NPL,Nepal,1.0
+none,Net Food Importing Developing Countries (FAO),1.0
+NLD,Netherlands,0.9999999
+NCL,New Caledonia,1.0
+NZL,New Zealand,1.0
+NIC,Nicaragua,0.99999994
+NER,Niger,0.99999994
+NGA,Nigeria,1.0
+NIU,Niue,1.0
+PRK,North Korea,0.99999994
+MKD,North Macedonia,0.9999999
+none,Northern Africa (FAO),1.0
+none,Northern America (FAO),1.0
+none,Northern Europe (FAO),1.0
+NOR,Norway,1.0
+none,Oceania (FAO),1.0000001
+OMN,Oman,1.0
+PAK,Pakistan,0.99999994
+PSE,Palestine,1.0
+PAN,Panama,0.9999999
+PNG,Papua New Guinea,1.0000001
+PRY,Paraguay,1.0000001
+PER,Peru,1.0
+PHL,Philippines,0.99999994
+POL,Poland,1.0
+none,Polynesia (FAO),0.9999999
+PRT,Portugal,1.0
+PRI,Puerto Rico,1.0
+QAT,Qatar,1.0
+REU,Reunion,0.99999994
+ROU,Romania,0.99999994
+RUS,Russia,1.0
+RWA,Rwanda,1.0000001
+KNA,Saint Kitts and Nevis,0.99999994
+LCA,Saint Lucia,0.99999994
+VCT,Saint Vincent and the Grenadines,1.0
+WSM,Samoa,1.0
+STP,Sao Tome and Principe,0.9999999
+SAU,Saudi Arabia,1.0
+SEN,Senegal,1.0
+none,Serbia and Montenegro,1.0
+SYC,Seychelles,1.0
+SLE,Sierra Leone,1.0
+SGP,Singapore,1.0
+SVK,Slovakia,1.0
+SVN,Slovenia,1.0
+none,Small Island Developing States (FAO),1.0
+SLB,Solomon Islands,0.99999994
+SOM,Somalia,1.0
+ZAF,South Africa,1.0
+none,South America (FAO),0.99999994
+KOR,South Korea,0.99999994
+none,South-eastern Asia (FAO),0.99999994
+none,Southern Africa (FAO),0.99999994
+none,Southern Asia (FAO),1.0
+none,Southern Europe (FAO),1.0
+ESP,Spain,0.99999994
+LKA,Sri Lanka,1.0
+none,Sudan (former),0.99999994
+SUR,Suriname,1.0
+SWE,Sweden,1.0
+CHE,Switzerland,1.0
+SYR,Syria,1.0
+TWN,Taiwan,1.0
+TJK,Tajikistan,0.9999999
+TZA,Tanzania,1.0
+THA,Thailand,1.0000001
+TGO,Togo,1.0
+TON,Tonga,1.0
+TTO,Trinidad and Tobago,0.99999994
+TUN,Tunisia,1.0
+TUR,Turkey,1.0
+TKM,Turkmenistan,1.0
+TUV,Tuvalu,0.99999994
+none,USSR,0.99999994
+UGA,Uganda,1.0
+UKR,Ukraine,0.99999994
+ARE,United Arab Emirates,1.0000001
+GBR,United Kingdom,1.0000001
+USA,United States,0.9999999
+URY,Uruguay,0.99999994
+UZB,Uzbekistan,1.0000001
+VUT,Vanuatu,0.99999994
+VEN,Venezuela,0.99999994
+VNM,Vietnam,1.0
+none,Western Africa (FAO),1.0
+none,Western Asia (FAO),1.0
+none,Western Europe (FAO),0.99999994
+none,World,1.0
+YEM,Yemen,1.0
+none,Yugoslavia,1.0
+ZMB,Zambia,1.0000001
+ZWE,Zimbabwe,0.99999994
+none,North America,1.0
+none,South America,1.0
+none,Europe,1.0
+none,Africa,1.0
+none,Asia,0.99999994
+none,Oceania,1.0
+none,Low-income countries,1.0000001
+none,Upper-middle-income countries,1.0
+none,Lower-middle-income countries,1.0
+none,High-income countries,1.0

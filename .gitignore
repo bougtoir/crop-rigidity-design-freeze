@@ -1,0 +1,6 @@
+# large third-party binaries (re-acquirable via scripts/01_acquire_data.py; SHA-256 in ledger)
+data/raw/spei/*.nc
+data/raw/mapspam/*.zip
+data/raw/isimip/*.nc
+data/raw/power/json/
+data/raw/mirca/unit_code_grid/unit_code.asc

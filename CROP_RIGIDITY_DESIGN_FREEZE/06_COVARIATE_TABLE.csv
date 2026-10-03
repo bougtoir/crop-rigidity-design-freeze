@@ -1,0 +1,17 @@
+covariate,measurement,window,classification,in_primary_model,justification,source
+latitude,abs centroid latitude,static,confounder,yes,geoclimatic driver of both specialization and mismatch,country metadata
+baseline temp variability,SD growing-season T,1961-1990,confounder,yes,variability selects mix diversity and scales anomalies,NASA POWER/W5E5
+baseline precip variability,SD growing-season P,1961-1990,confounder,yes,same as above,NASA POWER/W5E5
+cropland share baseline,agricultural land % of area,1981-2000 mean,confounder,yes,agricultural intensity shapes both mix and flexibility,FAOSTAT/WB
+country area,log km2,static,confounder/precision,yes,scale affects both niche breadth and transformation options,WB
+GDP per capita baseline,log constant USD,1981-2000 mean,confounder,yes,development level drives capacity and mix,WDI
+agricultural employment share baseline,%,nearest available pre-2001,confounder,yes,labour dependence on agriculture,WDI
+dominant-crop baseline yield,t/ha mean,1981-2000,confounder/precision,yes,productivity proxy controlling comparative advantage,FAOSTAT QCL
+population density baseline,persons/km2,1981-2000 mean,precision,extended only,precision covariate,WDI
+irrigation dependence,irrigated/total harvested area,~2000 (MIRCA),confounder (approx-temporal),extended only,secondary legacy dimension; time-mismatched baseline,MIRCA2000/AQUASTAT
+trade openness contemporary,(X+M)/GDP,2001-2020,mediator,no,post-treatment,WDI
+contemporary irrigation expansion,delta irrigated share,2001-2020,mediator,no,post-treatment,AQUASTAT/FAOSTAT
+fertilizer/input use contemporary,per-ha inputs,2001-2020,mediator,no,post-treatment,FAOSTAT inputs
+outcome-window diversification,HHI in 2001-2020,2001-2020,collider risk,no,defined on outcome shares,forbidden
+yield volatility of dominant crop,SD of yield,1981-2000,precision,extended only,precision covariate,FAOSTAT QCL
+cultural preference proxies,various,static,not justified,no,unverifiable causal path,NA

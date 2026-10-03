@@ -1,0 +1,7 @@
+source,country_scope,vintage_pair,grade,rationale
+harveststat_africa_v1.2,33 SSA,annual 2000-2022,A,single harmonized pipeline qc_flag filter applied
+fao_subnational_2024,11,annual varying,B,national submissions compiled by FAO; source column varies by year
+eurostat_apro_cpshr_2026,39,annual 2000-2024,B,break flags documented; NUTS code churn units excluded
+statcan_32100359,1,annual 1908-2025,A,single official survey/census series
+usda_census_qs,1,quinquennial 2002-2022,A,same census instrument; suppression codes documented
+ibge_pam,1,2002 vs 2016,B,table format changed after 2016 (xls schema); variables equivalent

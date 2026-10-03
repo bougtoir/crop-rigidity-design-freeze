@@ -1,0 +1,11 @@
+study,year,scope,unit,exposure,outcome,tests fixed_capital x mismatch,relation_to_H1_H4
+"Sloat et al. (Nat Commun) ""Climate adaptation by crop migration""",2020,global rainfed wheat/maize/rice/soybean,grid+quantile of warm boundary,none (area shift itself is outcome),crop-area migration moderating heat exposure,no,"Direct antecedent of H4: demonstrates spatial reallocation already happens; does not test what impedes it"
+"Rising & Devineni (Nat Commun) ""Crop switching reduces losses""",2020,US, county,biophysical yield responses,counterfactual optimal crop reallocation,no,"Counterfactual optimization, not observed transformation; US only"
+"Nature ""Crop switching can enhance sustainability (China)""",2023,China,county,modelled pathways,crop switching benefits,no,"Policy/optimization, not legacy-capital interaction"
+"Libecap (NBER w16324) irrigation institutional path dependence",2010,US West,irrigation districts,water rights institutions,water-market flexibility,partial (institutional legacy),"Qualitative/institutional; supports mechanism plausibility, no global quantification"
+"Carey & Zilberman irrigation adoption real options",2002,California,farm,sunk irrigation capital,adoption timing,partial,"Adoption, not abandonment/transformation; case study"
+"Macadamia/orchard real-options studies",2013-2024,Australia/US,farm/orchard,perennial capital irreversibility,replacement timing,partial (perennial switch cost),"Farm-level valuation, no spatial reallocation outcome"
+"Climate-induced crop failure & abandonment review (AfJARE)",2023,Africa,province/household,climate shocks,crop abandonment,no,"Abandonment outcome exists empirically but not linked to fixed-capital conditioning globally"
+"CROPGRIDS vs MRF/EarthStat two-vintage grid",2008/2024,global,10km grid,n/a,two vintages exist,n/a,"Enables 2000 vs 2020 comparison but CROPGRIDS seeds from MRF -> not independent"
+"GSAP (SEI) subnational production DB",2024,global ~50 crops,admin-1/2,n/a,observed subnational stats 2010-21,n/a,"Real repeated observations at admin level; ~decade window"
+"PLOS One SPAM2005 sensitivity analysis",2019,global,10km pixel,n/a,methodological sensitivity,n/a,"Shows modelled pixel estimates shift with input choices -> circularity risk"

@@ -1,0 +1,6 @@
+iso3,status,error,n_cells,n_months
+ATG,failed,"{'header': 'The POWER Monthly and Annual API failed to complete your request; please review the errors below and the POWER Docs (https://power.larc.nasa.gov/docs/).', 'messages': ['Please provide at l",,
+BDI,ok,,14.0,6734.0
+BHR,failed,"{'header': 'The POWER Monthly and Annual API failed to complete your request; please review the errors below and the POWER Docs (https://power.larc.nasa.gov/docs/).', 'messages': ['Please provide at l",,
+BRB,failed,"{'header': 'The POWER Monthly and Annual API failed to complete your request; please review the errors below and the POWER Docs (https://power.larc.nasa.gov/docs/).', 'messages': ['Please provide at l",,
+BRN,failed,"{'header': 'The POWER Monthly and Annual API failed to complete your request; please review the errors below and the POWER Docs (https://power.larc.nasa.gov/docs/).', 'messages': ['Please provide at l",,

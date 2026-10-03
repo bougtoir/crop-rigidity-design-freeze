@@ -1,0 +1,13 @@
+source,version,url,license,coverage_countries,admin_level,taxonomy,definitions,frequency,direct_or_modelled,method_changes,boundary_system,stable_ids,missingness,imputation,comparable_vintages,rows_observed
+harveststat_africa_v1.2,v1.2 (2024),github HarvestStat-Africa public,CC-BY-4.0,33 SSA,admin-2 (fnid) aggregated to admin-1,product names harmonized,ministerial/FEWS NET reports,annual 1980-2022,direct reported,qc_flag present,FEWS NET fnid,yes,qc_flag + document flags,none documented,yes,204855
+fao_subnational_2024,FAO datalab export 2024,data.apps.fao.org CKAN,FAO terms,11,admin-1/admin-2 GADM_CODE,COMMON_PRODUCT_NAME,member-state submissions,annual varying,direct reported,source column varies,GADM,yes,sparse for some countries,none,partial (11 countries),36206
+eurostat_apro_cpshr_2026,Eurostat apro_cpshr (accessed 2026-10-03),Eurostat dissemination SDMX 2.1,Eurostat free reuse,39 geo (EU+EFTA+UK+TR+WB),NUTS1/NUTS2,apro_cpshr crop classes,EU regulation statistics,annual 2000-2024,direct reported,NUTS revisions 2013/2016/2021 change codes,NUTS,partial,code churn ~107 units,break flag b present,yes (code-stable subset),162725
+statcan_32100359,table 32-10-0359-01 (2026-09-16),Statistics Canada WDS CSV,Open Government License Canada,1,province (admin-1),StatCan crop list,census + estimates,annual 1908-2025,direct reported,minor,N/A (provinces stable),yes,negligible,estimates flagged,yes,26232
+usda_census_qs,Census of Ag 2002/2017/2022 (bulk qs.census),data.nass.usda.gov datasets,US Gov public domain,1,county (admin-2) aggregated to state,USDA commodity codes,ag census,quinquennial,direct census,definition changes minor,ANSI/FIPS,yes,suppression codes present,disclosure suppression (D),yes (2002-2022),6372
+ibge_pam,PAM annual (2002 UF zip; 2016 xls),ftp.ibge.gov.br,IBGE open,1,UF (admin-1),PAM product list (pt),municipal agricultural survey,annual,direct reported,table format changed after 2016,UF codes,yes,minor,none,yes (2002 vs 2016+),1389
+gsap,planned (not released),sei.org GSAP,n/a,-,-,-,-,-,-,-,-,-,-,NOT AVAILABLE at 2026-10-03
+agromaps_web,portal only,FAO Agro-MAPS portal,-,-,district,varied,,-,-,-,-,-,-,superseded by fao_subnational_2024 CSV
+india_apy,apy.icar.gov.in,-,-,-,district,-,-,-,bulk endpoint unreachable from VM 2026-10-03,-,-,-,-,NOT ACQUIRED
+china_stats,-,-,-,-,province,-,-,-,provincial yearbook data not bulk-open,-,-,-,-,NOT ACQUIRED
+australia_abs,-,-,-,-,SA4,-,-,-,regional tables complex; not bulk-acquired,-,-,-,-,NOT ACQUIRED
+argentina,-,-,-,-,dept,-,-,-,datosestimaciones API 404 on listing,-,-,-,-,NOT ACQUIRED

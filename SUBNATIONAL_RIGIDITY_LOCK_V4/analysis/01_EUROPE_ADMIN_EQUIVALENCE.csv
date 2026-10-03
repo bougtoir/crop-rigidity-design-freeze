@@ -1,0 +1,6 @@
+country,nuts_level,nuts_unit,actual_first_admin_level,one_to_one_equivalent,evidence,primary_eligible
+CH,NUTS2,grossregionen (7 statistical regions),cantons (NUTS3),NO,Eurostat NUTS2021 correspondence: CH first-level admin = canton,NO
+EL,NUTS2,4 administrative/statistical regions (pre-2013 codes EL11..EL25 + EL3x..EL6x),"periphereies (13, NUTS3)",NO,Eurostat correspondence: EL admin-1 = periphereia,NO
+HR,NUTS2,"statistical regions (HR02,HR03...)","zupanije (21 counties, NUTS3)",NO,Eurostat correspondence: HR admin-1 = zupanija,NO
+IE,NUTS2,IE01/IE02 statistical groupings,26 counties + cities (LAU/NUTS3-ish),NO,Eurostat correspondence: IE admin-1 = county,NO
+PT,NUTS2,regioes (7 statistical regions),18 districts + 2 autonomous regions (NUTS3),NO,Eurostat correspondence: PT admin-1 = distrito,NO

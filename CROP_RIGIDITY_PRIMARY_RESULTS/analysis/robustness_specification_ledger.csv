@@ -1,0 +1,10 @@
+spec,N,exposure,outcome,window,model,beta3,ci_lo,ci_hi,direction,preregd,boot_reps
+A_old_ladder,129,dominant calendar mismatch,JSD,legacy81-00/expo01-20/outcome01-20,frac,0.00026115383890199277,-0.17582826901466372,0.14715286723544824,positive,yes,999
+B_lagged,129,dominant calendar mismatch,JSD,legacy81-00/expo01-10/outcome11-20,frac,0.05619322771389911,-0.08413514081060114,0.15498177729275983,positive,yes,999
+C_thermal,148,thermal-season displacement,JSD,legacy81-01/expo02-20,frac,0.018768068598216198,-0.06330713663922313,0.14402240918739984,positive,yes,999
+D_portfolio_cov0.7,130,portfolio calendar mismatch,JSD,legacy81-01/expo02-20,frac,0.00854038688811838,-0.11564714277426166,0.1789406888394277,positive,yes,999
+D_portfolio_cov0.5,151,portfolio calendar mismatch,JSD,legacy81-01/expo02-20,frac,0.007001333693698188,-0.11512130287824059,0.1731711528603376,positive,yes,999
+D_portfolio_cov0.8,100,portfolio calendar mismatch,JSD,legacy81-01/expo02-20,frac,0.03179843442750632,-0.13205000472980294,0.250393329438362,positive,yes,999
+E_beta_regression,147,dominant calendar mismatch,JSD,frozen,beta regression,0.020085031444814508,-0.047310795013544404,0.08748085790317342,na,yes,0
+E_logit_linear,147,dominant calendar mismatch,logit(JSD),frozen,OLS on logit scale,0.02389755930700859,-0.044604358504947074,0.09239947711896426,na,yes,0
+F_delta_hhi,147,dominant calendar mismatch,delta HHI,frozen,OLS,0.0015630468920441818,-0.007135430950494851,0.010261524734583215,na,yes,0

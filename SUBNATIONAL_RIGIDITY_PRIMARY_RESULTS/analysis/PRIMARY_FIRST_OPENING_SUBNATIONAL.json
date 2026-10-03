@@ -1,0 +1,15 @@
+{
+  "timestamp_utc": "2026-10-03T21:50:03.686846+00:00",
+  "lock_sha256": "18e61718474725eef9b103015612d6232992db11763b35fbcea4f3739d6b37fe",
+  "sample_sha256": "3894266fab949ca58f74ade901660f1b61d0b5d61dbabe00e3e7983606069b03",
+  "N": 340,
+  "countries": 23,
+  "model": "jsd ~ irr_share_base2000 + mismatch_T + irr:mm + C(country) [OLS]",
+  "beta0": 0.3395408581028455,
+  "beta1_irr": 0.01663978857808092,
+  "beta2_mm": -0.006213728789110083,
+  "beta3_interaction": -0.03771290381138198,
+  "r2": 0.6039414745806444,
+  "resid_sd": 0.11323568917872708,
+  "rank": 26
+}

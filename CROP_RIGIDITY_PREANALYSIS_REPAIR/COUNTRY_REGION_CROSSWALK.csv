@@ -1,0 +1,255 @@
+faostat_country,iso3,region,subregion,mapping_source,status
+Afghanistan,AFG,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Africa,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Africa (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Albania,ALB,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Algeria,DZA,Africa,Northern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Americas (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Angola,AGO,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Antigua and Barbuda,ATG,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Argentina,ARG,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Armenia,ARM,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Asia,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Asia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Australia,AUS,Oceania,Australia and New Zealand,country_converter UN/ISO (UN M49-aligned),mapped
+Australia and New Zealand (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Austria,AUT,Europe,Western Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Azerbaijan,AZE,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Bahamas,BHS,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Bahrain,BHR,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Bangladesh,BGD,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Barbados,BRB,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Belarus,BLR,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Belgium,BEL,Europe,Western Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Belgium-Luxembourg (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Belize,BLZ,America,Central America,country_converter UN/ISO (UN M49-aligned),mapped
+Benin,BEN,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Bhutan,BTN,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Bolivia,BOL,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Bosnia and Herzegovina,BIH,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Botswana,BWA,Africa,Southern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Brazil,BRA,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Brunei,BRN,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Bulgaria,BGR,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Burkina Faso,BFA,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Burundi,BDI,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Cambodia,KHM,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Cameroon,CMR,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Canada,CAN,America,Northern America,country_converter UN/ISO (UN M49-aligned),mapped
+Cape Verde,CPV,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Caribbean (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Central African Republic,CAF,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Central America (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Central Asia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Chad,TCD,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Chile,CHL,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+China,CHN,Asia,Eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+China (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Colombia,COL,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Comoros,COM,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Congo,COG,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Cook Islands,COK,Oceania,Polynesia,country_converter UN/ISO (UN M49-aligned),mapped
+Costa Rica,CRI,America,Central America,country_converter UN/ISO (UN M49-aligned),mapped
+Cote d'Ivoire,CIV,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Croatia,HRV,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Cuba,CUB,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Cyprus,CYP,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Czechia,CZE,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Czechoslovakia,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Democratic Republic of Congo,COD,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Denmark,DNK,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Djibouti,DJI,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Dominica,DMA,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Dominican Republic,DOM,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+East Timor,TLS,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Eastern Africa (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Eastern Asia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Eastern Europe (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Ecuador,ECU,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Egypt,EGY,Africa,Northern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+El Salvador,SLV,America,Central America,country_converter UN/ISO (UN M49-aligned),mapped
+Equatorial Guinea,GNQ,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Eritrea,ERI,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Estonia,EST,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Eswatini,SWZ,Africa,Southern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Ethiopia,ETH,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Ethiopia (former),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Europe,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Europe (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+European Union (27),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Faroe Islands,FRO,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Fiji,FJI,Oceania,Melanesia,country_converter UN/ISO (UN M49-aligned),mapped
+Finland,FIN,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+France,FRA,Europe,Western Europe,country_converter UN/ISO (UN M49-aligned),mapped
+French Guiana,GUF,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+French Polynesia,PYF,Oceania,Polynesia,country_converter UN/ISO (UN M49-aligned),mapped
+Gabon,GAB,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Gambia,GMB,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Georgia,GEO,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Germany,DEU,Europe,Western Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Ghana,GHA,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Greece,GRC,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Grenada,GRD,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Guadeloupe,GLP,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Guatemala,GTM,America,Central America,country_converter UN/ISO (UN M49-aligned),mapped
+Guinea,GIN,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Guinea-Bissau,GNB,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Guyana,GUY,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Haiti,HTI,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+High-income countries,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Honduras,HND,America,Central America,country_converter UN/ISO (UN M49-aligned),mapped
+Hong Kong,HKG,Asia,Eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Hungary,HUN,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Iceland,ISL,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+India,IND,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Indonesia,IDN,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Iran,IRN,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Iraq,IRQ,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Ireland,IRL,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Israel,ISR,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Italy,ITA,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Jamaica,JAM,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Japan,JPN,Asia,Eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Jordan,JOR,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Kazakhstan,KAZ,Asia,Central Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Kenya,KEN,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Kiribati,KIR,Oceania,Micronesia,country_converter UN/ISO (UN M49-aligned),mapped
+Kuwait,KWT,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Kyrgyzstan,KGZ,Asia,Central Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Land Locked Developing Countries (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Laos,LAO,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Latvia,LVA,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Least Developed Countries (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Lebanon,LBN,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Lesotho,LSO,Africa,Southern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Liberia,LBR,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Libya,LBY,Africa,Northern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Lithuania,LTU,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Low Income Food Deficit Countries (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Low-income countries,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Lower-middle-income countries,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Luxembourg,LUX,Europe,Western Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Macao,MAC,Asia,Eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Madagascar,MDG,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Malawi,MWI,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Malaysia,MYS,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Maldives,MDV,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Mali,MLI,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Malta,MLT,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Marshall Islands,MHL,Oceania,Micronesia,country_converter UN/ISO (UN M49-aligned),mapped
+Martinique,MTQ,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Mauritania,MRT,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Mauritius,MUS,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Melanesia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Mexico,MEX,America,Central America,country_converter UN/ISO (UN M49-aligned),mapped
+Micronesia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Micronesia (country),FSM,Oceania,Micronesia,country_converter UN/ISO (UN M49-aligned),mapped
+Middle Africa (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Moldova,MDA,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Mongolia,MNG,Asia,Eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Montenegro,MNE,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Morocco,MAR,Africa,Northern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Mozambique,MOZ,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Myanmar,MMR,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Namibia,NAM,Africa,Southern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Nauru,NRU,Oceania,Polynesia,country_converter UN/ISO (UN M49-aligned),mapped
+Nepal,NPL,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Net Food Importing Developing Countries (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Netherlands,NLD,Europe,Western Europe,country_converter UN/ISO (UN M49-aligned),mapped
+New Caledonia,NCL,Oceania,Melanesia,country_converter UN/ISO (UN M49-aligned),mapped
+New Zealand,NZL,Oceania,Australia and New Zealand,country_converter UN/ISO (UN M49-aligned),mapped
+Nicaragua,NIC,America,Central America,country_converter UN/ISO (UN M49-aligned),mapped
+Niger,NER,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Nigeria,NGA,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Niue,NIU,Oceania,Polynesia,country_converter UN/ISO (UN M49-aligned),mapped
+North America,none,none,none,country_converter UN/ISO (UN M49-aligned),unresolved
+North Korea,PRK,Asia,Eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+North Macedonia,MKD,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Northern Africa (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Northern America (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Northern Europe (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Norway,NOR,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Oceania,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Oceania (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Oman,OMN,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Pakistan,PAK,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Palestine,PSE,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Panama,PAN,America,Central America,country_converter UN/ISO (UN M49-aligned),mapped
+Papua New Guinea,PNG,Oceania,Melanesia,country_converter UN/ISO (UN M49-aligned),mapped
+Paraguay,PRY,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Peru,PER,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Philippines,PHL,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Poland,POL,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Polynesia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Portugal,PRT,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Puerto Rico,PRI,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Qatar,QAT,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Reunion,REU,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Romania,ROU,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Russia,RUS,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Rwanda,RWA,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Saint Kitts and Nevis,KNA,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Saint Lucia,LCA,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Saint Vincent and the Grenadines,VCT,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Samoa,WSM,Oceania,Polynesia,country_converter UN/ISO (UN M49-aligned),mapped
+Sao Tome and Principe,STP,Africa,Middle Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Saudi Arabia,SAU,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Senegal,SEN,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Serbia,SRB,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Serbia and Montenegro,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Seychelles,SYC,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Sierra Leone,SLE,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Singapore,SGP,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Slovakia,SVK,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Slovenia,SVN,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Small Island Developing States (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Solomon Islands,SLB,Oceania,Melanesia,country_converter UN/ISO (UN M49-aligned),mapped
+Somalia,SOM,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+South Africa,ZAF,Africa,Southern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+South America,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+South America (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+South Korea,KOR,Asia,Eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+South Sudan,SSD,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+South-eastern Asia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Southern Africa (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Southern Asia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Southern Europe (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Spain,ESP,Europe,Southern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Sri Lanka,LKA,Asia,Southern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Sudan,SDN,Africa,Northern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Sudan (former),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Suriname,SUR,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Sweden,SWE,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Switzerland,CHE,Europe,Western Europe,country_converter UN/ISO (UN M49-aligned),mapped
+Syria,SYR,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Taiwan,TWN,Asia,Eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Tajikistan,TJK,Asia,Central Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Tanzania,TZA,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Thailand,THA,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Togo,TGO,Africa,Western Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Tonga,TON,Oceania,Polynesia,country_converter UN/ISO (UN M49-aligned),mapped
+Trinidad and Tobago,TTO,America,Caribbean,country_converter UN/ISO (UN M49-aligned),mapped
+Tunisia,TUN,Africa,Northern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Turkey,TUR,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Turkmenistan,TKM,Asia,Central Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Tuvalu,TUV,Oceania,Polynesia,country_converter UN/ISO (UN M49-aligned),mapped
+USSR,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Uganda,UGA,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Ukraine,UKR,Europe,Eastern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+United Arab Emirates,ARE,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+United Kingdom,GBR,Europe,Northern Europe,country_converter UN/ISO (UN M49-aligned),mapped
+United States,USA,America,Northern America,country_converter UN/ISO (UN M49-aligned),mapped
+Upper-middle-income countries,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Uruguay,URY,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Uzbekistan,UZB,Asia,Central Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Vanuatu,VUT,Oceania,Melanesia,country_converter UN/ISO (UN M49-aligned),mapped
+Venezuela,VEN,America,South America,country_converter UN/ISO (UN M49-aligned),mapped
+Vietnam,VNM,Asia,South-eastern Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Western Africa (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Western Asia (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Western Europe (FAO),none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+World,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Yemen,YEM,Asia,Western Asia,country_converter UN/ISO (UN M49-aligned),mapped
+Yugoslavia,none,none,none,country_converter UN/ISO (UN M49-aligned),"historical/aggregate entity - excluded from estimation set, not silently reassigned"
+Zambia,ZMB,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped
+Zimbabwe,ZWE,Africa,Eastern Africa,country_converter UN/ISO (UN M49-aligned),mapped

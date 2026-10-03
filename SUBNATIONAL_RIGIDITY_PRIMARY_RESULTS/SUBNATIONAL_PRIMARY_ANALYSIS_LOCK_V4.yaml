@@ -1,0 +1,57 @@
+version: v4
+created_utc: '2026-10-03T17:45:00Z'
+scope_label: multi-region (strict first-level admin units only)
+unit:
+  level: true first-level administrative subdivisions only
+    (GADM ADM1 | HarvestStat admin_1 | US state | Canadian province |
+     Brazilian UF)
+  excluded: Eurostat NUTS2 statistical regions (EL IE PT CH HR) - held as
+    prespecified NUTS2 sensitivity set
+  n_units: 340
+  id_file: analysis/PRIMARY_SUBNATIONAL_SAMPLE_LOCKED_V4.csv
+  id_file_sha256: 3894266fab949ca58f74ade901660f1b61d0b5d61dbabe00e3e7983606069b03
+countries: ['Angola', 'Benin', 'Brazil', 'Burkina Faso', 'Canada', 'Chad', 'Ethiopia', 'Ghana', 'Indonesia', 'Lesotho', 'Malawi', 'Mali', 'Mauritania', 'Mozambique', 'Niger', 'Nigeria', 'Pakistan', 'Senegal', 'South Africa', 'Sudan', 'Tanzania, United Republic of', 'United States', 'Zambia']
+countries_n: 23
+exposure_irrigation:
+  source: SPAM2000 v3.0.7 zonal irrigated-harvested / total-harvested share
+  column: irr_share_base2000
+  reference_year: ~2000 (pre-outcome)
+exposure_mismatch:
+  column: mismatch_T
+  definition: baseline-weighted |T_endline - T_baseline| over MIRCA2000
+    rainfed crop-calendar months at unit centroid (NASA POWER, deg C)
+outcome:
+  column: jsd
+  definition: sqrt Jensen-Shannon divergence (log2) between baseline
+    (~2002) and endline (~2019) crop-share vectors; support [0,1]
+temporal_windows:
+  baseline: nearest 2002 within [1998,2008]
+  endline: nearest 2019 within [2013,2024]
+  min_gap_years: 8
+estimator: OLS with country fixed effects
+model: jsd ~ irr_share_base2000 + mismatch_T +
+  irr_share_base2000:mismatch_T + C(country)
+primary_interaction: b3 coefficient on irr_share_base2000:mismatch_T
+primary_contrast_jsd: difference in the +1SD-mismatch effect between
+  irrigation P75 and P25 units, original JSD scale
+inference:
+  method: geographic block bootstrap
+  block_scheme: 10deg grid (block_grid10), 59 blocks
+  sensitivity_schemes: [grid15, within-country kmeans ceil(n/6)]
+  B: 999
+  seed: 20261003
+alpha: 0.05 two-sided
+missingness: drop units missing jsd | irr_share_base2000 | mismatch_T;
+  countries with <2 surviving units excluded
+secondary_hypotheses:
+  - HHI mechanism-control model (+ hhi_baseline)
+  - perennial_strict secondary exposure
+  - H4 Kitagawa exact decomposition (report |W|, |B|, |I| + signed;
+    B alone is never called 'escape')
+robustness:
+  - fractional-logit GLM family alternative
+  - grid15 / kmeans block schemes
+  - SPAM2010 irrigation (robustness source)
+  - NUTS2 sensitivity sample (v3's 33 excluded units)
+blindness: no real subnational b3 fit exists; simulations use marginal
+  JSD moments only

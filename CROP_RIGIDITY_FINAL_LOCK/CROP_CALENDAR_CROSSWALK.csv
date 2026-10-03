@@ -1,0 +1,22 @@
+spam_crop,mirca_classes,mirca_names,calendar_source,status
+WHEA,1,wheat,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+MAIZ,2,maize,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+RICE,3,rice,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+BARL,4,barley,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+MILL,6,millet,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+SORG,7,sorghum,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+SOYB,8,soybean,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+POTA,10,potato,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+CASS,11,cassava,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+SUGC,12,sugar cane,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+SUGB,13,sugar beet,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+OPUL,17,pulses,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+BEAN,17,pulses,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+GROU,16,groundnuts,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+COTT,21,cotton,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+COFF,23,coffee,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+SWPY,26,others annual,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+BANP,26,others annual,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+OFIB,26,others annual,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+OOIL,8;9;14;15;24,soybean;sunflower;oil palm;rapeseed/canola;others perennial,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped
+OTHE,24;26,others perennial;others annual,MIRCA2000 v1.1 condensed cropping calendars (rainfed+irrigated union),mapped

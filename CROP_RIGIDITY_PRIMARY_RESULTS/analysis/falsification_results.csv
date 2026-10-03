@@ -1,0 +1,11 @@
+test,kind,n,beta3,ci_lo,ci_hi,detail
+F1 future exposure -> prior transformation,falsification,147.0,-0.016823419449324133,-0.19667666801033862,0.1082543068784781,expect ~0
+F2 wrong temporal exposure window,falsification,144.0,0.14186356776891262,0.061870378633809335,0.2885466001661896,expect ~0
+F3 geographically displaced exposure (200 perm),falsification,147.0,0.004906169986518371,-0.09025360787067926,0.0975399005403033,median permuted beta3 vs primary 0.0046
+F4 leave-one-region-out range,falsification,,,-0.011159502506212737,0.08803004633619296,"beta3 in [-0.011,0.088]"
+F5 leave-one-subregion-out range,falsification,,,-0.010368580209941997,0.03423393332046824,"beta3 in [-0.010,0.034]"
+F6 exclude OTHE-dominant (residual class),falsification,147.0,0.004592525890898978,-0.12965625057187946,0.1308365237816637,n=147
+F7 exclude <15y legacy reporting,falsification,129.0,0.003679386600042808,-0.1577216389399027,0.16013543708814082,n=129
+F8 missingness covariate comparison,audit,,,,,"{""hhi_in"": 0.23433937928100831, ""hhi_out"": 0.34313635383215213, ""jsd_in"": 0.1694921087473631, ""jsd_out"": 0.20603974851676155, ""n_in"": 147, ""n_out"": 36}"
+F9 pre-trend (1981-90 -> 1991-01 JSD vs mismatch),falsification,129.0,-0.09934764540514911,-0.20318556107249625,0.041190058671386504,expect ~0
+F10 null permutation (500),falsification,147.0,0.004592525890899091,-0.1056073077987885,0.09487789544444347,"permuted 95% range [-0.106,0.095]; real 0.005 inside"

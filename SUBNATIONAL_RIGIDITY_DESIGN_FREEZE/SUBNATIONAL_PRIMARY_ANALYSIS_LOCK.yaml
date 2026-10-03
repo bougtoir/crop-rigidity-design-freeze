@@ -1,0 +1,32 @@
+lock_version: 1
+locked_at_utc: 2026-10-03T15:00:00Z
+design_id: SUBNATIONAL_RIGIDITY_v1
+unit: admin-1 (source-stable identifier; GADM4.1 reporting frame)
+vintage_rule:
+  baseline_year_nearest: 2002
+  baseline_range: [1998, 2008]
+  endline_year_nearest: 2019
+  endline_range: [2013, 2024]
+  min_gap_years: 8
+  endpoint_smoothing: ±1 year
+outcome_primary: JSD within unit over PRIMARY_CROP_SET + other_remainder
+outcome_secondary: [dominant_replacement, entry_count, exit_count, L1, delta_HHI]
+exposure_primary: irr_share (SPAM2010 zonal irrigated harvested-area share, [0,1])
+exposure_secondary: perennial_strict (baseline woody-perennial area share)
+control_mechanism: hhi_baseline
+mismatch: portfolio calendar-weighted |Delta T2M| (deg C), POWER centroid + MIRCA CCC
+model: JSD ~ b0 + b1*expo + b2*mismatch_T + b3*expo*mismatch_T + country FE
+estimator: OLS with country fixed effects (fractional logit sensitivity)
+inference_primary: within-country unit block bootstrap, B=999, seed=20261003
+inference_benchmark: country-cluster CRVE (documented anti-conservative)
+alpha: 0.05 two-sided
+decomposition_method: Kitagawa-Oaxaca exact within/between/interaction on
+  national share change (JSD itself is NOT decomposed)
+crop_set_primary: PRIMARY_CROP_SET (28 canonical groups)
+crop_set_extended: EXTENDED_CROP_SET
+exclusion_rules:
+  - drop units lacking >=3 canonical crops at either vintage
+  - drop unresolved boundary units (NUTS code churn)
+  - drop units without POWER/MIRCA exposure coverage
+  - drop countries with <3 units in estimation sample
+scope_label: multi-region (Africa/Europe/Americas/Asia), NOT global

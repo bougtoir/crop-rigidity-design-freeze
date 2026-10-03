@@ -1,0 +1,69 @@
+lock_version: 2
+supersedes: SUBNATIONAL_PRIMARY_ANALYSIS_LOCK.yaml   # v1 kept unchanged
+scope_label: multi-region   # binding; "global" claims barred
+created_utc: "2026-10-03"
+
+unit_of_analysis: admin-1 unit (first-level subnational)
+final_sample:
+  n_units: 369
+  n_countries: 38
+  regions: [Sub-Saharan Africa, Europe, North America, Latin America,
+            South/Southeast Asia]
+  missingness_rule: >
+    unit must have complete baseline irrigation (SPAM2000), mismatch_T,
+    JSD outcome, and centroid geometry; vintage pair with gap >= 8y
+
+exposures:
+  primary_irrigation:
+    source: SPAM2000 v3.0.7 zonal (sum of _I over crops / sum of _A)
+    reference_year: 2000
+    field: irr_share_base2000
+    fallback: MIRCA2000 unit-level irrigated/(irrigated+rainfed) — unused in final sample
+    spam2010_status: robustness only (R-IRR-2010)
+  primary_mismatch:
+    source: NASA POWER T2M at unit centroid; MIRCA2000 crop calendars
+    field: mismatch_T
+    temporal_alignment: per-unit y0->y1 agricultural endpoints, ±1y smoothing
+    calendar_approximation: national calendars; validated corr=0.992 vs admin-1
+  secondary_exposures:
+    perennial_strict: predefined secondary hypothesis (flagged under-powered)
+    hhi_baseline: continuity-control exposure only (H_HHI), never primary covariate
+
+outcome:
+  primary: jsd   # within-unit crop-share Jensen-Shannon divergence, continuous
+  secondary: [jsd_sensitivity_variants, kitagawa_decomposition (descriptive)]
+
+primary_model:
+  formula: "JSD ~ irr_share_base2000 + mismatch_T + irr_share_base2000:mismatch_T + C(country)"
+  estimand: coefficient on interaction (beta3), two-sided
+  mechanism_control: "+ hhi_baseline"
+  precision_sensitivity: "+ log(area_baseline)"
+
+inference:
+  method: geographic block bootstrap
+  block_definition: 10x10 degree lat/lon grid over unit centroids (analysis/admin_spatial_blocks.csv)
+  n_blocks: 71
+  bootstrap_reps: 999
+  resample: whole blocks with replacement, refit full model per draw
+  ci: 1.96 x bootstrap SD of beta3
+  alpha: 0.05
+  sided: two-sided
+  seed: 20261003
+  sensitivity_inference: [kmeans block bootstrap, within-country pairs bootstrap, HC3]
+  demoted: [country CRVE (anti-conservative), Conley (not robust in toolchain)]
+
+secondary_hypotheses:
+  - H_PERENNIAL: perennial_strict x mismatch_T (secondary; under-powered, disclosed)
+  - H_HHI: hhi_baseline x mismatch_T continuity control
+  - H_AGGREGATION: Kitagawa W+B+I decomposition, descriptive, no inference frozen
+
+effect_contrasts:
+  primary: marginal effect of mismatch_T at observed irrigation distribution
+  reporting: beta3 + 95% CI + standardized effect + marginal-effect curve
+
+prohibitions:
+  - no outcome association inspected during design
+  - no SPAM2010 in primary role
+  - no HHI/perennial/area covariates in primary model
+  - no "global" claims for empirical results
+  - no post-hoc block-size or method selection after seeing beta3

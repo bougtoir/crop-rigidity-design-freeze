@@ -1,0 +1,8 @@
+covariate,role,in_primary,notes
+country FE,confounder,yes,absorbs institutions/policy/measurement regime
+mismatch_T,exposure,yes,climate shift weighted by baseline calendar
+irr_share_base2000,exposure,yes,SPAM2000 zonal share (pre-outcome)
+perennial_strict,secondary exposure,no,"separate secondary hypothesis, not a covariate in irrigation model"
+hhi_baseline,mechanism-control only,no,added only in mechanism-control model
+area_baseline,precision only,no,log(area) in precision sensitivity only
+n_crops_b,precision,no,collinear with HHI

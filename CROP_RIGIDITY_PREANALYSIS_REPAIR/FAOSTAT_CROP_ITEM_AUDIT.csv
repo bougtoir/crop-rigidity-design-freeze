@@ -1,0 +1,170 @@
+item_code,item_name,include_primary,reason,aggregate_group,possible_overlap
+15,Wheat,1,kept: single crop,single,none
+27,Rice,1,kept: single crop,single,none
+44,Barley,1,kept: single crop,single,none
+56,Maize,1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+71,Rye,1,kept: single crop,single,none
+75,Oats,1,kept: single crop,single,none
+79,Millet,1,kept: single crop,single,none
+83,Sorghum,1,kept: single crop,single,none
+89,Buckwheat,1,kept: single crop,single,none
+92,Quinoa,1,kept: single crop,single,none
+94,Fonio,1,kept: single crop,single,none
+97,Triticale,1,kept: single crop,single,none
+101,Canary seed,1,kept: single crop,single,none
+103,Mixed grains,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+108,Cereals n.e.c.,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+116,Potatoes,1,kept: single crop,single,none
+122,Sweet potatoes,1,kept: single crop,single,none
+125,Cassava,1,kept: single crop,single,none
+135,Yautia,1,kept: single crop,single,none
+136,Taro,1,kept: single crop,single,none
+137,Yams,1,kept: single crop,single,none
+149,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+156,Sugar cane,1,kept: single crop,single,none
+157,Sugar beet,1,kept: single crop,single,none
+161,Other sugar crops n.e.c.,1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+176,"Beans, dry",1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+181,Broad beans,1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+187,"Peas, dry",1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+191,Chickpeas,1,kept: single crop,single,none
+195,Cow peas,1,kept: single crop,single,none
+197,Pigeon peas,1,kept: single crop,single,none
+201,Lentils,1,kept: single crop,single,none
+203,"Bambara beans, dry",1,kept: single crop,single,none
+205,Vetches,1,kept: single crop,single,none
+210,Lupins,1,kept: single crop,single,none
+211,Other pulses n.e.c.,1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+217,Cashew nuts,1,kept: single crop,single,none
+220,Chestnut,1,kept: single crop,single,none
+221,Almonds,1,kept: single crop,single,none
+222,Walnuts,1,kept: single crop,single,none
+223,Pistachios,1,kept: single crop,single,none
+224,Kola nuts,1,kept: single crop,single,none
+225,Hazelnuts,1,kept: single crop,single,none
+226,Areca nuts,1,kept: single crop,single,none
+234,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+236,Soybeans,1,kept: single crop,single,none
+242,Groundnuts,1,kept: single crop,single,none
+249,Coconuts,1,kept: single crop,single,none
+254,Palm fruit oil,1,kept: single crop,single,none
+260,Olives,1,kept: single crop,single,none
+263,Karite nuts,1,kept: single crop,single,none
+265,Castor oil seed,1,kept: single crop,single,none
+267,Sunflower seed,1,kept: single crop,single,none
+270,Rapeseed,1,kept: single crop,single,none
+275,Tung nuts,1,kept: single crop,single,none
+277,Jojoba seeds,1,kept: single crop,single,none
+280,Safflower seed,1,kept: single crop,single,none
+289,Sesame seed,1,kept: single crop,single,none
+292,Mustard seed,1,kept: single crop,single,none
+296,Poppy seeds,1,kept: single crop,single,none
+299,Melonseed,1,kept: single crop,single,none
+305,Tallowtree seeds,1,kept: single crop,single,none
+310,Kapok fruit,1,kept: single crop,single,none
+328,Seed cotton,1,kept: single crop,single,none
+333,Linseed,1,kept: single crop,single,none
+336,Hempseed,1,kept: single crop,single,none
+339,"Other oil seeds, n.e.c.",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+358,Cabbages,1,kept: single crop,single,none
+366,Artichokes,1,kept: single crop,single,none
+367,Asparagus,1,kept: single crop,single,none
+372,Lettuce,1,kept: single crop,single,none
+373,Spinach,1,kept: single crop,single,none
+378,Cassava leaves,1,kept: single crop,single,none
+388,Tomatoes,1,kept: single crop,single,none
+393,Cauliflowers and broccoli,1,kept: single crop,single,none
+394,"Pumpkins, squash and gourds",1,kept: single crop,single,none
+397,Cucumbers and gherkins,1,kept: single crop,single,none
+399,Eggplants,1,kept: single crop,single,none
+401,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+402,"Onions and shallots, green",1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+403,Onions,1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+406,Garlic,1,kept: single crop,single,none
+407,Leeks,1,kept: single crop,single,none
+414,"Beans, green",1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+417,"Peas, green",1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+420,"Broad beans and horse beans, green",1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+423,String beans,1,kept: single crop,single,none
+426,Carrots and turnips,1,kept: single crop,single,none
+430,Okra,1,kept: single crop,single,none
+446,Green maize,1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+459,Chicory roots,1,kept: single crop,single,none
+461,Locust beans (carobs),1,kept: single crop,single,none
+463,"Other vegetables, fresh n.e.c.",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+486,Bananas,1,kept: single crop,single,none
+489,Plantains,1,kept: single crop,single,none
+490,Oranges,1,kept: single crop,single,none
+495,Tangerines,1,kept: single crop,single,none
+497,Lemons and limes,1,kept: single crop,single,none
+507,Grapefruit,1,kept: single crop,single,none
+512,"Other citrus fruit, n.e.c.",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+515,Apples,1,kept: single crop,single,none
+521,Pears,1,kept: single crop,single,none
+523,Quinces,1,kept: single crop,single,none
+526,Apricots,1,kept: single crop,single,none
+530,Sour cherries,1,kept: single crop,single,none
+531,Cherries,1,kept: single crop,single,none
+534,Peaches and nectarines,1,kept: single crop,single,none
+536,Plums,1,kept: single crop,single,none
+541,Other stone fruits,1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+542,Other pome fruits,1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+544,Strawberries,1,kept: single crop,single,none
+547,Raspberries,1,kept: single crop,single,none
+549,Gooseberries,1,kept: single crop,single,none
+550,Currants,1,kept: single crop,single,none
+552,Blueberries,1,kept: single crop,single,none
+554,Cranberries,1,kept: single crop,single,none
+558,Other berries and fruits of the genus vaccinium n.e.c.,1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+560,Grapes,1,kept: single crop,single,none
+567,Watermelons,1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+568,Melon,1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+569,Figs,1,kept: single crop,single,none
+571,Mangoes,1,kept: single crop,single,none
+572,Avocados,1,kept: single crop,single,none
+574,Pineapples,1,kept: single crop,single,none
+577,Dates,1,kept: single crop,single,none
+587,Persimmons,1,kept: single crop,single,none
+591,Cashewapple,1,kept: single crop,single,none
+592,Kiwi,1,kept: single crop,single,none
+600,Papayas,1,kept: single crop,single,none
+603,"Other tropical fruits, n.e.c.",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+619,"Other fruits, n.e.c.",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+656,"Coffee, green",1,kept: single crop,single,none
+661,Cocoa beans,1,kept: single crop,single,none
+667,Tea,1,kept: single crop,single,none
+671,Maté leaves,1,kept: single crop,single,none
+677,Hop cones,1,kept: single crop,single,none
+687,Pepper,1,kept: single crop,single,none
+689,Chillies and peppers,1,kept: single crop,single,"green/dry sibling item pair - kept, flagged"
+692,"Vanilla, raw",1,kept: single crop,single,none
+693,"Cinnamon and cinnamon-tree flowers, raw",1,kept: single crop,single,none
+698,"Cloves (whole stems), raw",1,kept: single crop,single,none
+702,"Nutmeg, mace, cardamoms, raw",1,kept: single crop,single,none
+711,Herbs,1,kept: single crop,single,none
+720,"Ginger, raw",1,kept: single crop,single,none
+723,"Other stimulant, spice and aromatic crops, n.e.c.",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+748,"Peppermint, spearmint",1,kept: single crop,single,none
+754,"Pyrethrum, dried flowers",1,kept: single crop,single,none
+771,"Flax, raw or retted",1,kept: single crop,single,none
+777,"True hemp, raw or retted",1,kept: single crop,single,none
+780,Jute,1,kept: single crop,single,none
+782,"Kenaf, and other textile bast fibres, raw or retted",1,kept: single crop,single,none
+788,"Ramie, raw or retted",1,kept: single crop,single,none
+789,"Sisal, raw",1,kept: single crop,single,none
+800,"Agave fibres, raw, n.e.c.",1,kept: exclusive residual (n.e.c.) class,nec-residual,residual class - exclusive by FAOSTAT definition
+809,"Abaca, manila hemp, raw",1,kept: single crop,single,none
+821,Fibre crops,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+826,Tobacco,1,kept: single crop,single,none
+836,Natural rubber in primary forms,1,kept: single crop,single,none
+1717,Cereals,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1720,Roots and tubers,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1723,Sugar crops,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1726,Pulses,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1729,Treenuts,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1732,"Oilcrops, Oil Equivalent",0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1735,Vegetables,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1738,Fruit,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1804,Citrus Fruit,0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+1841,"Oilcrops, Cake Equivalent",0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items
+17530,"Fibre Crops, Fibre Equivalent",0,excluded: cross-crop aggregate,aggregate,parent aggregate of member items

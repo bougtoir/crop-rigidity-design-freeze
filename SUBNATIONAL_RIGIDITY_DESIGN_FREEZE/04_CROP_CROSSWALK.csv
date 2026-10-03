@@ -1,0 +1,540 @@
+source,source_crop,canonical_crop,faostat_item,mirca_class,lifecycle,total_area_ha,in_primary_set
+eurostat_apro_cpshr_2026,uaa,noncrop,,,noncrop,25260331380.0,False
+eurostat_apro_cpshr_2026,ara,aggregate,,,aggregate,14765484320.0,False
+eurostat_apro_cpshr_2026,j0000,forage,Forage products,25.0,forage,8578558090.0,False
+eurostat_apro_cpshr_2026,c0000,aggregate,,,aggregate,6771538550.0,False
+eurostat_apro_cpshr_2026,g0000,forage,Forage products,25.0,forage,2622959340.0,False
+eurostat_apro_cpshr_2026,pecr,aggregate,,,aggregate,1621860320.0,False
+eurostat_apro_cpshr_2026,q0000,noncrop,,,noncrop,1303053550.0,False
+eurostat_apro_cpshr_2026,i0000,aggregate,,,aggregate,1286380450.0,False
+eurostat_apro_cpshr_2026,o1000,olive,Olives,23.0,perennial_woody,386505060.0,False
+eurostat_apro_cpshr_2026,f0000,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,325805040.0,True
+eurostat_apro_cpshr_2026,r0000,other_roots,Roots and tubers n.e.c.,10.0,annual,285682910.0,True
+eurostat_apro_cpshr_2026,w1000,grapes,Grapes,22.0,perennial_woody,281148350.0,False
+eurostat_apro_cpshr_2026,p0000,aggregate,,,aggregate,251468060.0,False
+eurostat_apro_cpshr_2026,v0000_s0000,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,248568870.0,False
+eurostat_apro_cpshr_2026,r1000,potato,Potatoes,10.0,annual,131076630.0,True
+eurostat_apro_cpshr_2026,r2000,sugar_beet,Sugar beet,8.0,annual,104007470.0,False
+eurostat_apro_cpshr_2026,ara99,other_annual,Other crops n.e.c.,26.0,annual,37783740.0,False
+eurostat_apro_cpshr_2026,k0000,noncrop,,,noncrop,37419260.0,False
+eurostat_apro_cpshr_2026,t0000,citrus,Citrus fruit n.e.c.,21.0,perennial_woody,24962640.0,False
+eurostat_apro_cpshr_2026,e0000,noncrop,,,noncrop,15800830.0,False
+eurostat_apro_cpshr_2026,l0000,noncrop,,,noncrop,9911240.0,False
+eurostat_apro_cpshr_2026,h9000,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,7762360.0,True
+eurostat_apro_cpshr_2026,n0000,noncrop,,,noncrop,5478100.0,False
+eurostat_apro_cpshr_2026,r9000,other_roots,Roots and tubers n.e.c.,10.0,annual,4917460.0,True
+eurostat_apro_cpshr_2026,pecr9,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,4217710.0,True
+fao_subnational_2024,rice,rice,Rice,3.0,annual,570545589.8579009,True
+fao_subnational_2024,wheat,wheat,Wheat,1.0,annual,506022719.4781383,True
+fao_subnational_2024,enset,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,201654930.82999998,True
+fao_subnational_2024,cotton,cotton,"Seed cotton, unginned",13.0,annual,167541942.8607851,True
+fao_subnational_2024,maize,maize,Maize (corn),2.0,annual,107699454.04906002,True
+fao_subnational_2024,corn,maize,Maize (corn),2.0,annual,103466447.0,True
+fao_subnational_2024,chickpea,chickpea,"Chick peas, dry",15.0,annual,74026771.22144476,False
+fao_subnational_2024,palm oil,oil_palm,Oil palm fruit,19.0,perennial_woody,65515116.0,True
+fao_subnational_2024,sugarcane,sugarcane,Sugar cane,8.0,perennial_nonwoody,56315146.32253338,True
+fao_subnational_2024,millet,millet,Millet,6.0,annual,53014382.0,True
+fao_subnational_2024,sorghum,sorghum,Sorghum,5.0,annual,50241761.236545995,True
+fao_subnational_2024,peanut,groundnut,"Groundnuts, excluding shelled",11.0,annual,48333340.0,True
+fao_subnational_2024,bajra,millet,Millet,6.0,annual,43376851.47713476,True
+fao_subnational_2024,teff,other_cereals,Cereals n.e.c.,7.0,annual,35059622.86999999,True
+fao_subnational_2024,cassava,cassava,"Cassava, fresh",9.0,annual,31159005.0,True
+fao_subnational_2024,soghum,other_cereals,Cereals n.e.c.,7.0,annual,29303767.705382433,True
+fao_subnational_2024,rapeseed,rapeseed,Rape or colza seed,12.0,annual,27223312.332545526,True
+fao_subnational_2024,barley,barley,Barley,4.0,annual,24960473.391978957,True
+fao_subnational_2024,soybean,soybean,Soya beans,11.0,annual,21322027.8,True
+fao_subnational_2024,rubber,rubber,"Rubber, natural",19.0,perennial_woody,18273431.0,False
+fao_subnational_2024,coconut,coconut,"Coconuts, in shell",19.0,perennial_woody,17476026.0,False
+fao_subnational_2024,white sorghum,sorghum,Sorghum,5.0,annual,14931819.618958,True
+fao_subnational_2024,coffee,coffee,"Coffee, green",17.0,perennial_woody,13172232.14,True
+fao_subnational_2024,sesame,sesame,Sesame seed,12.0,annual,11056574.838745445,False
+fao_subnational_2024,mungbean,dry_beans,"Beans, dry",15.0,annual,9010926.012905702,True
+fao_subnational_2024,cocoa,cocoa,Cocoa beans,17.0,perennial_woody,8425041.0,True
+fao_subnational_2024,citrus,citrus,Citrus fruit n.e.c.,21.0,perennial_woody,7843014.973694862,False
+fao_subnational_2024,cowpea,cowpea,"Cow peas, dry",15.0,annual,7579417.0,True
+fao_subnational_2024,potato,potato,Potatoes,10.0,annual,7265091.760271146,True
+fao_subnational_2024,mango,mango,"Mangoes, guavas and mangosteens",21.0,perennial_woody,6910808.679979765,False
+fao_subnational_2024,green bean,dry_beans,"Beans, dry",15.0,annual,6526594.0,True
+fao_subnational_2024,faba bean,dry_beans,"Beans, dry",15.0,annual,5915310.5,True
+fao_subnational_2024,lentil,lentil,"Lentils, dry",15.0,annual,5811730.61083367,False
+fao_subnational_2024,sweet potato,potato,Potatoes,10.0,annual,5806771.46,True
+fao_subnational_2024,finger millet,millet,Millet,6.0,annual,5149772.77,True
+fao_subnational_2024,groundnut,groundnut,"Groundnuts, excluding shelled",11.0,annual,5057166.386681505,True
+fao_subnational_2024,onion,onion,"Onions and shallots, dry",16.0,annual,4752886.232812625,False
+fao_subnational_2024,red sorghum,sorghum,Sorghum,5.0,annual,4263992.0,True
+fao_subnational_2024,khat,khat,Other stimulant crops,26.0,perennial_woody,4104266.92,False
+fao_subnational_2024,chillies,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,4056898.295022258,False
+fao_subnational_2024,mash,other_pulses,Pulses n.e.c.,15.0,annual,3347555.645487657,True
+fao_subnational_2024,niger,other_oilseeds,Oil crops n.e.c.,12.0,annual,3303786.43,True
+fao_subnational_2024,dates,dates,Dates,21.0,perennial_woody,3099755.313638203,False
+fao_subnational_2024,field pea,field_pea,"Peas, dry",15.0,annual,2937764.6500000004,False
+fao_subnational_2024,clove,spices,Spices n.e.c.,26.0,annual,2747424.0,False
+fao_subnational_2024,sago,other_roots,Roots and tubers n.e.c.,10.0,annual,2625872.0,True
+fao_subnational_2024,cashew,cashew,"Cashew nuts, in shell",21.0,perennial_woody,2510662.0,False
+fao_subnational_2024,apple,apple,Apples,21.0,perennial_woody,2442961.433832454,False
+fao_subnational_2024,white chickpea,chickpea,"Chick peas, dry",15.0,annual,2432282.2800000003,False
+fao_subnational_2024,guava,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,2354414.2069647918,True
+fao_subnational_2024,red haricot bean,dry_beans,"Beans, dry",15.0,annual,2337476.91,True
+fao_subnational_2024,white maize,maize,Maize (corn),2.0,annual,2236635.0,True
+fao_subnational_2024,banana,banana,Bananas,20.0,perennial_nonwoody,2156728.2370254956,True
+fao_subnational_2024,haricot bean,dry_beans,"Beans, dry",15.0,annual,2129528.76,True
+fao_subnational_2024,white haricot bean,dry_beans,"Beans, dry",15.0,annual,1831432.7500000002,True
+fao_subnational_2024,tomato,tomato,Tomatoes,16.0,annual,1808527.3935653581,False
+fao_subnational_2024,linseed,other_oilseeds,Oil crops n.e.c.,12.0,annual,1754753.4167057872,True
+fao_subnational_2024,vegetables,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,1477674.0,False
+fao_subnational_2024,red pepper,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,1299523.7000000002,False
+fao_subnational_2024,sorghum fodder,sorghum,Sorghum,5.0,annual,1289188.0,True
+fao_subnational_2024,tobacco,tobacco,Unmanufactured tobacco,14.0,annual,1138449.0,False
+fao_subnational_2024,vetch,other_pulses,Pulses n.e.c.,15.0,annual,973216.3599999999,True
+fao_subnational_2024,nutmeg,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,949129.0,True
+fao_subnational_2024,pepper,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,912164.0,False
+fao_subnational_2024,bean,dry_beans,"Beans, dry",15.0,annual,892723.575402,True
+fao_subnational_2024,grass pea,field_pea,"Peas, dry",15.0,annual,877700.6100000001,False
+fao_subnational_2024,stachy roots,other_roots,Roots and tubers n.e.c.,10.0,annual,755515.0,True
+fao_subnational_2024,cayenne pepper,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,740184.0,False
+fao_subnational_2024,shallot,onion,"Onions and shallots, dry",16.0,annual,700873.0,False
+fao_subnational_2024,bambara groundnut,groundnut,"Groundnuts, excluding shelled",11.0,annual,698191.0,True
+fao_subnational_2024,apricot,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,672057.8421691624,True
+fao_subnational_2024,ethiopian cabbage,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,659844.54,False
+fao_subnational_2024,tea,tea,Tea leaves,17.0,perennial_woody,619150.0,True
+fao_subnational_2024,taro,other_roots,Roots and tubers n.e.c.,10.0,annual,575815.7699999999,True
+fao_subnational_2024,watermelon,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,565713.0,False
+fao_subnational_2024,garlic,onion,"Onions and shallots, dry",16.0,annual,551939.6248280047,False
+fao_subnational_2024,grapes,grapes,Grapes,22.0,perennial_woody,547578.3415621207,False
+fao_subnational_2024,castorseed,other_oilseeds,Oil crops n.e.c.,12.0,annual,481210.036422501,True
+fao_subnational_2024,albar cotton,cotton,"Seed cotton, unginned",13.0,annual,433329.0,True
+fao_subnational_2024,cabbage,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,416319.56,False
+fao_subnational_2024,oat,oats,Oats,7.0,annual,400626.38999999996,False
+fao_subnational_2024,fenugreek,unmapped,,,unmapped,384942.37,False
+fao_subnational_2024,pomegranate,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,361915.96114933223,True
+fao_subnational_2024,peach,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,353649.78065560496,True
+fao_subnational_2024,durian,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,351373.0,True
+fao_subnational_2024,fonio,other_cereals,Cereals n.e.c.,7.0,annual,312638.0,True
+fao_subnational_2024,red chickpea,chickpea,"Chick peas, dry",15.0,annual,307018.64999999997,False
+fao_subnational_2024,hops,noncrop,,,noncrop,291144.38000000006,False
+fao_subnational_2024,alfalfa,forage,Forage products,25.0,forage,278607.0,False
+fao_subnational_2024,tangerine,citrus,Citrus fruit n.e.c.,21.0,perennial_woody,266958.0,False
+fao_subnational_2024,gibto bean,dry_beans,"Beans, dry",15.0,annual,265208.56000000006,True
+fao_subnational_2024,plum,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,240882.23391339535,True
+fao_subnational_2024,yam,yams,Yams,10.0,annual,238529.87,True
+fao_subnational_2024,pigeon pea,pigeon_pea,"Pigeon peas, dry",15.0,annual,214848.11,False
+fao_subnational_2024,flue cured tobacco,tobacco,Unmanufactured tobacco,14.0,annual,185252.0,False
+fao_subnational_2024,orange,citrus,Citrus fruit n.e.c.,21.0,perennial_woody,148584.32,False
+fao_subnational_2024,pear,apple,Apples,21.0,perennial_woody,141011.7361392149,False
+fao_subnational_2024,avocado,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,117511.27,True
+fao_subnational_2024,peanuts,groundnut,"Groundnuts, excluding shelled",11.0,annual,114379.77,True
+fao_subnational_2024,sunflower,sunflower,Sunflower seed,12.0,annual,113065.45000000001,True
+fao_subnational_2024,kidney bean,dry_beans,"Beans, dry",15.0,annual,111466.0,True
+fao_subnational_2024,mangosteen,mango,"Mangoes, guavas and mangosteens",21.0,perennial_woody,102853.0,False
+fao_subnational_2024,green pepper,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,96226.86,False
+fao_subnational_2024,dry bean,dry_beans,"Beans, dry",15.0,annual,71744.0,True
+fao_subnational_2024,almond,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,63138.0,True
+fao_subnational_2024,ginger,spices,Spices n.e.c.,26.0,annual,56592.9789,False
+fao_subnational_2024,grasses,aggregate,,,aggregate,56167.0,False
+fao_subnational_2024,sweet cassava,cassava,"Cassava, fresh",9.0,annual,53194.44,True
+fao_subnational_2024,papaya,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,48568.4,True
+fao_subnational_2024,other vegetables,aggregate,,,aggregate,48186.0,False
+fao_subnational_2024,capsicum,unmapped,,,unmapped,47817.0,False
+fao_subnational_2024,broad bean,dry_beans,"Beans, dry",15.0,annual,43824.0,True
+fao_subnational_2024,okra,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,38757.0,False
+fao_subnational_2024,bitter cassava,cassava,"Cassava, fresh",9.0,annual,38737.409999999996,True
+fao_subnational_2024,lemon,citrus,Citrus fruit n.e.c.,21.0,perennial_woody,34647.87,False
+fao_subnational_2024,sweetmelon,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,33407.0,False
+fao_subnational_2024,unknown pea,unmapped,,,unmapped,29646.78,False
+fao_subnational_2024,turmeric,spices,Spices n.e.c.,26.0,annual,28513.3524,False
+fao_subnational_2024,beetroot,unmapped,,,unmapped,27300.25,False
+fao_subnational_2024,carrot,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,26759.03,False
+fao_subnational_2024,lima bean,dry_beans,"Beans, dry",15.0,annual,26144.43,True
+fao_subnational_2024,safflower,other_oilseeds,Oil crops n.e.c.,12.0,annual,22655.43,True
+fao_subnational_2024,galangal,unmapped,,,unmapped,22413.6581,False
+fao_subnational_2024,pea,other_pulses,Pulses n.e.c.,15.0,annual,18586.0,True
+fao_subnational_2024,yellow maize,maize,Maize (corn),2.0,annual,18460.0,True
+fao_subnational_2024,mandarin,citrus,Citrus fruit n.e.c.,21.0,perennial_woody,16591.0,False
+fao_subnational_2024,squash,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,16039.0,False
+fao_subnational_2024,other fruit,aggregate,,,aggregate,15369.0,False
+fao_subnational_2024,seed maize,maize,Maize (corn),2.0,annual,13047.0,True
+fao_subnational_2024,cucumber,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,5531.0,False
+fao_subnational_2024,chrysanthemum,unmapped,,,unmapped,5389.7617,False
+fao_subnational_2024,raddish,unmapped,,,unmapped,5088.0,False
+fao_subnational_2024,jews mallow,unmapped,,,unmapped,5055.0,False
+fao_subnational_2024,leek,unmapped,,,unmapped,3482.0,False
+fao_subnational_2024,eggplant,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,3369.0,False
+fao_subnational_2024,green haricot bean,dry_beans,"Beans, dry",15.0,annual,3302.0,True
+fao_subnational_2024,fig,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,2541.0,True
+fao_subnational_2024,swiss chard,unmapped,,,unmapped,2345.59,False
+fao_subnational_2024,pineapple,pineapple,Pineapples,20.0,perennial_nonwoody,2042.02,False
+fao_subnational_2024,rose,unmapped,,,unmapped,1812.1758,False
+fao_subnational_2024,grass seed,unmapped,,,unmapped,1609.0,False
+fao_subnational_2024,tuberose,unmapped,,,unmapped,1455.9088000000004,False
+fao_subnational_2024,quince,unmapped,,,unmapped,1344.0,False
+fao_subnational_2024,popcorn,maize,Maize (corn),2.0,annual,988.0,True
+fao_subnational_2024,paprika,unmapped,,,unmapped,976.0,False
+fao_subnational_2024,lettuce,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,768.7800000000001,False
+fao_subnational_2024,orchid,unmapped,,,unmapped,735.3139,False
+fao_subnational_2024,yams/cassava,cassava,"Cassava, fresh",9.0,annual,527.0,True
+fao_subnational_2024,burley tobacco,tobacco,Unmanufactured tobacco,14.0,annual,319.0,False
+fao_subnational_2024,non-productive coffee,coffee,"Coffee, green",17.0,perennial_woody,283.0,True
+fao_subnational_2024,nettlespurge,unmapped,,,unmapped,173.0,False
+fao_subnational_2024,seed potato,potato,Potatoes,10.0,annual,84.0,True
+fao_subnational_2024,silage,forage,Forage products,25.0,forage,77.0,False
+fao_subnational_2024,delmac cotton,cotton,"Seed cotton, unginned",13.0,annual,31.0,True
+fao_subnational_2024,non-productive sugarcane,sugarcane,Sugar cane,8.0,perennial_nonwoody,9.0,True
+fao_subnational_2024,other legumes hays,aggregate,,,aggregate,3.0,False
+harveststat_africa_v1.2,maize,maize,Maize (corn),2.0,annual,3070378776.1323,True
+harveststat_africa_v1.2,sorghum,sorghum,Sorghum,5.0,annual,719327350.5249065,True
+harveststat_africa_v1.2,millet,millet,Millet,6.0,annual,613852626.1568656,True
+harveststat_africa_v1.2,groundnuts (in shell),groundnut,"Groundnuts, excluding shelled",11.0,annual,285440123.8971018,True
+harveststat_africa_v1.2,rice,rice,Rice,3.0,annual,259246011.8599771,True
+harveststat_africa_v1.2,cowpea,cowpea,"Cow peas, dry",15.0,annual,254685251.87770563,True
+harveststat_africa_v1.2,cassava,cassava,"Cassava, fresh",9.0,annual,252195018.33245963,True
+harveststat_africa_v1.2,yams,yams,Yams,10.0,annual,118920413.18571725,True
+harveststat_africa_v1.2,sesame seed,sesame,Sesame seed,12.0,annual,106578026.67628564,False
+harveststat_africa_v1.2,wheat,wheat,Wheat,1.0,annual,95161110.47026533,True
+harveststat_africa_v1.2,beans (mixed),aggregate,,,aggregate,79040347.26067586,False
+harveststat_africa_v1.2,cotton,cotton,"Seed cotton, unginned",13.0,annual,55086532.68737709,True
+harveststat_africa_v1.2,teff,other_cereals,Cereals n.e.c.,7.0,annual,52114910.42795253,True
+harveststat_africa_v1.2,maize (yellow),maize,Maize (corn),2.0,annual,46769890.0,True
+harveststat_africa_v1.2,soybean,soybean,Soya beans,11.0,annual,39187522.469120026,True
+harveststat_africa_v1.2,coffee,coffee,"Coffee, green",17.0,perennial_woody,38896215.96550882,True
+harveststat_africa_v1.2,sunflower seed,sunflower,Sunflower seed,12.0,annual,29620493.621455807,True
+harveststat_africa_v1.2,banana,banana,Bananas,20.0,perennial_nonwoody,26984838.955173258,True
+harveststat_africa_v1.2,taro,other_roots,Roots and tubers n.e.c.,10.0,annual,23244482.54032115,True
+harveststat_africa_v1.2,barley,barley,Barley,4.0,annual,21621789.02295536,True
+harveststat_africa_v1.2,sweet potatoes,potato,Potatoes,10.0,annual,17931614.102277674,True
+harveststat_africa_v1.2,tomato,tomato,Tomatoes,16.0,annual,12979079.855859207,False
+harveststat_africa_v1.2,okras,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,12965503.217919853,False
+harveststat_africa_v1.2,potato,potato,Potatoes,10.0,annual,10083222.690900821,True
+harveststat_africa_v1.2,fava bean,dry_beans,"Beans, dry",15.0,annual,9072564.229597066,True
+harveststat_africa_v1.2,pigeon pea,pigeon_pea,"Pigeon peas, dry",15.0,annual,8973842.525819149,False
+harveststat_africa_v1.2,cereal crops,aggregate,,,aggregate,8898692.0,False
+harveststat_africa_v1.2,onions,onion,"Onions and shallots, dry",16.0,annual,6233620.402702463,False
+harveststat_africa_v1.2,bambara groundnut,groundnut,"Groundnuts, excluding shelled",11.0,annual,5884199.618554866,True
+harveststat_africa_v1.2,sorghum (red),sorghum,Sorghum,5.0,annual,5692679.886143329,True
+harveststat_africa_v1.2,melon,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,5679421.778816012,False
+harveststat_africa_v1.2,field peas,field_pea,"Peas, dry",15.0,annual,5511671.202333027,False
+harveststat_africa_v1.2,neug,other_oilseeds,Oil crops n.e.c.,12.0,annual,5226950.416017078,True
+harveststat_africa_v1.2,chick peas,chickpea,"Chick peas, dry",15.0,annual,3519203.886623767,False
+harveststat_africa_v1.2,sugarcane,sugarcane,Sugar cane,8.0,perennial_nonwoody,3218382.9973238753,True
+harveststat_africa_v1.2,mung bean,dry_beans,"Beans, dry",15.0,annual,3171290.5831454,True
+harveststat_africa_v1.2,beans (white),dry_beans,"Beans, dry",15.0,annual,2709037.1790290177,True
+harveststat_africa_v1.2,chat,khat,Other stimulant crops,26.0,perennial_woody,2673174.6707076095,False
+harveststat_africa_v1.2,fonio,other_cereals,Cereals n.e.c.,7.0,annual,2621956.4512494975,True
+harveststat_africa_v1.2,tea,tea,Tea leaves,17.0,perennial_woody,2385112.25,True
+harveststat_africa_v1.2,grass pea,field_pea,"Peas, dry",15.0,annual,2373799.9452885697,False
+harveststat_africa_v1.2,linseed,other_oilseeds,Oil crops n.e.c.,12.0,annual,2272697.982975998,True
+harveststat_africa_v1.2,tobacco,tobacco,Unmanufactured tobacco,14.0,annual,2253850.679855936,False
+harveststat_africa_v1.2,cottonseed,cotton,"Seed cotton, unginned",13.0,annual,2184570.5696994397,True
+harveststat_africa_v1.2,sorrel,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,1975261.557219708,True
+harveststat_africa_v1.2,canola seed,rapeseed,Rape or colza seed,12.0,annual,1777867.0,True
+harveststat_africa_v1.2,green bean,dry_beans,"Beans, dry",15.0,annual,1662990.0,True
+harveststat_africa_v1.2,chili pepper,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,1638375.7849812964,False
+harveststat_africa_v1.2,lentils,lentil,"Lentils, dry",15.0,annual,1551663.62974978,False
+harveststat_africa_v1.2,beans (rosecoco),dry_beans,"Beans, dry",15.0,annual,1509197.5578772016,True
+harveststat_africa_v1.2,bush bean,dry_beans,"Beans, dry",15.0,annual,1397082.329795,True
+harveststat_africa_v1.2,cashew (unshelled),cashew,"Cashew nuts, in shell",21.0,perennial_woody,1143014.8021132126,False
+harveststat_africa_v1.2,beans (red),dry_beans,"Beans, dry",15.0,annual,1131039.1398253907,True
+harveststat_africa_v1.2,rape,other_oilseeds,Oil crops n.e.c.,12.0,annual,1122814.0406365716,True
+harveststat_africa_v1.2,hops,noncrop,,,noncrop,1108033.628541829,False
+harveststat_africa_v1.2,ginger,spices,Spices n.e.c.,26.0,annual,1004085.9199999999,False
+harveststat_africa_v1.2,pea,other_pulses,Pulses n.e.c.,15.0,annual,874981.2496801999,True
+harveststat_africa_v1.2,squash and melon seeds,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,841930.0,False
+harveststat_africa_v1.2,oats,oats,Oats,7.0,annual,836882.7574409915,False
+harveststat_africa_v1.2,pole bean,dry_beans,"Beans, dry",15.0,annual,803071.72179,True
+harveststat_africa_v1.2,watermelon,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,710498.3182370069,False
+harveststat_africa_v1.2,pam nut,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,578287.0,True
+harveststat_africa_v1.2,cotton (american),cotton,"Seed cotton, unginned",13.0,annual,455220.00000000006,True
+harveststat_africa_v1.2,cabbage,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,444263.6428901744,False
+harveststat_africa_v1.2,pyrethrum,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,417612.18446,True
+harveststat_africa_v1.2,ethiopian cabbage,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,355669.41899001907,False
+harveststat_africa_v1.2,kale,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,348742.39,False
+harveststat_africa_v1.2,goussi,dry_beans,"Beans, dry",15.0,annual,315197.5794176663,True
+harveststat_africa_v1.2,fenugreek,unmapped,,,unmapped,273587.6210175211,False
+harveststat_africa_v1.2,jute,other_oilseeds,Oil crops n.e.c.,12.0,annual,257299.0,True
+harveststat_africa_v1.2,cotton (acala),cotton,"Seed cotton, unginned",13.0,annual,252399.99999999997,True
+harveststat_africa_v1.2,pineapple,pineapple,Pineapples,20.0,perennial_nonwoody,251546.95248709,False
+harveststat_africa_v1.2,velvet bean,dry_beans,"Beans, dry",15.0,annual,169016.6611974063,True
+harveststat_africa_v1.2,bean (hyacinth),dry_beans,"Beans, dry",15.0,annual,123696.34828563436,True
+harveststat_africa_v1.2,garlic,onion,"Onions and shallots, dry",16.0,annual,122622.17878181988,False
+harveststat_africa_v1.2,carrots,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,65650.71428222678,False
+harveststat_africa_v1.2,paprika,unmapped,,,unmapped,64513.88066035645,False
+harveststat_africa_v1.2,capsicum chinense,unmapped,,,unmapped,62754.28666065271,False
+harveststat_africa_v1.2,geocarpa groundnut,groundnut,"Groundnuts, excluding shelled",11.0,annual,59102.11298022467,True
+harveststat_africa_v1.2,eggplant,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,58660.72429040388,False
+harveststat_africa_v1.2,lettuce,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,57264.473458154454,False
+harveststat_africa_v1.2,macadamia,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,54008.0,True
+harveststat_africa_v1.2,green peppers,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,50525.04560616388,False
+harveststat_africa_v1.2,squash,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,28874.208613667848,False
+harveststat_africa_v1.2,molokhia,unmapped,,,unmapped,16328.409318565475,False
+harveststat_africa_v1.2,avocado,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,15487.9,True
+harveststat_africa_v1.2,beet,unmapped,,,unmapped,11934.956960898744,False
+harveststat_africa_v1.2,coriander,spices,Spices n.e.c.,26.0,annual,7430.041594827586,False
+harveststat_africa_v1.2,pepper,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,6005.0,False
+harveststat_africa_v1.2,cucumber,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,3356.3862351580874,False
+harveststat_africa_v1.2,celery,unmapped,,,unmapped,3.23,False
+ibge_pam,lavouras temporárias,aggregate,,,aggregate,69627596.0,False
+ibge_pam,soja  (em grão),soybean,Soya beans,11.0,annual,33183119.0,True
+ibge_pam,milho  (em grão),maize,Maize (corn),2.0,annual,14970502.0,True
+ibge_pam,cana-de-açúcar (2),sugarcane,Sugar cane,8.0,perennial_nonwoody,11942440.0,True
+ibge_pam,soja (em grão),soybean,Soya beans,11.0,annual,10219590.0,True
+ibge_pam,lavouras permanentes,aggregate,,,aggregate,5832166.0,False
+ibge_pam,milho (em grão),maize,Maize (corn),2.0,annual,5650821.0,True
+ibge_pam,feijão  (em grão),dry_beans,"Beans, dry",15.0,annual,2587772.0,True
+ibge_pam,mandioca (2),cassava,"Cassava, fresh",9.0,annual,2257101.0,True
+ibge_pam,trigo  (em grão),wheat,Wheat,1.0,annual,2166170.0,True
+ibge_pam,feijão (em grão),dry_beans,"Beans, dry",15.0,annual,2135030.0,True
+ibge_pam,café  (beneficiado) (2),coffee,"Coffee, green",17.0,perennial_woody,1996604.0,True
+ibge_pam,arroz (em casca),rice,Rice,3.0,annual,1949221.0,True
+ibge_pam,arroz  (em casca),rice,Rice,3.0,annual,1943938.0,True
+ibge_pam,café (beneficiado),coffee,"Coffee, green",17.0,perennial_woody,1292472.0,True
+ibge_pam,algodão herbáceo  (em caroço),cotton,"Seed cotton, unginned",13.0,annual,996188.0,True
+ibge_pam,trigo (em grão),wheat,Wheat,1.0,annual,933498.0,True
+ibge_pam,cacau  (em amêndoa) (2),cocoa,Cocoa beans,17.0,perennial_woody,720055.0,True
+ibge_pam,laranja (2),citrus,Citrus fruit n.e.c.,21.0,perennial_woody,642210.0,False
+ibge_pam,castanha de caju (2),cashew,"Cashew nuts, in shell",21.0,perennial_woody,567587.0,False
+ibge_pam,sorgo granífero  (em grão),sorghum,Sorghum,5.0,annual,558189.0,True
+ibge_pam,algodão herbáceo (caroço),cotton,"Seed cotton, unginned",13.0,annual,526700.0,True
+ibge_pam,cacau (em amêndoa),cocoa,Cocoa beans,17.0,perennial_woody,493224.0,True
+ibge_pam,banana (2),banana,Bananas,20.0,perennial_nonwoody,463771.0,True
+ibge_pam,fumo  (em folha),tobacco,Unmanufactured tobacco,14.0,annual,376503.0,False
+ibge_pam,aveia  (em grão),oats,Oats,7.0,annual,330184.0,False
+ibge_pam,fumo (em folha),tobacco,Unmanufactured tobacco,14.0,annual,301334.0,False
+ibge_pam,banana,banana,Bananas,20.0,perennial_nonwoody,273466.0,True
+ibge_pam,coco-da-baía (1) (2),coconut,"Coconuts, in shell",19.0,perennial_woody,233933.0,False
+ibge_pam,sorgo granífero (em grão),sorghum,Sorghum,5.0,annual,221563.0,True
+ibge_pam,batata-inglesa,potato,Potatoes,10.0,annual,220160.0,True
+ibge_pam,sisal ou agave  (fibra) (2),sisal,"Sisal, raw",26.0,perennial_woody,199104.0,False
+ibge_pam,laranja,citrus,Citrus fruit n.e.c.,21.0,perennial_woody,199048.0,False
+ibge_pam,sisal ou agave (fibra),sisal,"Sisal, raw",26.0,perennial_woody,196330.0,False
+ibge_pam,coco-da-baía (1),coconut,"Coconuts, in shell",19.0,perennial_woody,187273.0,False
+ibge_pam,amendoim  (em casca),groundnut,"Groundnuts, excluding shelled",11.0,annual,154556.0,True
+ibge_pam,borracha  (látex coagulado) (2),rubber,"Rubber, natural",19.0,perennial_woody,146669.0,False
+ibge_pam,castanha de cajú,unmapped,,,unmapped,138302.0,False
+ibge_pam,melancia,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,136912.0,False
+ibge_pam,dendê  (coco) (2),oil_palm,Oil palm fruit,19.0,perennial_woody,135546.0,True
+ibge_pam,mamona (baga),other_oilseeds,Oil crops n.e.c.,12.0,annual,118401.0,True
+ibge_pam,cebola,onion,"Onions and shallots, dry",16.0,annual,110252.0,False
+ibge_pam,cevada (em grão),barley,Barley,4.0,annual,103746.0,True
+ibge_pam,abacaxi (1) (2),pineapple,Pineapples,20.0,perennial_nonwoody,97749.0,False
+ibge_pam,tomate,tomato,Tomatoes,16.0,annual,93753.0,False
+ibge_pam,cevada  (em grão),barley,Barley,4.0,annual,91055.0,True
+ibge_pam,aveia (em grão),oats,Oats,7.0,annual,83623.0,False
+ibge_pam,batata-doce,potato,Potatoes,10.0,annual,78959.0,True
+ibge_pam,uva (2),grapes,Grapes,22.0,perennial_woody,77164.0,False
+ibge_pam,erva-mate  (folha verde) (2),unmapped,,,unmapped,74943.0,False
+ibge_pam,manga (2),mango,"Mangoes, guavas and mangosteens",21.0,perennial_woody,64238.0,False
+ibge_pam,girassol  (em grão),sunflower,Sunflower seed,12.0,annual,61167.0,True
+ibge_pam,borracha (látex coagulado),rubber,"Rubber, natural",19.0,perennial_woody,53890.0,False
+ibge_pam,tangerina (2),unmapped,,,unmapped,49640.0,False
+ibge_pam,uva,grapes,Grapes,22.0,perennial_woody,47547.0,False
+ibge_pam,limão (2),unmapped,,,unmapped,46465.0,False
+ibge_pam,mamona  (baga),other_oilseeds,Oil crops n.e.c.,12.0,annual,44351.0,True
+ibge_pam,dendê (coco),oil_palm,Oil palm fruit,19.0,perennial_woody,41751.0,True
+ibge_pam,maracujá (2),unmapped,,,unmapped,41653.0,False
+ibge_pam,erva-mate (folha verde),unmapped,,,unmapped,40356.0,False
+ibge_pam,melão,unmapped,,,unmapped,35663.0,False
+ibge_pam,manga,mango,"Mangoes, guavas and mangosteens",21.0,perennial_woody,35279.0,False
+ibge_pam,mamão (2),unmapped,,,unmapped,35157.0,False
+ibge_pam,maçã (2),apple,Apples,21.0,perennial_woody,34214.0,False
+ibge_pam,maçã,apple,Apples,21.0,perennial_woody,29578.0,False
+ibge_pam,pimenta-do-reino (2),vegetables,"Vegetables, fresh n.e.c.",16.0,annual,25833.0,False
+ibge_pam,palmito (2),oil_palm,Oil palm fruit,19.0,perennial_woody,24212.0,True
+ibge_pam,alho,unmapped,,,unmapped,23669.0,False
+ibge_pam,tangerina,unmapped,,,unmapped,22777.0,False
+ibge_pam,maracujá,unmapped,,,unmapped,21695.0,False
+ibge_pam,mamão,unmapped,,,unmapped,21623.0,False
+ibge_pam,pêssego,unmapped,,,unmapped,19778.0,False
+ibge_pam,goiaba (2),unmapped,,,unmapped,17486.0,False
+ibge_pam,pêssego (2),unmapped,,,unmapped,17364.0,False
+ibge_pam,amendoim (em casca),groundnut,"Groundnuts, excluding shelled",11.0,annual,17202.0,True
+ibge_pam,triticale  (em grão),triticale,Triticale,7.0,annual,17063.0,False
+ibge_pam,fava  (em grão),other_pulses,Pulses n.e.c.,15.0,annual,16533.0,True
+ibge_pam,guaraná (semente),unmapped,,,unmapped,11831.0,False
+ibge_pam,urucum  (semente) (2),unmapped,,,unmapped,11709.0,False
+ibge_pam,linho  (semente),unmapped,,,unmapped,11660.0,False
+ibge_pam,guaraná  (semente) (2),unmapped,,,unmapped,11477.0,False
+ibge_pam,abacate (2),unmapped,,,unmapped,10920.0,False
+ibge_pam,limão,unmapped,,,unmapped,10417.0,False
+ibge_pam,goiaba,unmapped,,,unmapped,8430.0,False
+ibge_pam,caqui (2),unmapped,,,unmapped,8237.0,False
+ibge_pam,fava (em grão),other_pulses,Pulses n.e.c.,15.0,annual,7636.0,True
+ibge_pam,linho (semente),unmapped,,,unmapped,5573.0,False
+ibge_pam,malva (fibra),unmapped,,,unmapped,4356.0,False
+ibge_pam,centeio (em grão),unmapped,,,unmapped,4015.0,False
+ibge_pam,abacate,unmapped,,,unmapped,3925.0,False
+ibge_pam,noz  (fruto seco) (2),unmapped,,,unmapped,3508.0,False
+ibge_pam,urucum (semente),unmapped,,,unmapped,3508.0,False
+ibge_pam,centeio  (em grão),unmapped,,,unmapped,3469.0,False
+ibge_pam,malva  (fibra),unmapped,,,unmapped,2926.0,False
+ibge_pam,figo (2),other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,2804.0,True
+ibge_pam,caqui,unmapped,,,unmapped,2635.0,False
+ibge_pam,figo,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,2506.0,True
+ibge_pam,palmito,oil_palm,Oil palm fruit,19.0,perennial_woody,1742.0,True
+ibge_pam,ervilha (em grão),unmapped,,,unmapped,1593.0,False
+ibge_pam,algodão arbóreo (em caroço),cotton,"Seed cotton, unginned",13.0,annual,1526.0,True
+ibge_pam,pêra,unmapped,,,unmapped,1383.0,False
+ibge_pam,noz (fruto seco),unmapped,,,unmapped,1345.0,False
+ibge_pam,pera (2),unmapped,,,unmapped,1249.0,False
+ibge_pam,pimenta-do-reino,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,1112.0,False
+ibge_pam,ervilha  (em grão),unmapped,,,unmapped,1052.0,False
+ibge_pam,juta (fibra),unmapped,,,unmapped,677.0,False
+ibge_pam,azeitona (2),olive,Olives,23.0,perennial_woody,574.0,False
+ibge_pam,tungue (fruto seco),unmapped,,,unmapped,311.0,False
+ibge_pam,marmelo,unmapped,,,unmapped,238.0,False
+ibge_pam,chá-da-índia  (folha verde) (2),tea,Tea leaves,17.0,perennial_woody,185.0,True
+ibge_pam,juta  (fibra),unmapped,,,unmapped,156.0,False
+ibge_pam,marmelo (2),unmapped,,,unmapped,113.0,False
+ibge_pam,rami  (fibra),unmapped,,,unmapped,85.0,False
+ibge_pam,tungue  (fruto seco) (2),unmapped,,,unmapped,64.0,False
+statcan_32100359,"wheat, all",aggregate,,,aggregate,663714980.3414043,False
+statcan_32100359,"wheat, spring",wheat,Wheat,1.0,annual,524353659.37335825,True
+statcan_32100359,tame hay,aggregate,,,aggregate,353633874.05542046,False
+statcan_32100359,"wheat, all excluding durum wheat",aggregate,,,aggregate,292442681.45064974,False
+statcan_32100359,canola (rapeseed),rapeseed,Rape or colza seed,12.0,annual,286227630.6493653,True
+statcan_32100359,barley,barley,Barley,4.0,annual,232840933.7921409,True
+statcan_32100359,"wheat, canada western red spring (cwrs)",wheat,Wheat,1.0,annual,231865744.18507397,True
+statcan_32100359,"wheat, durum",wheat,Wheat,1.0,annual,111987675.53860688,True
+statcan_32100359,oats,oats,Oats,7.0,annual,98054365.07197255,False
+statcan_32100359,corn for grain,maize,Maize (corn),2.0,annual,65213408.52540057,True
+statcan_32100359,soybeans,soybean,Soya beans,11.0,annual,62602320.51191232,True
+statcan_32100359,"peas, dry",field_pea,"Peas, dry",15.0,annual,44650500.235757545,False
+statcan_32100359,lentils,lentil,"Lentils, dry",15.0,annual,36383419.6620391,False
+statcan_32100359,flaxseed,other_oilseeds,Oil crops n.e.c.,12.0,annual,35423048.42912528,True
+statcan_32100359,"wheat, winter remaining",wheat,Wheat,1.0,annual,27265056.131121278,True
+statcan_32100359,mixed grains,aggregate,,,aggregate,19388355.96664378,False
+statcan_32100359,corn for silage,maize,Maize (corn),2.0,annual,17607922.86912525,True
+statcan_32100359,"wheat, canada prairie spring red (cpsr) and canada prairie spring white (cpsw)",wheat,Wheat,1.0,annual,17588262.02657996,True
+statcan_32100359,"rye, all",aggregate,,,aggregate,13253823.444119863,False
+statcan_32100359,"rye, fall remaining",aggregate,,,aggregate,12286901.160033349,False
+statcan_32100359,mustard seed,other_oilseeds,Oil crops n.e.c.,12.0,annual,9898696.596676104,True
+statcan_32100359,"beans, all dry (white and coloured)",aggregate,,,aggregate,5830665.405144096,False
+statcan_32100359,canary seed,other_cereals,Cereals n.e.c.,7.0,annual,5718431.103248742,True
+statcan_32100359,"wheat, canada western soft white spring (cwsws)",wheat,Wheat,1.0,annual,4312827.559806018,True
+statcan_32100359,"wheat, other spring",aggregate,,,aggregate,4178321.3836031943,False
+statcan_32100359,chick peas,chickpea,"Chick peas, dry",15.0,annual,3509649.9895568285,False
+statcan_32100359,sunflower seed,sunflower,Sunflower seed,12.0,annual,3313165.8025960624,True
+statcan_32100359,"beans, dry coloured",dry_beans,"Beans, dry",15.0,annual,2857757.2669134242,True
+statcan_32100359,"wheat, canada western extra strong (cwes)",wheat,Wheat,1.0,annual,2698039.175214,True
+statcan_32100359,"wheat, canada northern hard red (cnhr)",wheat,Wheat,1.0,annual,2080140.8558698802,True
+statcan_32100359,"beans, dry white",dry_beans,"Beans, dry",15.0,annual,1748248.853095914,True
+statcan_32100359,buckwheat,other_cereals,Cereals n.e.c.,7.0,annual,1229101.11474135,True
+statcan_32100359,sugar beets,sugar_beet,Sugar beet,8.0,annual,1228808.931707826,False
+statcan_32100359,"rye, spring",rye,Rye,7.0,annual,951586.721682924,False
+statcan_32100359,triticale,triticale,Triticale,7.0,annual,661252.696857222,False
+statcan_32100359,faba beans,dry_beans,"Beans, dry",15.0,annual,461060.780044452,True
+statcan_32100359,"wheat, canada eastern red spring (cers)",wheat,Wheat,1.0,annual,456837.885370182,True
+statcan_32100359,hemp,spices,Spices n.e.c.,26.0,annual,106220.67325523401,False
+statcan_32100359,"wheat, canada western hard white spring (cwhws)",wheat,Wheat,1.0,annual,55432.625184234,True
+statcan_32100359,coriander seed,spices,Spices n.e.c.,26.0,annual,34802.965211999996,False
+statcan_32100359,caraway seed,spices,Spices n.e.c.,26.0,annual,22257.71031,False
+statcan_32100359,safflower,other_oilseeds,Oil crops n.e.c.,12.0,annual,21043.653384,True
+statcan_32100359,"wheat, canada western special purpose (cwsp)",wheat,Wheat,1.0,annual,10076.6724858,True
+statcan_32100359,borage seed,spices,Spices n.e.c.,26.0,annual,4856.227704,False
+usda_census_qs,hay,forage,Forage products,25.0,forage,102337078.75910042,False
+usda_census_qs,corn,maize,Maize (corn),2.0,annual,75199578.3282806,True
+usda_census_qs,soybeans,soybean,Soya beans,11.0,annual,69674019.99732341,True
+usda_census_qs,wheat,wheat,Wheat,1.0,annual,69234513.17925753,True
+usda_census_qs,hay & haylage,aggregate,,,aggregate,57309565.285542846,False
+usda_census_qs,cotton,cotton,"Seed cotton, unginned",13.0,annual,21672967.480619296,True
+usda_census_qs,cut christmas trees,noncrop,,,noncrop,13300579.204453973,False
+usda_census_qs,haylage,aggregate,,,aggregate,11701777.521463523,False
+usda_census_qs,sorghum,sorghum,Sorghum,5.0,annual,5357088.507563868,True
+usda_census_qs,vegetable totals,aggregate,,,aggregate,5208941.187740508,False
+usda_census_qs,rice,rice,Rice,3.0,annual,4415149.086900583,True
+usda_census_qs,barley,barley,Barley,4.0,annual,3172416.1363084624,True
+usda_census_qs,sunflower,sunflower,Sunflower seed,12.0,annual,2439572.121267588,True
+usda_census_qs,beans,dry_beans,"Beans, dry",15.0,annual,1806537.749541384,True
+usda_census_qs,potatoes,potato,Potatoes,10.0,annual,1397588.339617272,True
+usda_census_qs,peanuts,groundnut,"Groundnuts, excluding shelled",11.0,annual,1382689.837707042,True
+usda_census_qs,canola,rapeseed,Rape or colza seed,12.0,annual,1349981.5253780338,True
+usda_census_qs,sugarbeets,sugar_beet,Sugar beet,8.0,annual,1335929.625830868,False
+usda_census_qs,oats,oats,Oats,7.0,annual,1235170.9946857083,False
+usda_census_qs,sugarcane,sugarcane,Sugar cane,8.0,perennial_nonwoody,1040443.952782506,True
+usda_census_qs,grasses & legumes totals,aggregate,,,aggregate,1022836.0804990861,False
+usda_census_qs,peas,other_pulses,Pulses n.e.c.,15.0,annual,740168.825161074,True
+usda_census_qs,sweet corn,maize,Maize (corn),2.0,annual,713957.3361287339,True
+usda_census_qs,lettuce,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,702601.452328572,False
+usda_census_qs,grasses,aggregate,,,aggregate,670741.7657908378,False
+usda_census_qs,tomatoes,tomato,Tomatoes,16.0,annual,540887.855728446,False
+usda_census_qs,flaxseed,other_oilseeds,Oil crops n.e.c.,12.0,annual,359525.55715229403,True
+usda_census_qs,tobacco,tobacco,Unmanufactured tobacco,14.0,annual,347337.63967218,False
+usda_census_qs,millet,millet,Millet,6.0,annual,319738.07888778,True
+usda_census_qs,lentils,lentil,"Lentils, dry",15.0,annual,312490.968410844,False
+usda_census_qs,rye,rye,Rye,7.0,annual,248464.034247456,False
+usda_census_qs,popcorn,maize,Maize (corn),2.0,annual,244537.774148772,True
+usda_census_qs,melons,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,231089.66557947,False
+usda_census_qs,onions,onion,"Onions and shallots, dry",16.0,annual,190120.505240316,False
+usda_census_qs,mint,aggregate,,,aggregate,157318.71052800605,False
+usda_census_qs,sweet potatoes,potato,Potatoes,10.0,annual,139350.263337564,True
+usda_census_qs,safflower,other_oilseeds,Oil crops n.e.c.,12.0,annual,137041.936435596,True
+usda_census_qs,chickpeas,chickpea,"Chick peas, dry",15.0,annual,136430.05174489203,False
+usda_census_qs,legumes,unmapped,,,unmapped,133078.84994349,False
+usda_census_qs,broccoli,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,129891.95051274,False
+usda_census_qs,cucumbers,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,124021.175904246,False
+usda_census_qs,mustard,unmapped,,,unmapped,119096.96101239002,False
+usda_census_qs,pumpkins,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,103974.26325649199,False
+usda_census_qs,peppers,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,101878.801002216,False
+usda_census_qs,berry totals,aggregate,,,aggregate,88105.325176746,False
+usda_census_qs,sod,unmapped,,,unmapped,87539.57464923,False
+usda_census_qs,carrots,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,87488.17957269603,False
+usda_census_qs,cabbage,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,85745.19851260199,False
+usda_census_qs,squash,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,80118.854031876,False
+usda_census_qs,spinach,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,66121.991732022,False
+usda_census_qs,wild rice,unmapped,,,unmapped,58918.58730442199,False
+usda_census_qs,hops,noncrop,,,noncrop,54772.17821649,False
+usda_census_qs,asparagus,unmapped,,,unmapped,49921.211425835994,False
+usda_census_qs,garlic,onion,"Onions and shallots, dry",16.0,annual,48205.34430375599,False
+usda_census_qs,triticale,triticale,Triticale,7.0,annual,46720.147997616,False
+usda_census_qs,cauliflower,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,44526.75181797601,False
+usda_census_qs,celery,unmapped,,,unmapped,43015.250945105996,False
+usda_census_qs,greens,unmapped,,,unmapped,42035.507005824,False
+usda_census_qs,"vegetables, other",aggregate,,,aggregate,39760.3643265,False
+usda_census_qs,buckwheat,other_cereals,Cereals n.e.c.,7.0,annual,30468.377300538003,True
+usda_census_qs,herbs,unmapped,,,unmapped,30142.200673086,False
+usda_census_qs,blueberries,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,28360.774477002004,True
+usda_census_qs,strawberries,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,23204.67471228,True
+usda_census_qs,"grasses & legumes, other",aggregate,,,aggregate,18750.299850785996,False
+usda_census_qs,radishes,unmapped,,,unmapped,17153.005621811997,False
+usda_census_qs,beets,unmapped,,,unmapped,16117.819749576,False
+usda_census_qs,cranberries,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,15043.784055707998,True
+usda_census_qs,sesame,sesame,Sesame seed,12.0,annual,14977.820296062,False
+usda_census_qs,raspberries,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,14494.625639513999,True
+usda_census_qs,eggplant,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,11684.893227108001,False
+usda_census_qs,"field crops, other",aggregate,,,aggregate,11109.834929826,False
+usda_census_qs,brussels sprouts,unmapped,,,unmapped,10777.588017744,False
+usda_census_qs,sweet rice,unmapped,,,unmapped,9911.560743864,False
+usda_census_qs,okra,vegetables,"Vegetables, fresh n.e.c.",16.0,annual,9418.248946266001,False
+usda_census_qs,guar,unmapped,,,unmapped,8728.259926656,False
+usda_census_qs,turnips,unmapped,,,unmapped,8404.916098698,False
+usda_census_qs,emmer & spelt,unmapped,,,unmapped,7663.532002554,False
+usda_census_qs,hemp,spices,Spices n.e.c.,26.0,annual,7584.618302363999,False
+usda_census_qs,artichokes,unmapped,,,unmapped,7090.901819124001,False
+usda_census_qs,parsley,unmapped,,,unmapped,6773.223590154001,False
+usda_census_qs,miscanthus,unmapped,,,unmapped,5812.499876046,False
+usda_census_qs,short term woody crops,aggregate,,,aggregate,5470.5405085560005,False
+usda_census_qs,blackberries,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,4457.2076609880005,True
+usda_census_qs,rhubarb,unmapped,,,unmapped,4389.220473132001,False
+usda_census_qs,crambe,unmapped,,,unmapped,3591.180387108,False
+usda_census_qs,escarole & endive,unmapped,,,unmapped,3472.6074940020007,False
+usda_census_qs,gourds,unmapped,,,unmapped,3007.219005702,False
+usda_census_qs,daikon,unmapped,,,unmapped,2938.8271322040005,False
+usda_census_qs,camelina,unmapped,,,unmapped,1727.6030056980003,False
+usda_census_qs,horseradish,unmapped,,,unmapped,1724.365520562,False
+usda_census_qs,ginseng,unmapped,,,unmapped,1509.882130302,False
+usda_census_qs,"vegetables, mixed",aggregate,,,aggregate,1402.23574953,False
+usda_census_qs,taro,other_roots,Roots and tubers n.e.c.,10.0,annual,1229.434980396,True
+usda_census_qs,chicory,unmapped,,,unmapped,1058.25295383,False
+usda_census_qs,ginger root,spices,Spices n.e.c.,26.0,annual,999.168850098,False
+usda_census_qs,dill,unmapped,,,unmapped,899.6161821660002,False
+usda_census_qs,parsnips,unmapped,,,unmapped,642.640799496,False
+usda_census_qs,jojoba,unmapped,,,unmapped,562.9177280220001,False
+usda_census_qs,watercress,unmapped,,,unmapped,526.900705884,False
+usda_census_qs,boysenberries,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,442.726092348,True
+usda_census_qs,switchgrass,unmapped,,,unmapped,239.169214422,False
+usda_census_qs,"berries, other",aggregate,,,aggregate,176.84762555400002,False
+usda_census_qs,rapeseed,rapeseed,Rape or colza seed,12.0,annual,156.613343454,True
+usda_census_qs,currants,unmapped,,,unmapped,118.977578748,False
+usda_census_qs,loganberries,other_perennial,Other permanent crops n.e.c.,24.0,perennial_woody,70.010616066,True
+usda_census_qs,pineapples,pineapple,Pineapples,20.0,perennial_nonwoody,40.873249842,False
+usda_census_qs,amaranth,unmapped,,,unmapped,4.04685642,False
+usda_census_qs,pimientos,unmapped,,,unmapped,4.04685642,False
+usda_census_qs,lotus root,unmapped,,,unmapped,1.214056926,False

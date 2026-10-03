@@ -1,0 +1,23 @@
+id,axis,variant,role
+M1,exposure,irr_share(SPAM zonal),primary
+M2,exposure,irr_share(USDA reported),sensitivity
+M3,exposure,perennial_strict,secondary
+M4,exposure,perennial_broad,sensitivity
+M5,mismatch,portfolio mismatch_T,primary
+M6,mismatch,dominant-crop mismatch_T,sensitivity
+M7,mismatch,mismatch_P,sensitivity
+M8,outcome,JSD,primary
+M9,outcome,L1,sensitivity
+M10,outcome,delta_HHI,sensitivity
+M11,outcome,dominant replacement,sensitivity
+M12,crop_set,PRIMARY,primary
+M13,crop_set,EXTENDED,sensitivity
+M14,estimator,OLS+country FE+block bootstrap,primary
+M15,estimator,fractional logit + country FE,sensitivity
+M16,estimator,area-weighted OLS,sensitivity
+M17,inference,within-country bootstrap,primary
+M18,inference,country CRVE,benchmark
+M19,sample,full locked,primary
+M20,sample,drop US,sensitivity
+M21,sample,A-grade sources only,sensitivity
+M22,sample,GADM-matched only,sensitivity

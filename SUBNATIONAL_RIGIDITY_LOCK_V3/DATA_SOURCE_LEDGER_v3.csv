@@ -1,0 +1,22 @@
+dataset,version,url,downloaded_utc,path,sha256_note
+HarvestStat Africa,v1.2,github HarvestStat-Africa public,2026-10-03,data/raw/subnat/hvstat_africa_data_v1.2.csv,see data/raw checksums
+HarvestStat boundaries,v1.2,same,2026-10-03,data/raw/subnat/hvstat_africa_boundary_v1.2.gpkg,-
+FAO subnational stats,2024,data.apps.fao.org CKAN,2026-10-03,data/raw/subnat/fao_subnational_stats.csv,-
+Eurostat apro_cpshr,2026-10-03 pull,Eurostat SDMX TSV,2026-10-03,data/raw/subnat/apro_cpshr.tsv.gz,-
+Eurostat apro_cpsh1,2026-10-03 pull,same,2026-10-03,data/raw/subnat/apro_cpsh1.tsv.gz,-
+StatCan 32-10-0359,2026-09-16 table,statcan WDS csv zip,2026-10-03,data/raw/subnat/statcan_32100359.zip,-
+USDA Census 2002,qs.census2002,data.nass.usda.gov/datasets,2026-10-03,data/raw/subnat/qs.census2002.txt.gz,-
+USDA Census 2022,qs.census2022,same,2026-10-03,data/raw/subnat/qs.census2022.txt.gz,-
+IBGE PAM 2002 UF,2003 files,ftp.ibge.gov.br,2026-10-03,data/raw/subnat/ibge_pam_uf_2002.zip,-
+IBGE PAM 2016,2019 revision files,same,2026-10-03,data/raw/subnat/ibge_pam_2016.zip,-
+GADM 4.1 levels,4.1,geodata.ucdavis.edu,2026-10-03,data/raw/gadm_410-levels.zip,-
+NUTS 2021 geojson,RG 20M,gisco-services.ec.europa.eu,2026-10-03,data/raw/subnat/nuts2021_l1_l2.geojson,-
+NASA POWER monthly,per unit centroid,power.larc.nasa.gov,2026-10-03,data/raw/power_subnat/*.json,-
+MIRCA2000 CCC,v1.1,previously persisted,-,data/raw/mirca/condensed_cropping_calendars,-
+MapSPAM 2010,v2r0,previously persisted,-,data/raw/mapspam/spam2010v2r0_global_harv_area.geotiff.zip,-
+MapSPAM 2000 v3.0.7 harvested-area GeoTIFFs,v3.0.7,https://www.mapspam.info/download-method/,2026-10-02,data/raw/mapspam/spam2000v3.0.7_global_harvested-area.geotiff.zip,3dd98e878d89656d (extracted _A/_I in data/raw/mapspam/spam2000_H/)
+GISCO NUTS 2016 L1,NUTS_RG_60M_L1,https://gisco-services.ec.europa.eu/distribution/v2/nuts/,2026-10-03,data/raw/subnat/nuts2016_l1.geojson,a2d0079cc3de6629925ddab1442ee6f5629a19e48caba681bf525bf37d16428f
+GISCO NUTS 2016 L2,NUTS_RG_60M_L2,https://gisco-services.ec.europa.eu/distribution/v2/nuts/,2026-10-03,data/raw/subnat/nuts2016_l2.geojson,4de91bc2bd4a231377be8532ed653da356c07d4b47d965665ecc21e354a8f500
+GISCO NUTS 2010 L1,NUTS_RG_60M_L1,https://gisco-services.ec.europa.eu/distribution/v2/nuts/,2026-10-03,data/raw/subnat/nuts2010_l1.geojson,4b1be45bf112ff990028b932036c188d7a93fa250f9778a32592c249efa939d9
+GISCO NUTS 2010 L2,NUTS_RG_60M_L2,https://gisco-services.ec.europa.eu/distribution/v2/nuts/,2026-10-03,data/raw/subnat/nuts2010_l2.geojson,aa65031914478e8fdc0b939d093775a762a35839a5afcd1177d6e9c74434a7a1
+NASA POWER monthly (additional 11 unit centroids),AG monthly 1998-2024,https://power.larc.nasa.gov/api/temporal/monthly/point,2026-10-03,data/raw/power_subnat/,per-file

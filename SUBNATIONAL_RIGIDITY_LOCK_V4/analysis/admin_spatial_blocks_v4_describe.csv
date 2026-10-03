@@ -1,0 +1,4 @@
+scheme,n_blocks,units_per_block_med,units_per_block_max,singleton_blocks,countries_crossed
+block_grid10,59,4.0,36,18,15
+block_grid15,43,4.0,58,8,16
+block_km,67,5.0,12,3,0

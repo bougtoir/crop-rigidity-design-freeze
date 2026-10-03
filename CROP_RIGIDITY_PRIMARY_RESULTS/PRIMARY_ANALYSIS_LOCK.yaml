@@ -1,0 +1,50 @@
+study_version: crop-rigidity-final-lock-1.0
+lock_date: "2026-10-03"
+primary_sample_definition: >-
+  analysis/primary_sample_preoutcome.csv — countries with valid
+  corrected-taxonomy crop mix (>=10yrs per window, >=4 crops), mapped
+  ISO3 + UN M49 region/subregion, and finite dominant-crop
+  crop-calendar mismatch. N = 147.
+legacy_window: "1981-2001"
+footprint_source: SPAM2000 v3.0.7 (avg 1999-2001), dbf-csv pixel table
+climate_baseline_window: "1984-2001 (NASA POWER monthly; data floor)"
+exposure_window: "2002-2020"
+outcome_window: "crop mix 2002-2020 vs 1981-2001"
+legacy_variable: hhi (corrected taxonomy, harvested-area shares, FAOSTAT)
+exposure_variable: >-
+  dominant-crop Mahalanobis climatic mismatch, MIRCA2000 v1.1
+  crop-calendar growing months (rainfed+irrigated union), baseline
+  1984-2001 vs exposure 2002-2020, Ledoit-Wolf common-rule covariance
+  (mismatch_diagnostics_v3.mismatch_calendar)
+outcome_variable: jsd (Jensen-Shannon distance, corrected taxonomy)
+primary_model_family: >-
+  fractional logit (GLM binomial, quasi-likelihood) on y = jsd/sqrt(ln2)
+interaction_term: hhi:mismatch (both standardized)
+covariates: [intercept, hhi, mismatch]
+primary_inference_method: >-
+  M49-subregion cluster bootstrap (pairs bootstrap, percentile two-sided
+  95% CI), validated under spatially correlated simulation
+bootstrap_repetitions: 999
+random_seed: 20261003
+two_sided_alpha: 0.05
+missing_data_rule: >-
+  complete-case on the frozen sample; no imputation; attrition reported
+  per 01_PRIMARY_SAMPLE_FLOW.csv
+portfolio_coverage_rule: >-
+  portfolio-weighted robustness exposures require share_coverage >= 0.70
+  (sensitivities 0.50 / 0.80); below-threshold values are NA
+primary_effect_contrasts:
+  - marginal effect of +1 SD mismatch at HHI P25 / P50 / P75 (JSD scale)
+  - Delta_ME = ME(HHI P75) - ME(HHI P25) with bootstrap 95% CI
+lagged_sensitivity_definition: >-
+  legacy 1981-2000, exposure 2001-2010, transformation 2011-2020
+  (pre-specified secondary; also the 1981-2000/2001-2020 full ladder)
+robustness_exposures:
+  - thermal-season climatic displacement (>5C rule; renamed, not primary)
+  - portfolio calendar mismatch under coverage rule
+robustness_outcomes:
+  - delta_hhi (change in concentration)
+  - dominant-crop replacement indicator (binary, exploratory only)
+notes: >-
+  No full-analysis script may modify this file. SHA-256 recorded in
+  PRIMARY_ANALYSIS_LOCK.sha256.

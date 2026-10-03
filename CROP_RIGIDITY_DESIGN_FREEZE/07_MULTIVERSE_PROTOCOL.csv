@@ -1,0 +1,22 @@
+spec_id,role,legacy_measure,mismatch_measure,outcome,time_windows,model,fixed_effects,notes
+P1,primary,HHI,mahalanobis dominant-crop niche,JSD crop-mix,legacy 1981-2000 / exposure+outcome 2001-2020,fractional logit HC2,region,estimand beta3 on Mismatch x Legacy
+S01,sensitivity,HHI,mahalanobis dominant-crop niche,JSD crop-mix,primary windows,OLS HC2,region,transparent linear companion
+S02,sensitivity,HHI,mahalanobis dominant-crop niche,JSD crop-mix,primary windows,fractional logit,region+latitude decile,richer geography control
+S03,sensitivity,entropy,mahalanobis dominant-crop niche,JSD crop-mix,primary windows,fractional logit,region,alt legacy (reversed sign)
+S04,sensitivity,top1 share,mahalanobis dominant-crop niche,JSD crop-mix,primary windows,fractional logit,region,alt legacy
+S05,sensitivity,top3 share,mahalanobis dominant-crop niche,JSD crop-mix,primary windows,fractional logit,region,alt legacy
+S06,sensitivity,HHI,standardized T anomaly,JSD crop-mix,primary windows,fractional logit,region,alt mismatch
+S07,sensitivity,HHI,standardized P anomaly,JSD crop-mix,primary windows,fractional logit,region,alt mismatch
+S08,sensitivity,HHI,extreme-heat exceedance,JSD crop-mix,primary windows,fractional logit,region,alt mismatch
+S09,sensitivity,HHI,SPEI-12 drought-frequency change,JSD crop-mix,primary windows,fractional logit,region,alt mismatch
+S10,sensitivity,HHI,GAEZ suitability loss dominant crop,JSD crop-mix,primary windows,fractional logit,region,alt mismatch (model-based)
+S11,sensitivity,HHI,mahalanobis dominant-crop niche,dominant-crop replacement,primary windows,logit,region,binary secondary outcome
+S12,sensitivity,HHI,mahalanobis dominant-crop niche,delta HHI,primary windows,OLS HC2,region,alternative continuous outcome
+S13,sensitivity,HHI,mahalanobis dominant-crop niche,emergence binary,primary windows,logit,region,rare outcome - low power expected
+T10,sensitivity,HHI,mahalanobis dominant-crop niche,JSD crop-mix,legacy 1981-2000 / outcome 2001-2010,fractional logit,region,10-year outcome window
+T30,sensitivity,HHI,mahalanobis dominant-crop niche,JSD crop-mix,legacy 1971-1990 / outcome 1991-2020,fractional logit,region,shifted windows (30-year outcome)
+T40,sensitivity,HHI,mahalanobis dominant-crop niche,JSD crop-mix,legacy 1961-1980 / outcome 1981-2000,fractional logit,region,earlier-era placebo-adjacent window
+M01,sensitivity,HHI,mahalanobis dominant-crop niche,JSD crop-mix,primary windows,fractional logit,region,exclude countries with <4 crops or <10 yr reporting (already applied) PLUS exclude bottom-decile FAO coverage
+M02,sensitivity,HHI,mahalanobis dominant-crop niche,JSD crop-mix,primary windows,fractional logit,region,weighted by total harvested area
+M03,sensitivity,HHI,mahalanobis dominant-crop niche,JSD crop-mix,primary windows,fractional logit,region,inertia (1961-1980 disjoint) added as control
+B01,validation,HHI,mahalanobis dominant-crop niche,JSD crop-mix (MapSPAM 2005-2010 grids aggregated to ADM1),MapSPAM epochs,fractional logit,region,Design-B cross-check of country-level JSD

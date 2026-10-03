@@ -1,0 +1,170 @@
+item_code,item_name,spam_crop,crosswalk_status
+15,Wheat,WHEA,mapped
+27,Rice,RICE,mapped
+44,Barley,BARL,mapped
+56,Maize,MAIZ,mapped
+71,Rye,OTHE,mapped
+75,Oats,OTHE,mapped
+79,Millet,MILL,mapped
+83,Sorghum,SORG,mapped
+89,Buckwheat,OTHE,mapped
+92,Quinoa,OTHE,mapped
+94,Fonio,OTHE,mapped
+97,Triticale,OTHE,mapped
+101,Canary seed,OTHE,mapped
+103,Mixed grains,OTHE,mapped
+108,Cereals n.e.c.,OTHE,mapped
+116,Potatoes,POTA,mapped
+122,Sweet potatoes,SWPY,mapped
+125,Cassava,CASS,mapped
+135,Yautia,SWPY,mapped
+136,Taro,SWPY,mapped
+137,Yams,SWPY,mapped
+149,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",SWPY,mapped
+156,Sugar cane,SUGC,mapped
+157,Sugar beet,SUGB,mapped
+161,Other sugar crops n.e.c.,OTHE,mapped
+176,"Beans, dry",BEAN,mapped
+181,Broad beans,BEAN,mapped
+187,"Peas, dry",OPUL,mapped
+191,Chickpeas,OPUL,mapped
+195,Cow peas,OPUL,mapped
+197,Pigeon peas,OPUL,mapped
+201,Lentils,OPUL,mapped
+203,"Bambara beans, dry",OPUL,mapped
+205,Vetches,OPUL,mapped
+210,Lupins,OPUL,mapped
+211,Other pulses n.e.c.,OPUL,mapped
+217,Cashew nuts,OTHE,mapped
+220,Chestnut,OTHE,mapped
+221,Almonds,OTHE,mapped
+222,Walnuts,OTHE,mapped
+223,Pistachios,OTHE,mapped
+224,Kola nuts,OTHE,mapped
+225,Hazelnuts,OTHE,mapped
+226,Areca nuts,OTHE,mapped
+234,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",OTHE,mapped
+236,Soybeans,SOYB,mapped
+242,Groundnuts,GROU,mapped
+249,Coconuts,OOIL,mapped
+254,Palm fruit oil,OOIL,mapped
+260,Olives,OOIL,mapped
+263,Karite nuts,OOIL,mapped
+265,Castor oil seed,OOIL,mapped
+267,Sunflower seed,OOIL,mapped
+270,Rapeseed,OOIL,mapped
+275,Tung nuts,OOIL,mapped
+277,Jojoba seeds,OOIL,mapped
+280,Safflower seed,OOIL,mapped
+289,Sesame seed,OOIL,mapped
+292,Mustard seed,OOIL,mapped
+296,Poppy seeds,OOIL,mapped
+299,Melonseed,OOIL,mapped
+305,Tallowtree seeds,OOIL,mapped
+310,Kapok fruit,OOIL,mapped
+328,Seed cotton,COTT,mapped
+333,Linseed,OOIL,mapped
+336,Hempseed,OOIL,mapped
+339,"Other oil seeds, n.e.c.",OOIL,mapped
+358,Cabbages,OTHE,mapped
+366,Artichokes,OTHE,mapped
+367,Asparagus,OTHE,mapped
+372,Lettuce,OTHE,mapped
+373,Spinach,OTHE,mapped
+378,Cassava leaves,CASS,mapped
+388,Tomatoes,OTHE,mapped
+393,Cauliflowers and broccoli,OTHE,mapped
+394,"Pumpkins, squash and gourds",OTHE,mapped
+397,Cucumbers and gherkins,OTHE,mapped
+399,Eggplants,OTHE,mapped
+401,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",OTHE,mapped
+402,"Onions and shallots, green",OTHE,mapped
+403,Onions,OTHE,mapped
+406,Garlic,OTHE,mapped
+407,Leeks,OTHE,mapped
+414,"Beans, green",BEAN,mapped
+417,"Peas, green",OPUL,mapped
+420,"Broad beans and horse beans, green",BEAN,mapped
+423,String beans,BEAN,mapped
+426,Carrots and turnips,OTHE,mapped
+430,Okra,OTHE,mapped
+446,Green maize,MAIZ,mapped
+459,Chicory roots,OTHE,mapped
+461,Locust beans (carobs),OTHE,mapped
+463,"Other vegetables, fresh n.e.c.",OTHE,mapped
+486,Bananas,BANP,mapped
+489,Plantains,BANP,mapped
+490,Oranges,OTHE,mapped
+495,Tangerines,OTHE,mapped
+497,Lemons and limes,OTHE,mapped
+507,Grapefruit,OTHE,mapped
+512,"Other citrus fruit, n.e.c.",OTHE,mapped
+515,Apples,OTHE,mapped
+521,Pears,OTHE,mapped
+523,Quinces,OTHE,mapped
+526,Apricots,OTHE,mapped
+530,Sour cherries,OTHE,mapped
+531,Cherries,OTHE,mapped
+534,Peaches and nectarines,OTHE,mapped
+536,Plums,OTHE,mapped
+541,Other stone fruits,OTHE,mapped
+542,Other pome fruits,OTHE,mapped
+544,Strawberries,OTHE,mapped
+547,Raspberries,OTHE,mapped
+549,Gooseberries,OTHE,mapped
+550,Currants,OTHE,mapped
+552,Blueberries,OTHE,mapped
+554,Cranberries,OTHE,mapped
+558,Other berries and fruits of the genus vaccinium n.e.c.,OTHE,mapped
+560,Grapes,OTHE,mapped
+567,Watermelons,OTHE,mapped
+568,Melon,OTHE,mapped
+569,Figs,OTHE,mapped
+571,Mangoes,OTHE,mapped
+572,Avocados,OTHE,mapped
+574,Pineapples,OTHE,mapped
+577,Dates,OTHE,mapped
+587,Persimmons,OTHE,mapped
+591,Cashewapple,OTHE,mapped
+592,Kiwi,OTHE,mapped
+600,Papayas,OTHE,mapped
+603,"Other tropical fruits, n.e.c.",OTHE,mapped
+619,"Other fruits, n.e.c.",OTHE,mapped
+656,"Coffee, green",COFF,mapped
+661,Cocoa beans,OTHE,mapped
+667,Tea,OTHE,mapped
+671,Maté leaves,OTHE,mapped
+677,Hop cones,OTHE,mapped
+687,Pepper,OTHE,mapped
+689,Chillies and peppers,OTHE,mapped
+692,"Vanilla, raw",OTHE,mapped
+693,"Cinnamon and cinnamon-tree flowers, raw",OTHE,mapped
+698,"Cloves (whole stems), raw",OTHE,mapped
+702,"Nutmeg, mace, cardamoms, raw",OTHE,mapped
+711,Herbs,OTHE,mapped
+720,"Ginger, raw",OTHE,mapped
+723,"Other stimulant, spice and aromatic crops, n.e.c.",OTHE,mapped
+748,"Peppermint, spearmint",OTHE,mapped
+754,"Pyrethrum, dried flowers",OTHE,mapped
+771,"Flax, raw or retted",OFIB,mapped
+777,"True hemp, raw or retted",OFIB,mapped
+780,Jute,OFIB,mapped
+782,"Kenaf, and other textile bast fibres, raw or retted",OFIB,mapped
+788,"Ramie, raw or retted",OFIB,mapped
+789,"Sisal, raw",OFIB,mapped
+800,"Agave fibres, raw, n.e.c.",OFIB,mapped
+809,"Abaca, manila hemp, raw",OFIB,mapped
+821,Fibre crops,none,no SPAM class
+826,Tobacco,OTHE,mapped
+836,Natural rubber in primary forms,OTHE,mapped
+1717,Cereals,none,no SPAM class
+1720,Roots and tubers,none,no SPAM class
+1723,Sugar crops,none,no SPAM class
+1726,Pulses,none,no SPAM class
+1729,Treenuts,none,no SPAM class
+1732,"Oilcrops, Oil Equivalent",OOIL,mapped
+1735,Vegetables,none,no SPAM class
+1738,Fruit,none,no SPAM class
+1804,Citrus Fruit,none,no SPAM class
+1841,"Oilcrops, Cake Equivalent",none,no SPAM class
+17530,"Fibre Crops, Fibre Equivalent",none,no SPAM class

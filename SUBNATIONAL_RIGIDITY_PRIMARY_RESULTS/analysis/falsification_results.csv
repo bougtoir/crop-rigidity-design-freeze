@@ -1,0 +1,8 @@
+test_id,test,interaction,ci_lo,ci_hi,p_value,pre_or_post,notes
+F1_wrong_climate,precipitation mismatch substituted for thermal,-0.01943069496144942,-0.13351785150394385,0.1806086279564873,0.4444444444444444,pre,N=326
+F2_spatial_shift,mismatch shifted to neighbouring unit,-0.07678768210166309,-0.31605127713207903,0.06536517489250283,0.35435435435435436,pre,
+F3_alt_irrigation,MIRCA2000 irrigation share,0.032424382392870287,-0.26948346185770894,0.4186794039014316,0.6466466466466466,pre,N=258
+F4_sparse_excl,exclude below-median crop-reporting units,-0.029980914999700552,-0.3872428576333161,0.0660405637969598,0.42242242242242245,post,N=228
+F5_alt_outcome_metric,L1 outcome instead of JSD,-0.09419253184582388,-0.5167410207942625,0.200594102063035,0.3063063063063063,post,
+F6_null_permutation,mismatch permuted across all units (999x),0.00036055623530985363,-0.1607532464452912,0.15464979490230357,0.6346346346346347,pre,observed b3=-0.0377; permuted mean/null-p shown
+F7_scope,NUTS2 scope sensitivity - see ROBUSTNESS_LEDGER,,,,,pre,deferred to R5
